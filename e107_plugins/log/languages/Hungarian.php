@@ -61,7 +61,7 @@ define("ADSTAT_L49", "Rendezés betű szerint");
 define("ADSTAT_L50", "Összes");
 define("ADSTAT_L51", "Aktuális havi statisztika");
 define("ADSTAT_L52", "Előző havi statisztika");
-define("ADSTAT_L53", "");
+define("ADSTAT_L53", "Információ"); 
 define("ADSTAT_L54", "");
 define("ADSTAT_L55", "");
 define("ADSTAT_L56", "");

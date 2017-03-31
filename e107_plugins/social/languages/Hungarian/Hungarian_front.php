@@ -20,3 +20,8 @@ define("LAN_SOCIAL_200",  "Nem lehet megjeleníteni a hírfolyamot! A Twitter UR
 define("LAN_SOCIAL_201",  "Tweet bejegyzései");
 define("LAN_SOCIAL_202",  "Közzététel a Twitter-en");
 define("LAN_SOCIAL_203",  "Tweet üzenet írása.");
+define("LAN_SOCIAL_204",  "Megosztás");
+define("LAN_SOCIAL_205",  "A hozzászólásokat nem lehet betölteni! Hiányzik a Facebook appID.");
+define("LAN_SOCIAL_WARNING", "A Facebook hozzászólásokhoz szükséges egy facebook App ID.<br>Lépjen a 'Regisztráció/bejelentkezés' területre az admin felület=> beállításoknál.");
+
+?>

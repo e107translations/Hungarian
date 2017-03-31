@@ -37,7 +37,8 @@ define("DOWLAN_23", "Fájltípusok");
 define("DOWLAN_24", "Letöltés frissítése");
 define("DOWLAN_25", "Letöltés beküldése");
 define("DOWLAN_27", "Letöltés");
-define("DOWLAN_28", "Egyik sem");
+
+define("DOWLAN_29", "Letöltve");
 define("DOWLAN_31", "Kategóriák");
 define("DOWLAN_32", "Letöltések");
 define("DOWLAN_33", "Biztos vagy benne, hogy törölni szeretnéd ezt a letöltést?");

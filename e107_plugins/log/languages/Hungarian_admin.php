@@ -85,13 +85,13 @@ define("ADSTAT_LAN_80", "Az alábbi oldalak törölve lettek:");
 define("ADSTAT_LAN_81", "Statisztika törölve:");
 define("ADSTAT_LAN_82", "Következő értékek nincsenek beállítva:");
 define("ADSTAT_LAN_83", "A következő napló ID bejegyzések eltávolítása:");
-define("ADSTAT_LAN_84", "Ez az eljárás felülírja a napló statisztikát az adatbázisban.
-(Az eredeti naplófájlok változatlanok maradnak)
-Ha lecseréli, akkor az adatokat nem lehet visszaállítani.
-Kérjük, először mentse vagy exportálja az adatbázist.");
-define("ADSTAT_LAN_85", "[x] naplófájl található.
+define("ADSTAT_LAN_84", "Ez az eljárás felülírja a napló statisztikát az adatbázisban. (Az eredeti naplófájlok változatlanok maradnak)<br />Ha lecseréli, akkor az adatokat nem lehet visszaállítani.<br />Kérjük, először mentse vagy exportálja az adatbázist.");
+define("ADSTAT_LAN_85", "Összesen [x] naplófájl található.
 Kattintson az alábbi gombra, a fájlok feldolgozásához.");
 define("ADSTAT_LAN_86", "Összes Találat");
-
-
+define("ADSTAT_LAN_87", "Összesítés Újraépítése");
+define("ADSTAT_LAN_88", "Statisztika Újraépítése"); 
+define("ADSTAT_LAN_89", "Újraépítés");  
+define("ADSTAT_LAN_90", "Az adatok mentve! Azonosító:"); 
+define("ADSTAT_LAN_91", "Az adatokat nem lehet elmenteni! Azonosító:"); 
 ?>

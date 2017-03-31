@@ -13,3 +13,5 @@ define("LAN_PLUGIN_SOCIAL_DESCR",  "Hozzáadja és felcseréli az e107 hozzász�
 define("LAN_PLUGIN_SOCIAL_SIGNIN",  "Regisztráció ezzel:");
 define("LAN_PLUGIN_SOCIAL_XUP_SIGNUP", "Regisztráció a [x] fiókkal"); 
 define("LAN_PLUGIN_SOCIAL_XUP_REG", "Regisztráció a [x] fiókkal");
+define("LAN_PLUGIN_SOCIAL_NAME", "Közösség");
+?>

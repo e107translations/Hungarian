@@ -7,6 +7,8 @@
 |        Last Modified: 2016/02/25 10:26:44
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
 +---------------------------------------------------------------+
 */
 if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Időzített Feladatok"); }
@@ -29,7 +31,7 @@ define("LAN_CRON_05_2", "Adatbázis mentés ide");
 define("LAN_CRON_6", "Nem lehet importálni a beállításokat");
 define("LAN_CRON_7", "Nem lehet importálni a idő beállításokat");
 define("LAN_CRON_8", "Importált idő beállítások ehhez");
-define("LAN_CRON_9", "[x] perce és [y] másodperce.");
+define("LAN_CRON_9", "[x] perce, [y] másodperce.");
 define("LAN_CRON_10", "[y] perce.");
 define("LAN_CRON_11", "Aktív feladatok");
 define("LAN_CRON_12", "Legutolsó cron frissítés");
@@ -43,7 +45,6 @@ define("LAN_CRON_20_3", "Javasolt a rendszer naprakészen tartása.");
 define("LAN_CRON_20_4", "Frissítés a Git adattárból");
 define("LAN_CRON_20_5", "e107 telepítő frissítése a legújabb fájlokkal a github-ról.");
 define("LAN_CRON_20_6", "Csak a fejlesztőknek javasolt.");
-define("LAN_CRON_20_7", "Figyelmeztetés!");
 define("LAN_CRON_20_8", "A rendszer instabilitását okozhatja!");
 define("LAN_CRON_30", "Minden percben");
 define("LAN_CRON_31", "Minden második percben");

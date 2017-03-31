@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/10/15 18:38:21
+|        Last Modified: 2016/02/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 define ("EPL_ADLAN_0", "Telepítés");
@@ -29,7 +31,6 @@ define ("EPL_ADLAN_16", "Bővítmény részletezése");
 define ("EPL_ADLAN_17", "További infó...");
 define ("EPL_ADLAN_18", "Sikertelen adatbázis táblák létrehozása!");
 define ("EPL_ADLAN_19", "Az adatbázis sikeresen létrehozva!");
-
 define ("EPL_ADLAN_21", "A bővítmény már telepítve van.");
 define ("EPL_ADLAN_22", "Telepítve");
 define ("EPL_ADLAN_23", "Nincs telepítve");
@@ -64,7 +65,6 @@ define ("EPL_WEBSITE", "Weboldal");
 define ("EPL_NOINSTALL", "Nincs szükség telepítésre, csak aktiváld a a menükezelő területről. Az eltávolításhoz töröld a ");
 define ("EPL_DIRECTORY", "könyvtárt.");
 define ("EPL_NOINSTALL_1", "Nincs szükség telepítésre, az eltávolításhoz töröld a ");
-
 define ("EPL_UPGRADE", "Frissítés erre:");
 
 define ("EPL_ADLAN_50", "A hozzászólások sikeresen törölve");
@@ -234,9 +234,9 @@ define ('EPL_ADLAN_222',"Bővítmény állományai");
 define ('EPL_ADLAN_223',"Használatban");
 define ('EPL_ADLAN_224',"Használaton kívül");
 define ('EPL_ADLAN_225',"Bizonytalan");
-define ('EPL_ADLAN_226',"Bővítmény nyelvi-fájl ellenőrzése");
+define ('EPL_ADLAN_226',"Bővítmény nyelvi-fájlok ellenőrzése");
 define ('EPL_ADLAN_227',"Változások ellenőrzése");
-define ('EPL_ADLAN_228',"A bővítmények könyvtárának ellenőrzése minden [x]. percben megtörténik.<br />Kattints az alábbi gombra az azonnali ellenőrzéshez.");
+define ('EPL_ADLAN_228',"A bővítmények könyvtárának ellenőrzése minden [x]. percben megtörténik.<br />Kattints a 'Frissítés' gombra az azonnali ellenőrzéshez.");
 define ('EPL_ADLAN_229',"Frissítés");
 define ('EPL_ADLAN_230',"Letöltés és telepítés: ");
 define ('EPL_ADLAN_231',"Ikonok törlése a Média kezelőből"); 
@@ -260,6 +260,7 @@ define ('EPL_ADLAN_249',"Hozzáadott Kiterjesztett Mező: ");
 define ('EPL_ADLAN_250',"Törölt Kiterjesztett Mező: ");  
 define ('EPL_ADLAN_251',"Kiterjesztett Mező maradt itt: ");  
 define ('EPL_ADLAN_252',"Jog: ");  
+define ('EPL_ADLAN_253',"Befejezve!");
 
 define ('TPVLAN_81',"Letöltés..."); 
 define ('TPVLAN_82',"A letöltés befejezve!");
@@ -274,3 +275,4 @@ define ('LAN_INSTALL_SUCCESSFUL', "Sikeres telepítés");
 define ('LAN_INSTALL_FAIL', "Sikertelen telepítés");
 define ('LAN_UNINSTALL_FAIL', "Nem lehet eltávolítani!");
 define ('LAN_PLUGIN_IS_USED', "A(z) [x] plugin-t használja:");
+?>

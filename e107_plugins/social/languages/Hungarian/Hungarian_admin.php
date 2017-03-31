@@ -49,3 +49,8 @@ define("LAN_SOCIAL_ADMIN_35", "Világos");
 define("LAN_SOCIAL_ADMIN_36", "Sötét");
 define("LAN_SOCIAL_ADMIN_37", "Graph Meta Megnyitása");
 define("LAN_SOCIAL_ADMIN_38", "Hatáskör");
+define("LAN_SOCIAL_ADMIN_39", "Szolgáltatások");
+define("LAN_SOCIAL_ADMIN_40", "Felhasználó Megjelenő Név Frissítése");
+define("LAN_SOCIAL_ADMIN_41", "Felhasználó Avatar Frissítése");
+define("LAN_SOCIAL_ADMIN_42", "Egyéni Kép");
+?>

@@ -7,6 +7,8 @@
 |        Last Modified: 2016/10/13 07:34:21
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
 +---------------------------------------------------------------+
 */
 define("FC_LAN_1", "Fájl Ellenőrző");
@@ -75,7 +77,7 @@ helyett, akkor tapasztalhatod, hogy sok fájl integritás ellenőrzése hibás l
 módosította a fejlesztő csapat az adott fájlt.");
 define("FR_LAN_19", "hibás fájlok");
 define("FR_LAN_20", "Összes fájl ellenőrizve");
-define("FR_LAN_21", "nincs");
+
 define("FR_LAN_22", "Hiányzó core fájlok");
 define("FR_LAN_23", "Nincs találat.");
 define("FR_LAN_24", "Elavult core fájlok");
@@ -102,3 +104,4 @@ define("FS_LAN_9", "Pillanatkép");
 define("FS_LAN_10", "Pillanatkép kész");
 define("FS_LAN_11", "A pillanatkép sikeresen létrehozva.");
 define("FS_LAN_12", "Vissza a főoldalra");
+?>

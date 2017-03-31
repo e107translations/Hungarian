@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:14:00
+|        Last Modified: 2016/02/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 define("TPVLAN_1", "Ez a(z) <b>'".PREVIEWTHEMENAME."'</b> sablon előnézete.
 Ez nem az oldalad sablonja, csak azt mutatja meg, hogyan nézne ki a weboldal ezzel a sablonnal.
@@ -44,7 +46,7 @@ define("TPVLAN_33", "A weboldal sablonja");
 define("TPVLAN_34", "Adminisztrációs sablon");
 define("TPVLAN_35", "Beállítások mentése");
 define("TPVLAN_36", "Admin üzenet");
-define("TPVLAN_37", "A sablon beállítások elmentve");
+define("TPVLAN_37", "A sablon beállítások sikeresen elmentve!");
 define("TPVLAN_38", "Sablon feltöltése");
 define("TPVLAN_39", "Elérhető sablonok");
 define("TPVLAN_40", "Beállítás adminisztrációs sablonnak");
@@ -77,8 +79,7 @@ define("TPVLAN_68", "Válassza ki a téma mappát");
 define("TPVLAN_69", "Letölthető");
 define("TPVLAN_70", "Előnézet/Demó :");
 define("TPVLAN_71", "Nincs meghatározva");
-define("TPVLAN_72", "Oldalak beállítása amelyek automatikusan használják ezt az elrendezést.
-1 oldal per sor.");
+define("TPVLAN_72", "Oldalak beállítása amelyek automatikusan használják ezt az elrendezést. 1 oldal per sor.");
 define("TPVLAN_73", "Menük aktiválása");
 define("TPVLAN_74", "A következők aktiválása:");
 define("TPVLAN_75", "Ár");
@@ -97,7 +98,10 @@ define("TPVLAN_86", "Az oldal sablont nem lehet megváltoztatni!");
 define("TPVLAN_87", "Sablon Beállítások Beolvasása");
 define("TPVLAN_88", "Konvertálás");
 define("TPVLAN_89", "Az admin műszerfal beállítások alkalmazása az összes adminisztrátor számára");
-define("TPVLAN_90", "Nem lehet csatlakozni! Kérjük, ellenőrizze a tűzfal és/vagy internet kapcsolatát.");
+
+define("TPVLAN_91", "Új sablon létrehozása innen:");
+define("TPVLAN_92", "Új Sablon Mappa:");
+
 
 define("TPVLAN_CONV_1", "1 lépés");
 define("TPVLAN_CONV_2", "2 lépés");
@@ -116,5 +120,6 @@ define("TPVLAN_CONV_12", "A sablon teljes ismertetése (Angol nyelven)");
 define("TPVLAN_CONV_13", "Milyen kategóriába tartozik ez a sablon?");
 define("TPVLAN_CONV_14", "Engedélyezi választható opcióként a stíluslapot a Sablon Kezelőben.");
 define("TPVLAN_CONV_15", "Adja meg a stíluslap nevét");
+define("TPVLAN_CONV_16", "A sablon demo URL címe.");
 
 ?>

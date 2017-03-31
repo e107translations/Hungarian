@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/12/21 09:19:14
+|        Last Modified: 2017/01/15 11:15:43
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 define("MENLAN_1", "Mindenki láthatja");
@@ -28,10 +30,10 @@ define("MENLAN_17", "Mozgatás fel");
 define("MENLAN_18", "Mozgatás le");
 define("MENLAN_19", "Áthelyezés: Terület");
 
-define("MENLAN_22", "Menük inaktíválása");
+define("MENLAN_22", "Menük aktiválása");
 
-define("MENLAN_23", "Mozgatás az aljára");
-define("MENLAN_24", "Mozgatás a tetejére");
+define("MENLAN_23", "Mozgatás alulra");
+define("MENLAN_24", "Mozgatás felülre");
 define("MENLAN_25", "Művelet...");
 
 define("MENLAN_26", "Ez a menü csak a következő oldalakon lesz [b]látható[/b]");
@@ -52,7 +54,7 @@ define("MENLAN_39", "Előre beállított terület");
 define("MENLAN_40", "Menü előbeállítások használata");
 define("MENLAN_41", "Ennek az elrendezésnek az összes menü helyzetét el fogod veszíteni. Még mindig folytatni akarod?");
 define("MENLAN_42", "Egyéni");
-define("MENLAN_43", "Menü előbeállítások aktiválva");
+define("MENLAN_43", "Előre beállított menük aktiválva");
 
 define("MENLAN_44", "Menü paraméterek");
 define("MENLAN_45", "Paraméterek (lekérdezési formátum):");
@@ -69,4 +71,7 @@ define("MENLAN_54", "Sablon Megjelenés");
 define("MENLAN_55", "Menü Megjelenés");
 define("MENLAN_56", "Egyéni Oldalak");
 define("MENLAN_57", "Fogd-és-Vidd Menük");
+define("MENLAN_58", "A Menü Kezelő segítségével, menüket helyezhet el a téma sablonon belül.  A meglévő menüpontok módosításához mutasson az egérrel a módosítandó elemre.");
+define("MENLAN_59", "Terület [x]");
+define("MENLAN_60", "Ez a sablon elavult elemeket használ. Minden [x]HEADER és [x]FOOTER változót el kell távolítani a theme.php fájlból.");
 ?>

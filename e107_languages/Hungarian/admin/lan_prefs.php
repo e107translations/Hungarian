@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/03/19 15:33:52
+|        Last Modified: 2016/02/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 define("PRFLAN_1", "Oldal Információk");
 define("PRFLAN_2", "Oldalnév");
@@ -248,7 +250,7 @@ define("PRFLAN_253", "Konszolidációs script böngésző cache letiltása:");
 
 define("PRFLAN_254", "Kapcsolat információk");
 define("PRFLAN_255", "Fájlfeltöltés");
-define("PRFLAN_256", "További beállítások");
+define("PRFLAN_256", "További Beállítások");
 define("PRFLAN_257", "Javascript Keretrendszer");
 
 define("PRFLAN_258", "Kapcsolattartási űrlap láthatósága");
@@ -267,4 +269,6 @@ define("PRFLAN_270", "Kapcsolat Form Szűrés");
 define("PRFLAN_271", "Szavak vagy kifejezések figyelmen kívűl hagyása. Egy szó vagy kifejezés per sor.");
 define("PRFLAN_272", "Session Élettartam");
 define("PRFLAN_273", "Élettartam másodpercben. 0 = a böngésző bezárásakor.");
+define("PRFLAN_274", "Csoport akik láthatják a kapcsolat űrlapot.");
+define("PRFLAN_275", "Az oldal megtekintése https (SSL) használatával a beállítás módosításához.");
 ?>

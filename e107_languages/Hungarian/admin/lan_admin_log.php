@@ -7,6 +7,8 @@
 |        Last Modified: 2016/10/15 18:38:21
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
 +---------------------------------------------------------------+
 */
 
@@ -79,7 +81,7 @@ define("RL_LAN_092", "Időintervallum");
 define("RL_LAN_093", "(perc)");
 define("RL_LAN_094", "Részletes időzítés elemzés");
 define("RL_LAN_096", "Diff (s)");
-define("RL_LAN_098", "Forrás");
+//define("RL_LAN_098", "Forrás");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
 define("RL_LAN_103", "Tárgy");

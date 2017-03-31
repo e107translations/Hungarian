@@ -1,8 +1,16 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++--------------------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/15 11:15:43
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Keresés");
 
@@ -41,9 +49,6 @@ define("LAN_SEARCH_18", " másodpercenként.");
 define("LAN_SEARCH_19", "Keresés helye:");
 define("LAN_SEARCH_20", "Azonosítás szükséges");
 define("LAN_SEARCH_21", "Nincs jogosultságod az oldal eléréséhez.");
-
-
-
 define("LAN_SEARCH_22", "Összes terület");
 define("LAN_SEARCH_23", "Szűkített keresési forma");
 define("LAN_SEARCH_24", "Szükséges szavak");
@@ -72,7 +77,6 @@ define("LAN_SEARCH_46", "Félév");
 define("LAN_SEARCH_47", "Egy év");
 define("LAN_SEARCH_48", "Két év");
 define("LAN_SEARCH_49", "Három év");
-
 define("LAN_SEARCH_50", "Beküldés ideje");
 define("LAN_SEARCH_51", "Összes kategória");
 define("LAN_SEARCH_52", "Találat");
@@ -86,24 +90,23 @@ define("LAN_SEARCH_59", "Összes hozzászólás");
 define("LAN_SEARCH_60", "Melyhez hozzászóltak");
 define("LAN_SEARCH_61", "Beküldő szerint");
 define("LAN_SEARCH_62", "Regisztráció dátuma szerint");
-define("LAN_SEARCH_63", "Karesés a kategóriában");
+define("LAN_SEARCH_63", "Keresés a kategóriában");
 define("LAN_SEARCH_64", "Összes letöltés kategória");
 define("LAN_SEARCH_65", "Letöltések");
 define("LAN_SEARCH_66", "Hozzáadás dátuma");
 define("LAN_SEARCH_67", "Minden letöltés adat");
 define("LAN_SEARCH_69", "Fontosság");
-
 define("LAN_SEARCH_70", "Hozzászólás a letöltéshez");
 define("LAN_SEARCH_71", "Válasz a Hírekhez");
 define("LAN_SEARCH_72", "Aláírás");
 define("LAN_SEARCH_73", "Nincs aláírás.");
 define("LAN_SEARCH_74", "Regisztrált");
-
 define("LAN_SEARCH_75", "Keresés típusa");
 define("LAN_SEARCH_76", "Üzenet az oldalon");
 define("LAN_SEARCH_77", "Üzenet a profil oldalon");
 
 define("LAN_SEARCH_98", "Hírek");
 define("LAN_SEARCH_201", "Határozd meg újra a keresés feltételét");
-
 define("LAN_SEARCH_202", "Váltás részletes módra");
+
+?>

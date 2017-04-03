@@ -101,7 +101,7 @@ define("TPVLAN_89", "Az admin műszerfal beállítások alkalmazása az összes 
 
 define("TPVLAN_91", "Új sablon létrehozása innen:");
 define("TPVLAN_92", "Új Sablon Mappa:");
-
+define("TPVLAN_93", "Kiválasztás");
 
 define("TPVLAN_CONV_1", "1 lépés");
 define("TPVLAN_CONV_2", "2 lépés");

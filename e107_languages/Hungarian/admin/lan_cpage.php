@@ -1,6 +1,6 @@
 <?php
 /*
-+---------------------------------------------------------------+
++-------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
@@ -9,8 +9,14 @@
 |        $Author: Yesszus $
 |        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
 |
-+---------------------------------------------------------------+
++-------------------------------------------------------------------------+
 */
+define("CUSLAN_1", "Áttekintés");
+define("CUSLAN_2", "Az oldal címe");
+define("CUSLAN_3", "Elem per oldal");
+define("CUSLAN_4", "Egyéni mezők");
+define("CUSLAN_5", "(Új könyv)");
+
 define("CUSLAN_9", "Szöveg");
 define("CUSLAN_11", "Meta ismertetés");
 define("CUSLAN_12", "Menü/oldal létrehozása");

@@ -41,9 +41,10 @@ define("NN_LAN_6", "Hír értesítés küldése");
 
 define("NM_LAN_1", "Mail Események");
 define("NM_LAN_2", "Tömeges email küldés");
+define("NM_LAN_3", "Email cím");
 
 define("NF_LAN_1", "Fájl Események");
 define("NF_LAN_2", "Ha valaki feltöltött egy fájlt");
 
-define("LAN_NOTIFY_01", "Események");
+define("LAN_NOTIFY_01", " Események");
 ?>

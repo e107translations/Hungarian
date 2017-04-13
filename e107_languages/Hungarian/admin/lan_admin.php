@@ -11,6 +11,7 @@
 |
 +--------------------------------------------------------------------------+
 */
+
 define("ADLAN_0", "Hírek");
 define("ADLAN_1", "Hozzáadás/módosítás/törlés");
 define("ADLAN_2", "Hír létrehozása");
@@ -376,5 +377,11 @@ define("LAN_PATH", "Útvonal");
 define("LAN_ERROR_CONNECTION", "Nem lehet csatlakozni! Kérjük, ellenőrizze a tűzfal és/vagy internet kapcsolatát.");
 define("LAN_SOURCE", "Forrás");
 define("LAN_SESSION", "Munkamenet");
-define("LAN_UI_X_CANT_EQUAL_Y", "[x] nem lehet ugyanaz mint, [y]");  
+define("LAN_UI_X_CANT_EQUAL_Y", "[x] nem lehet ugyanaz mint, [y]");
+define("LAN_ASC","NÖVEKVŐ");
+define("LAN_DESC","CSÖKKENŐ");
+define("LAN_DETAILS", "Részletek");
+define("LAN_AUTOMATION","Automata");
+define("LAN_DISPLAY", "Megjelenítés");
+define("LAN_CLICK_HERE", "Klikk ide");   
 ?>

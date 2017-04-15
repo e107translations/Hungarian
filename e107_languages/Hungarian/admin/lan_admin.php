@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:08:21
+|        Last Modified: 2017/04/15 11:13:21
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
@@ -126,7 +126,7 @@ define("ADLAN_169", "Egyéni látogatók");
 define("ADLAN_170", "Ez a statisztika csak bemutató a látogatottságról.");
 define("ADLAN_171", "Telepítse az oldal statisztika plugin-t");
 define("ADLAN_185", "Oldalsáv be/ki");
-define("ADLAN_186", "A következő régi fájlokat biztonságosan törölheti a rendszerből:");
+define("ADLAN_186", "Elavult fájl(ok) található(ak), amelyeket biztonságosan törölhet a rendszerből:");
 define("ADLAN_CL_2", "Felhasználók");
 define("ADLAN_CL_3", "Tartalom");
 define("ADLAN_CL_4", "Hozzászólások");
@@ -208,7 +208,7 @@ define("LAN_ONLINE","Online");
 define("LAN_ORDER", "Sorrend");
 define("LAN_SELECT", "Kiválasztás ...");
 define("LAN_ADMIN", "Adminisztrátor");
-define("LAN_ROOT","Gyökér");
+define("LAN_ROOT","Fő (Root)");
 define("LAN_LINE","Sor");
 define("LAN_SHORTCODES","Rövid kódok");
 define("LAN_DISPLAYOPT", "Megjelenő beállítások módosítása");
@@ -267,7 +267,7 @@ define("LAN_STATUS", "Állapot");
 define("LAN_URL", "URL (webcím)");
 define("LAN_OWNER", "Tulajdonos");
 define("LAN_PURCHASE", "Vásárlás");
-define("LAN_DOWN_THEME", "Letöltés");
+define("LAN_DOWNLOADING", "Letöltés");
 define("LAN_ID", "ID");
 define("LAN_VISIBILITY", "Megtekintés");
 define("LAN_VISIBLE_TO", "Megtekinthetik");
@@ -310,7 +310,7 @@ define("LAN_UI_404_TITLE_ERROR", "Az oldal nem található");
 define("LAN_UI_404_METHOD_ERROR", "A [x] művelet nem lehetséges!");
 define("LAN_UI_403_BODY_ERROR", "A kért oldalhoz a hozzáférés letiltva.");
 define("LAN_UI_403_TITLE_ERROR", "Hozzáférés letiltva");
-define("LAN_UI_FORM_METHOD_ERROR", "VÉGZETES HIBA: a [x]  mezőnév nem engedélyezett. Nevezd át a [x] kulcsot valami másra a tömbben és az adatbázis táblában (ha szükséges).");
+define("LAN_UI_FORM_METHOD_ERROR", "VÉGZETES HIBA: a Fx] mezőnév nem engedélyezett! A [x] kulcsot nevezd át valami másra a tömbben és az adatbázis táblában (ha szükséges).");
 define("LAN_UNKNOWN_ERROR", "Ismeretlen hiba");
 define("LAN_SQL_ERROR", "SQL hiba");
 define("LAN_UI_BATCH_UPDATE_SUCCESS", "[x] kiválasztva a [y] bejegyzéshez.");
@@ -324,6 +324,8 @@ define("LAN_UI_DELETE_LABEL", "Törlés megerősítése");
 define("LAN_UI_DELETE_WARNING", "[x] bejegyzést szeretnél törölni. Megerősítés szükséges a folytatáshoz.");
 define("LAN_UI_BATCH_CREATELINK", "Link létrehozása");
 define("LAN_UI_DELETED", "[x] bejegyzés sikeresen törölve!");
+define("LAN_UI_FILE_DELETED", "[x] fájl sikeresen törölve lett!");
+define("LAN_UI_FILE_DELETED_FAILED", "[x] fájlt nem lehet törölni! Töröld manuálisan.");
 define("LAN_UI_DELETED_FAILED", "[x] bejegyzés nem található és nem lett törölve!");
 define("LAN_UI_BATCH_EXPORT", "Exportálás");
 define("LAN_UI_USING_DATABASE_TABLE", "[x] adatbázis tábla használata");

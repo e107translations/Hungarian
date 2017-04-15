@@ -1,16 +1,17 @@
 <?php
 /*
-+---------------------------------------------------------------+
++---------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/23 11:48:14
+|        Last Modified: 2017/04/15 11:13:21
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
 |
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 */
+
 define("LAN_EURL_NAME", "URL kezelő");
 define("LAN_EURL_NAME_CONFIG", "Profilok");
 define("LAN_EURL_NAME_ALIASES", "Álnevek");
@@ -92,5 +93,6 @@ define("LAN_EURL_CORE_INDEX_INFO", "A kezdőlap nem rendelkezhet álnévvel.");
 define("LAN_EURL_REBUILD", "Újraépítés");
 define("LAN_EURL_REGULAR_EXPRESSION", "Reguláris kifejezés");
 define("LAN_EURL_KEY", "Kulcs");
+define("LAN_EURL_TABLE", "Tábla");
 
 ?>

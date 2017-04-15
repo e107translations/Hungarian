@@ -1,14 +1,17 @@
 <?php
 /*
-+---------------------------------------------------------------+
++---------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/23 11:38:44
+|        Last Modified: 2017/04/15 11:13:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++---------------------------------------------------------------------------+
 */
+
 define("ADSTAT_LAN_1", "A plugin minden látogatást naplózni fog, és részletes statisztikákat ad az összegyűjtött információk alapján.");
 define("ADSTAT_LAN_2", "A statisztika naplózó telepítve. Az aktiváláshoz lépj a beállításokhoz és kattints az Aktiválás-ra.<br /><b>Az e107_plugins/log/logs mappa jogosultsága 777 legyen! (chmod 777)</b>");
 define("ADSTAT_LAN_3", "Statisztika naplózás");
@@ -92,6 +95,6 @@ define("ADSTAT_LAN_86", "Összes Találat");
 define("ADSTAT_LAN_87", "Összesítés Újraépítése");
 define("ADSTAT_LAN_88", "Statisztika Újraépítése"); 
 define("ADSTAT_LAN_89", "Újraépítés");  
-define("ADSTAT_LAN_90", "Az adatok mentve! Azonosító:"); 
-define("ADSTAT_LAN_91", "Az adatokat nem lehet elmenteni! Azonosító:"); 
+define("ADSTAT_LAN_90", "Az adatok elmentve! Azonosító: [x]"); 
+define("ADSTAT_LAN_91", "Az adatokat nem lehet elmenteni! Azonosító: [x]");
 ?>

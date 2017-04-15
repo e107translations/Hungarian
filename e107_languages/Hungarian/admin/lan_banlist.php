@@ -1,15 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++---------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/23 11:42:47
+|        Last Modified: 2017/04/15 11:13:21
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
 |
-+---------------------------------------------------------------+
++---------------------------------------------------------------------------+
 */
 
 define("BANLAN_2", "Nincs kitiltás.");
@@ -125,5 +125,6 @@ define("BANLAN_122", "Feketelista");
 define("BANLAN_123", "Hozzáadás");
 define("BANLAN_124", "Lejár");
 define("BANLAN_125", "Az én IP címem használata");
+define("BANLAN_126", "IP / Email");
 
 ?>

@@ -25,7 +25,7 @@ define("LANG_LAN_11", "A fenti, ellenőtizetlen táblák törlése (ha léteznek
 define("LANG_LAN_12", "Többnyelvű adatbázis táblák");
 define("LANG_LAN_13", "Nyelvi tulajdonságok");
 define("LANG_LAN_14", "Alapértelmezett oldal-nyelv");
-define("LANG_LAN_15", "Jelöld be, ha szeretnéd az adatokat átmásolni az alapértelmezett táblákból. (Hasznos  alinkeknél, hír-kategóriáknál stb.)");
+define("LANG_LAN_15", "Jelöld be, ha szeretnéd az adatokat átmásolni az alapértelmezett táblákból. (Hasznos al-linkeknél, hír-kategóriáknál stb.)");
 define("LANG_LAN_16", "Többnyelvű adatbázis használata");
 define("LANG_LAN_17", "Alapértelmezett nyelv - Nem szükségesek további táblák.");
 define("LANG_LAN_18", "Leparkolt Al-domain használata - ezen domain nevek használatával beállítható nyelvek:");

@@ -1,21 +1,22 @@
 <?php
 /*
-+---------------------------------------------------------------+
++---------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/09 16:16:09
+|        Last Modified: 2017/04/15 11:13:21
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
 |
-+---------------------------------------------------------------+
++---------------------------------------------------------------------------+
 */
+
 define("LAN_CHECK_2", "Ellenőrzés indítása");
 define("LAN_CHECK_3", "Ellenőrzés");
 define("LAN_CHECK_4", "Hiányzó fájl!");
 define("LAN_CHECK_5", "Hiányzó kifejezés!");
-define("LAN_CHECK_15", "Illegális karakterek vagy szóköz a [x] előtt vagy a [y] után");
+define("LAN_CHECK_15", "Illegális karakterek vagy szóköz [x] előtt vagy [y] után");
 define("LAN_CHECK_16", "Eredeti Fájl");
 define("LAN_CHECK_17", "Egy írási probléma keletkezett a fájl mentése során.");
 define("LAN_CHECK_18", "Nem érhető el nyelvi fájl ehhez a bővítményhez/sablonhoz.");

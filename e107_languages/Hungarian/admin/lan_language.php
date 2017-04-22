@@ -1,15 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++---------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/10/25 05:23:09
+|        Last Modified: 2017/04/15 11:13:21
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
 |
-+---------------------------------------------------------------+
++---------------------------------------------------------------------------+
 */
 
 define("LANG_LAN_00", "[x] nem hozható létre (már létezik).");
@@ -19,7 +19,7 @@ define("LANG_LAN_03", "Táblák");
 define("LANG_LAN_04", "Elavult LAN-ok");
 define("LANG_LAN_05", "Nincs telepítve");
 define("LANG_LAN_06", "Táblák létrehozása");
-define("LANG_LAN_07", "Létező táblák eldobása?");
+define("LANG_LAN_07", "Eldobod a létező táblákat?");
 define("LANG_LAN_08", "Létező táblák cseréje (az adatok el fognak veszni).");
 define("LANG_LAN_11", "A fenti, ellenőtizetlen táblák törlése (ha léteznek).");
 define("LANG_LAN_12", "Többnyelvű adatbázis táblák");
@@ -35,7 +35,7 @@ define("LANG_LAN_21", "Nyelvi-csomagok");
 define("LANG_LAN_25", "Nyelvi-csomag létrehozás állapota");
 define("LANG_LAN_26", "Nyelvi fájlok betöltése csak a jelenlegi nyelvhez");
 define("LANG_LAN_27", "Ha bejelölöd, de a nyelv nem elérhető, akkor hibára fog futni.");
-define("LANG_LAN_28", "Jelölje be a négyzetet, ha Ön egy [e107 hitelesített fordító].");
+define("LANG_LAN_28", "Jelölje be a négyzetet, ha Ön tagja az [e107 fordító csapatnak].");
 define("LANG_LAN_EML", "Kérlek küld el a nyelvi csomagod ide:");
 define("LANG_LAN_32", "Telepített nyelvek");
 define("LANG_LAN_33", "Csak a hibákat jelenítse meg az érvényesítés alatt");

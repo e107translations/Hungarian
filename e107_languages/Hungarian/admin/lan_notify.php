@@ -46,5 +46,5 @@ define("NM_LAN_3", "Email cím");
 define("NF_LAN_1", "Fájl Események");
 define("NF_LAN_2", "Ha valaki feltöltött egy fájlt");
 
-define("LAN_NOTIFY_01", " Események");
+define("LAN_NOTIFY_01", "Események");
 ?>

@@ -66,5 +66,6 @@ define("LANG_LAN_144", "Újra kell engedélyezni");
 define("LANG_LAN_148", "Normál Mód");
 define("LANG_LAN_149", "Érték");
 define("LANG_LAN_150", "[b]Mielőtt bármilyen LAN változást beküldene bármilyen nyelvi fájlhoz, először végezzen el egy TELJES keresést.[/b]");
-
+define("LANG_LAN_151", "Elérhető");
+define("LANG_LAN_152", "Az [e107 fordító csapat] jóvoltából.");
 ?>

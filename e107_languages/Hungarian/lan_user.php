@@ -94,6 +94,12 @@ define("LAN_XUP_ERRM_03", "Sikertelen bejelentkezés! Rossz szolgáltató.");
 define("LAN_XUP_ERRM_04", "Sikertelen regisztráció! A felhasználó már regisztrált.");
 define("LAN_XUP_ERRM_05", "Sikertelen regisztráció! A felhasználó már létezik. Kérjük jelentkezzen be.");
 define("LAN_XUP_ERRM_06", "Sikertelen regisztráció! Nem elérhető a felhasználó email címe - a regisztráció email cím megadása nélkül történt.");
+define("LAN_XUP_ERRM_07", "Közösségi Bejelentkezés Tesztelés");
+define("LAN_XUP_ERRM_08", "Mielőtt tesztelné az e107 új felhasználó bejelentkezés/regisztráció funkciót, kérjük jelentkezzen ki.");
+define("LAN_XUP_ERRM_09", "[x] teszt bejelentkezés");
+define("LAN_XUP_ERRM_10", "[x] teszt regisztráció / bejelentkezés");
+define("LAN_XUP_ERRM_11", "Bejelentkezve:");
+define("LAN_XUP_ERRM_12", "Teszt kijelentkezés");
 
 if (!defined("USER_ERR_01")) { define("USER_ERR_01","Hiányzó érték");  }
 if (!defined("USER_ERR_02")) { define("USER_ERR_02","Nem várt érték");  }

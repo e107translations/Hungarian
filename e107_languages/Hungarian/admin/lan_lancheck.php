@@ -31,6 +31,10 @@ define("LAN_CHECK_26", "Címlap");
 define("LAN_CHECK_PAGE_TITLE", "Nyelvek");
 define("LAN_CHECK_27", "Nyelvi csomag hibák száma");
 define("LAN_CHECK_28", "Azonos");
+define("LAN_CHECK_29", "Azonos karakterlánc (csak figyelmeztetés)");
+define("LAN_CHECK_30", "Hiányzó bbkódok");
+define("LAN_CHECK_31", "Hiányzó [ és/vagy ] karakter(ek)");
+define("LAN_CHECK_32", "Hiányzó HTML tagek");
 
 define("LANG_LAN_23", "Nyelvi csomag létrehozása (zip)");
 define("LANG_LAN_30", "Kiadás ideje");

@@ -86,8 +86,8 @@ define ('EPL_ADLAN_72'," Verzió: ");
 define ('EPL_ADLAN_73',"A szükséges PHP kiterjesztés nem töltődött be: ");
 define ('EPL_ADLAN_74',"Újabb PHP verzió szükséges: ");
 define ('EPL_ADLAN_75',"Újabb MySQL verzió szükséges: ");
-define ('EPL_ADLAN_76',"Hiba itt plugin.xml");
-define ('EPL_ADLAN_77',"Hiányzik a plugin.xml");
+define ('EPL_ADLAN_76',"Hiba a plugin.xml fájlban");
+define ('EPL_ADLAN_77',"Hiányzik a plugin.xml fájl");
 define ('EPL_ADLAN_78',"A bővítmény által létrehozott felhasználó csoport törlése:");
 define ('EPL_ADLAN_79',"Csak akkor töröld, ha nem használod más célra.");
 define ('EPL_ADLAN_80',"A bővítmény által létrehozott bővített felhasználói mezők törlése:");
@@ -255,6 +255,7 @@ define ('EPL_ADLAN_243',"Frissített előbeállítás:");
 define ('EPL_ADLAN_244',"A telepítés során csak 5 Média kategória engedélyezett.");
 define ('EPL_ADLAN_245',"A [x] média kategória hozzáadva!");  
 define ('EPL_ADLAN_246',"Az összes [x] média kategória törölve!"); 
+define ('EPL_ADLAN_247',"Frissítendő telepítések");
  
 define ('EPL_ADLAN_249',"Hozzáadott Kiterjesztett Mező: ");  
 define ('EPL_ADLAN_250',"Törölt Kiterjesztett Mező: ");  

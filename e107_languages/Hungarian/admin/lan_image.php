@@ -42,7 +42,7 @@ define("IMALAN_10", "Képek megtekintése");
 define("IMALAN_11", "Felhasználók korlátozása, hogy kik láthatják a képeket (ha fentebb engedélyezve van)");
 define("IMALAN_12", "Letiltott kép kezelése");
 define("IMALAN_13", "Mi a teendő a képekkel, ha a kép tiltott");
-define("IMALAN_14", "Kép útvonalának megjelenítése");
+define("IMALAN_14", "K&#201;p &#218;tvonal&#193;nak megjelen&#205;t&#201;se");
 define("IMALAN_15", "Nem mutat semmit");
 define("IMALAN_18", "Feltöltött Avatar képek");
 define('IMALAN_20', "Nem történt változtatás!");

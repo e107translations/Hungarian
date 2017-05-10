@@ -125,5 +125,6 @@ define("LAN_SIGNUP_117", "Teszt aktiválás küldése");
 define("LAN_SIGNUP_118", "Ide: [x]");
 define("LAN_SIGNUP_119", "Ne küldjön e-mailt");
 define("LAN_SIGNUP_120", "Vagy");
+define("LAN_SIGNUP_121", "Másik e-mail cím használata");
 
 ?>

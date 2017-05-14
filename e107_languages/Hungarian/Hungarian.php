@@ -92,7 +92,7 @@ define("LAN_LOGOUT", "Kijelentkezés");
 define("LAN_SETTINGS", "Beállítások");
 define("LAN_PASSWORD", "Jelszó");
 define("LAN_INCORRECT_PASSWORD", "Érvénytelen jelszó");
-define("LAN_TYPE", "Típus");
+define("LAN_TYPE", "Tipus");
 define("LAN_SCREENSHOT", "Képernyőkép");
 define("LAN_FILE", "Fájl");
 define("LAN_YOUTUBE_VIDEO", "Youtube Videó");

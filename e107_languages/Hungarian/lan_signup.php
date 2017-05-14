@@ -45,7 +45,7 @@ define("LAN_SIGNUP_27", "Megjelenítés");
 define("LAN_SIGNUP_30", "Ha nem akarja megjeleníteni az email címét az oldalon, akkor jelölje be az 'email cím elrejtése' lehetőséget.");
 define("LAN_SIGNUP_34", "Megjegyzés: Ha a szerverre feltöltött fájlt az Adminisztrátor helytelennek tartja, akkor azonnal törölni fogja.");
 define("LAN_SIGNUP_36", "Hiba keletkezett a felhasználói információkban, lépjen kapcsolatba az oldal adminisztrátorával");
-define("LAN_SIGNUP_37", "A regisztráció ezen része kész. Az oldal Adminja fogja jóváhagyni a tagságát.  Ezzel egyidőben egy megerősítő email-t fog kapni, hogy a tagságát elfogadták.");
+define("LAN_SIGNUP_37", "A regisztráció ezen része kész.<br>Az oldal Adminja fogja jóváhagyni a tagságát.<br>Ezzel egyidőben egy megerősítő email-t fog kapni, ha a tagságát elfogadták.");
 define("LAN_SIGNUP_38", "Eltérő email címet írt be! Mindkét mezőben az érvényes email címét adja meg.");
 define("LAN_SIGNUP_39", "Adja meg újra az Email Címet:");
 define("LAN_SIGNUP_40", "Nem szükséges aktiválni");
@@ -75,7 +75,7 @@ define("LAN_SIGNUP_67", "Ezt fogja a rendszer hozzárendelni regisztráció utá
 define("LAN_SIGNUP_69", "");
 define("LAN_SIGNUP_70", "");
 define("LAN_SIGNUP_71", "Elérte az engedélyezett regisztrációk maximális számát. Jelentkezzen be egy másik, már létező felhasználói fiókkal.");
-define("LAN_SIGNUP_72", "[sitename] köszöni a regisztrációját! Elküldtünk egy megerősítő email-t a következő [email] email címre. A regisztráció befejezéséhez és a hozzáférése aktiválásához kattintson az email-ban lévő megerősítő linkre.");
+define("LAN_SIGNUP_72", "[sitename] köszöni a regisztrációját!<br>Elküldtünk egy megerősítő email-t a következő [email] email címre.<br>A regisztráció befejezéséhez és a hozzáférése aktiválásához kattintson az email-ban lévő megerősítő linkre.");
 define("LAN_SIGNUP_73", "Köszönjük!");
 define("LAN_SIGNUP_74", "A hozzáférése aktiválva lett! Kérjük");
 define("LAN_SIGNUP_75", "A regisztráció aktiválva");

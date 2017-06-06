@@ -191,5 +191,6 @@ define('IMALAN_176', "Hiba történt a fájl behúzása közben!");
 define('IMALAN_177', "Kattintson ide a további információkért és adjon meg egy api kulcsot");
 define('IMALAN_178', "Avatar Mappa (felhasználó által kiválasztható)");
 define('IMALAN_179', "Avatar Mapppa (privát)");
-define('IMALAN_180', "Egy vagy több 0 bájtos fájl található az [x] mappában.[br]Kérjük, hogy törölje mielőtt folytatná.");
+define('IMALAN_180', "Egy vagy több 0 bájtos fájl található ebben a mappában:");
+define('IMALAN_181', "Kérjük, hogy törölje mielőtt folytatná.");
 ?>

@@ -19,7 +19,7 @@ define("FBLAN_14", "Csak ezt az üzenetet mutasd");
 define("FBLAN_22", "Renderelés típusa");
 define("FBLAN_23", "Dobozban");
 define("FBLAN_24", "Egyszerű");
-define("FBLAN_25", "Kategória létrehozása");
+define("FBLAN_25", "Nincs featurebox elem hozzárendelve a [x] sablonhoz!");
 define("FBLAN_26", "Kép/Videó"); 
 define("FBLAN_27", "Kép Link"); 
 define("FBLAN_28", "Featurebox Menü Kategória"); 

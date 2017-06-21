@@ -120,7 +120,5 @@ define("DBLAN_118", "A .zip fájlt nem lehet letölteni!");
 define("DBLAN_119", "Biztonsági mentés létrehozása");
 define("DBLAN_120", "Biztonsági mentés létrehozása....");
 define("DBLAN_121", "[x] áthelyezve ide [y].");
-define("DBLAN_122", "Parkolt Domain");
-define("DBLAN_123", "A parkolt domain, amely új e107 weboldal lesz.");
-define("DBLAN_124", "Ez létrehoz egy e107 friss telepítést a megadott domain alá.<br />Használja a szerver adminisztrációs felületet (p.l.: cPanel) - parkolja az Ön egyéb más domain nevét a(z) [x] domain név felett.");
+
 ?>

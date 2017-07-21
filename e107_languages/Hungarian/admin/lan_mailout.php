@@ -263,4 +263,6 @@ define("LAN_MAILOUT_266", "Max. Aktív");
 define("LAN_MAILOUT_267", "Publikus/Privát kulcsok létrehozása");
 define("LAN_MAILOUT_268", "Csak Fejlesztő Módban");
 define("LAN_MAILOUT_269", "Küldés később");
+define("LAN_MAILOUT_270", "SMTP kapcsolat tesztelése");
+define("LAN_MAILOUT_271", "Sikertelen azonosítás! Felhasználónév: [x] Jelszó: [y] ");
 ?>

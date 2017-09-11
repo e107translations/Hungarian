@@ -39,6 +39,12 @@ define("LANA_FAQ_PREF_14", "Időbélyeg megjelenítése");
 define("LANA_FAQ_PREF_15", "Közösségi gombok megjelenítése");
 define("LANA_FAQ_PREF_16", "Specifikus elrendezés");
 define("LANA_FAQ_PREF_17", "Minden nyelvre");
+define("LANA_FAQ_PREF_18", "ID szerint növekvő");
+define("LANA_FAQ_PREF_19", "ID szerint csökkenő");
+define("LANA_FAQ_PREF_20", "Dátum szerint növekvő");
+define("LANA_FAQ_PREF_21", "Dátum szerint csökkenő");
+define("LANA_FAQ_PREF_22", "Kérdések kezelése");
+define("LANA_FAQ_PREF_23", "Kategóriák kezelése");
 
 define("LANA_FAQ_PREF_HELP_1", "0 = nincs korlátozás");
 define("LANA_FAQ_PREF_HELP_2", "Hagyja üresen az alapértelmezés használatához");

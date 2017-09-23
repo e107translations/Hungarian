@@ -391,4 +391,6 @@ define("LAN_DETAILS", "Részletek");
 define("LAN_AUTOMATION","Automata");
 define("LAN_DISPLAY", "Megjelenítés");
 define("LAN_CLICK_HERE", "Klikk ide");
+define("LAN_UI_VIEW_GRID_LABEL", "Rács nézet");
+define("LAN_UI_VIEW_LIST_LABEL", "Lista nézet");
 ?>

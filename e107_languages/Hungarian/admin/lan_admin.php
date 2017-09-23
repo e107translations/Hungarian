@@ -86,7 +86,7 @@ define("ADLAN_117", "Minden bejegyzés mutatása");
 define("ADLAN_118", "Naplózás törlése");
 define("ADLAN_119", "Ellenőrizetlen linkek");
 define("ADLAN_120", "Adatbázis frissítés elérhető. A frissítéshez kattints a gombra ...");
-define("ADLAN_121", "Frissítés");
+define("ADLAN_121", "Telepítés");
 define("ADLAN_122", "Elérhető telepíthető új frissítés! Klikk a v [x] kibontásához és telepítéséhez.");
 define("ADLAN_132", "Nyelv");
 define("ADLAN_133", "Alapértelmezett");

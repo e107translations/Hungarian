@@ -16,4 +16,5 @@ define("TD_MENU_L1", "Egyéb hírek");
 define("TD_MENU_L2", "Egyéb hírek");
 define("LAN_NEWSCAT_MENU_TITLE", "Hírkategóriák");
 define("LAN_NEWSLATEST_MENU_TITLE", "Legfrissebb hírek");
+define("LAN_NEWSARCHIVE_MENU_TITLE", "Hírek Archívum");
 ?>

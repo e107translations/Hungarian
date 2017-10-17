@@ -1,13 +1,13 @@
 <?php
 /*
-+---------------------------------------------------------------+
++----------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/12/21 09:19:14
+|        Last Modified: 2017/10/17 21:30:14
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
++----------------------------------------------------------------------+
 */
 
 define("LAN_LOGINMENU_1", "Felhasználónév: ");
@@ -16,9 +16,9 @@ define("LAN_LOGINMENU_3", "Regisztráció");
 define("LAN_LOGINMENU_4", "Elfelejtett jelszó?");
 define("LAN_LOGINMENU_5", "Üdvözlet");
 define("LAN_LOGINMENU_6", "Adatok megjegyzése");
-define("LAN_LOGINMENU_7", "Egyedi azonosító nem felismerhető (valószínűleg hibás cookie).<br /><a href=\"".e_BASE."index.php?logout\">Kattints ide</a> a cookie megsemmisítéséhez.");
+define("LAN_LOGINMENU_7", "Az egyedi azonosító nem felismerhető (valószínűleg hibás cookie).<br /><a href=\"".e_BASE."index.php?logout\">Kattints ide</a> a cookie megsemmisítéséhez.");
 define("LAN_LOGINMENU_9", "Bejelentkezési hiba");
-define("LAN_LOGINMENU_10", "Karbantartás üzemmód bekapcsolva - A normál felhasználók csak a sitedown.php -t érhetik el. Kikapcsolható az admin részlegben");
+define("LAN_LOGINMENU_10", "Karbantartás üzemmód bekapcsolva - A normál felhasználók csak a sitedown.php -t érhetik el. Kikapcsolható az admin részlegben.");
 define("LAN_LOGINMENU_11", "Admin");
 define("LAN_LOGINMENU_13", "Profil");
 define("LAN_LOGINMENU_14", "új hír");
@@ -40,11 +40,11 @@ define("LAN_LOGINMENU_31", "Új hírek számának mutatása");
 define("LAN_LOGINMENU_34", "Új hozzászólások számának mutatása");
 define("LAN_LOGINMENU_36", "Új tagok számának mutatása");
 
-define("LAN_LOGINMENU_39", "Admin elhagyása");
+define("LAN_LOGINMENU_39", "Admin felület elhagyása");
 define("LAN_LOGINMENU_40", "Aktiváló Email Újraküldése");
 define("LAN_LOGINMENU_41", "Login Menü Beállítások");
 
-define("LAN_LOGINMENU_37", "Megjeleníti");
+define("LAN_LOGINMENU_37", "Megjelenítés");
 define("LAN_LOGINMENU_38", "Login Menü - további linkek");
 
 define("LAN_LOGINMENU_42", "Login Menü - legutóbbi core értékek");
@@ -57,6 +57,6 @@ define("LAN_LOGINMENU_46", "a legutóbbi elemeket -");
 define("LAN_LOGINMENU_47", "Login Menü - legutóbbi plugin értékek");
 define("LAN_LOGINMENU_48", "Menü beállítása");
 define("LAN_LOGINMENU_49", "Email: ");
-define("LAN_LOGINMENU_50", "Felhasználói név vagy Email: ");
+define("LAN_LOGINMENU_50", "Felhasználónév vagy Email: ");
 define("LAN_LOGINMENU_51", "Bejelentkezés");
 ?>

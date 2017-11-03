@@ -263,7 +263,7 @@ define ('EPL_ADLAN_251', "Kiterjesztett Mező maradt itt: ");
 define ('EPL_ADLAN_252', "Jog: ");  
 define ('EPL_ADLAN_253', "Befejezve!");
 define ('EPL_ADLAN_254', "Ez ellenőrzi a plugin nyelvi fájljait és megkeresi a hibákat, és a gyakori vagy duplikált LAN definíciókat.");
-define("EPL_ADLAN_255", "Fájlok Felülírása");
+define("EPL_ADLAN_255", "Fájlok felülírása");
 define("EPL_ADLAN_256", "[x] kihagyva (már létezik)");
 
 define ('TPVLAN_81', "Letöltés..."); 

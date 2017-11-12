@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/02/24 11:15:43
+|        Last Modified: 2017/11/12 11:15:43
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
@@ -12,7 +12,7 @@
 +--------------------------------------------------------------------------+
 */
 define("LAN_dl_1", "(Korlátozott)");
-define("LAN_dl_4", "Fájlok elérhetőek: ");
+define("LAN_dl_4", "Elérhető fájlok: ");
 define("LAN_dl_5", "Fájlok teljes mérete: ");
 define("LAN_dl_6", "Fájlok letöltve: ");
 define("LAN_dl_8", "Letöltés");
@@ -45,11 +45,11 @@ define("LAN_dl_58", "A következő letöltés jelentve lett, mint hibás letölt
 define("LAN_dl_59", "Bejelentette: ");
 define("LAN_dl_60", "Hibás letöltés bejelentése innen: ");
 
-define("LAN_dl_62", "A weboldal megakadályozta a fájl letöltését; elérted a letöltési kvótát");
-define("LAN_dl_63", "Nincs megfelelő jogosultságod a fájl letöltéséhez.");
+define("LAN_dl_62", "A weboldal megakadályozta a fájl letöltését, elérted a letöltési kvótát");
+define("LAN_dl_63", "Nincs megfelelő jogosultságod a fájl letöltéséhez!");
 
-define("LAN_dl_66", "Tükör-kiszolgáló választása");
-define("LAN_dl_67", "Válassza ki egy tükör-kiszolgálót...");
+define("LAN_dl_66", "Tükör-kiszolgáló kiválasztása");
+define("LAN_dl_67", "Válasszon ki egy tükör-kiszolgálót...");
 define("LAN_dl_68", "Tükör-kiszolgáló hoszt");
 
 define("LAN_dl_72", "Letöltendő fájl:");

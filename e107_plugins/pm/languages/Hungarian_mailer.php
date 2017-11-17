@@ -15,5 +15,5 @@ define("LAN_EC_PM_02", "");
 define("LAN_EC_PM_03", "");
 define("LAN_EC_PM_04", "PM-kezelő");
 define("LAN_EC_PM_05", "Tömeges PM küldés folyamatban");
-define("LAN_EC_PM_06", "Tömeges PM küldés indítása, küldés --NUM-- címzettnek.");
+define("LAN_EC_PM_06", "Tömeges PM küldés indítása, küldés [x] címzettnek.");
 define("LAN_EC_PM_07", "");

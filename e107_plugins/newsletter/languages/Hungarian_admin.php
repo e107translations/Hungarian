@@ -27,7 +27,7 @@ define("NLLAN_33", "Szöveg");
 define("NLLAN_36", "Hírlevél kiadvány frissítése");
 define("NLLAN_37", "Hírlevél kiadvány létrehozása");
 define("NLLAN_39", "Hírlevél kiadvány elmentve az adatbázisban - kiküldéshez, katt a 'Kiadvány kiadása' gombra a beállítások menüben.");
-define("NLLAN_40", "Levélküldés ütemezve lett - --COUNT-- feliratkozónak lesz elküldve.");
+define("NLLAN_40", "Levélküldés ütemezve lett - [x] feliratkozónak lesz elküldve.");
 define("NLLAN_41", "Nem találhatóak feliratkozók - email küldés leállítva");
 
 define("NLLAN_44", "Hírlevelek");

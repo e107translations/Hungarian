@@ -23,9 +23,7 @@ define("POLL_ADLAN04", "A szavazás plugin telepítve. Szavazás létrehozásáh
 //define("POLLAN_7", "Még nincs szavazás.");
 
 //define("LAN_AL_POLL_01", "Szavazás törölve");
-//define("LAN_AL_POLL_02", "Szavazás frissítve");
-//define("LAN_AL_POLL_03", "Szavazás létrehozva");
-//define("LAN_AL_POLL_04", "");
-//define("LAN_AL_POLL_05", "");
+define("LAN_AL_POLL_02", "Szavazás frissítve");
+define("LAN_AL_POLL_03", "Szavazás létrehozva");
 
 ?>

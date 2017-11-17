@@ -197,8 +197,8 @@ define("PRFLAN_208", "Felhasználó csoport, amely email linket használhat az o
 define("PRFLAN_209", "További tulajdonságok");
 define("PRFLAN_210", "Hozzászólás és üzenet");
 define("PRFLAN_211", "Nem lehet létrehozni email címet opcionálisan, ha szükséges az ellenőrzéshez vagy a bejelentkezéshez");
-define("PRFLAN_212", "Az érték ehhez --FIELD-- túl magas - változtasd meg erre --VALUE--");
-define("PRFLAN_213", "Az érték ehhez --FIELD-- túl alacsony - változtasd meg erre --VALUE--");
+define("PRFLAN_212", "Az érték ehhez [x] túl magas - változtasd meg erre [y]");
+define("PRFLAN_213", "Az érték ehhez [x] túl alacsony - változtasd meg erre [y]");
 define("PRFLAN_214", "Oldal Logo (embléma)");
 define("PRFLAN_215", "Csoport, melynek engedélyezett a &lt;script&gt; és hasonló tag-ek beküldése");
 define("PRFLAN_216", "(Szükséges a megfelelő HTML beküldés jogosultság)");

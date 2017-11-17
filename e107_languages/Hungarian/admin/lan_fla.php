@@ -22,5 +22,5 @@ define("FLALAN_10", "Törlése / kitíltás kiválasztása");
 define("FLALAN_15", "A következő IP cím(-ek) automatikusan kitíltásra kerülnek - felhasználó 10-nél többször kisérelte meg a belépést");
 define("FLALAN_16", "Automatikus kitiltás lista törlése");
 define("FLALAN_17", "Automatikus kitiltás lista törölve");
-define('FLALAN_18', "Nem lehet kitiltani a következő IP címet --IP-- - a fehérlistából");
+//define('FLALAN_18', "Nem lehet kitiltani a következő IP címet --IP-- - a fehérlistából");
 ?>

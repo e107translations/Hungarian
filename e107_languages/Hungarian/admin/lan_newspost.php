@@ -106,7 +106,7 @@ define("LAN_NEWS_54", "maradjon szerkesztés módban");
 define("LAN_NEWS_55", "Karbantartás");
 define("LAN_NEWS_56", "Hozzászólások újraszámolása");
 define("LAN_NEWS_57", "Folytatás");
-define("LAN_NEWS_58", "Frissítés kész - --UPDATE-- hozzászólások újraszámolása megtörtént, --DELETED-- a nem engedélyezett hozzászólások törölve");
+//define("LAN_NEWS_58", "Frissítve! [x] hozzászólás újraszámolása megtörtént, [y] nem engedélyezett hozzászólások törölve!");
 define("LAN_NEWS_59", "Hírek karbantartása");
 define("LAN_NEWS_60", "Összes hozzászólás");
 define("LAN_NEWS_61", "Nem engedélyezett hozzászólások törlése");

@@ -92,7 +92,7 @@ define("EXTLAN_74", "ez egy védett mező és nem lehet használni.");
 define("EXTLAN_75", "Hiba, a mezőt nem sikerült hozzáadni az adatbázishoz.");
 define("EXTLAN_76", "Érvénytelen karakter a mező nevében - csak A-Z, a-z, 0-9 engedélyezett.");
 define("EXTLAN_77", "Kategória nincs törölve - először töröld a benne lévő mezőket: ");
-define("EXTLAN_78", "Fájl nem található --FILE-- adattábla létrehozása szükséges");
+define("EXTLAN_78", "A fájl nem található! A(z) [x] adattáblát létre kell hozni!");
 
 define("EXTLAN_79", "Cimke");
 define("EXTLAN_80", "Jóváhagyási hiba - megszakítva.");

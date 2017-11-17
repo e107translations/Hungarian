@@ -37,8 +37,8 @@ define("ADMSLAN_62", "Bővítmény kezelő");
 
 define("ADMSLAN_71", "Katt ide a jogosultságok megtekintéséhez");
 
-define("ADMSLAN_72", "Adminisztrátor ID: --ID-- név: --NAME-- új jogosultság: ");
-define("ADMSLAN_73", "Adminisztrátor ID: --ID-- név: --NAME--");
+define("ADMSLAN_72", "Adminisztrátor ID: [x] név: [y] új jogosultság: ");
+define("ADMSLAN_73", "Adminisztrátor ID: [x] név: [y]");
 
 define("ADMSLAN_74", "Általános");
 ?>

@@ -44,7 +44,7 @@ define("RL_LAN_050", "Paraméter hiba - nem lett törölve");
 define("RL_LAN_052", "Admin napló");
 define("RL_LAN_053", "Felhasználói napló");
 define("RL_LAN_054", "Nincs mit törölni, vagy adatbázis hiba történt");
-define("RL_LAN_057", " - (--NUM-- bejegyzés) törölve, amelyek régebbiek, mint --OLD-- .");
+define("RL_LAN_057", " - ([x] bejegyzés) törölve, amelyek régebbiek, mint [y] .");
 define("RL_LAN_058", "Elsőbbségi szűrő:");
 define("RL_LAN_059", "Hívószűrő:");
 define("RL_LAN_060", "IP Cím szűrő:");

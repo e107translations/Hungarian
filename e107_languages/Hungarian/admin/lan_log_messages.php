@@ -283,7 +283,7 @@ define("LAN_AL_MISC_03", "Login menü beállítások frissítve");
 define("LAN_AL_MISC_04", "Comment menü beállítások frissítve");
 define("LAN_AL_MISC_05", "Clock menü beállítások frissítve");
 define("LAN_AL_MISC_06", "Blog calendar menü beállítások frissítve");
-define("LAN_AL_MISC_07", "");
+//define("LAN_AL_MISC_07", "");
 
 define("LAN_AL_PING_01", "Ping a szolgáltatóhoz");
 
@@ -293,4 +293,8 @@ define("LAN_AL_ADMINUI_03", "Admin-UI DB Tábla törlése: [x]");
 define("LAN_AL_ADMINUI_04", "Admin-UI DB Hiba: [x]");
 
 define("LAN_AL_BACKUP", "Adatbázis mentés");
+define("LAN_AL_MEDIA_01", "Média feltöltés");
+
+define("LAN_AL_USET_100", "Admin bejelentkezés másik felhasználóként");
+define("LAN_AL_USET_101", "Admin kijelentkezés másik felhasználóként");
 ?>

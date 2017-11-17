@@ -130,6 +130,11 @@ define("ADLAN_186", "Elavult fájl(ok) található(ak), amelyeket biztonságosan
 define("ADLAN_187", "Nem lehet létrehozni: [x]. Kérjük, ellenőrizze a mappa jogosultságait.");
 define("ADLAN_188", "Az Ön [x] időzóna beállítása érvénytelen! Állítsa vissza UTC formátumba.<br>A módosításhoz lépjen az Admin -> Beállítások -> Dátum beállítások.");
 define("ADLAN_189", "A következő plugin(ok) nem kompatibilis(ek) az e107 ezen verziójával és ezért el kell távolítani: ");
+
+define("ADLAN_190", "Segítségre van szüksége?");
+define("ADLAN_191", "Csatlakozzon a közösségünkhöz, ha bármilyen problémája adódik az e107 rendszerrel az <a href='https://e107help.org' rel='external'>ingyenes támogatásért</a> vagy az <a href='https://e107hungary.org' rel='external'>e107 Magyarország</a> weboldalon.");
+
+
 define("ADLAN_CL_2", "Felhasználók");
 define("ADLAN_CL_3", "Tartalom");
 define("ADLAN_CL_4", "Hozzászólások");
@@ -393,4 +398,5 @@ define("LAN_DISPLAY", "Megjelenítés");
 define("LAN_CLICK_HERE", "Klikk ide");
 define("LAN_UI_VIEW_GRID_LABEL", "Rács nézet");
 define("LAN_UI_VIEW_LIST_LABEL", "Lista nézet");
+define("LAN_CHECKING_FOR_UPDATES", "Frissítések keresése");
 ?>

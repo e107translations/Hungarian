@@ -45,7 +45,7 @@ define("UPLAN_ARE", "van ");
 define("UPLAN_COPYTODLS", "Másolás a letöltésekhez");
 
 define("UPLLAN_51", "Feltöltés lista");
-define("UPLLAN_52", "Ez az oldal segít létrehozni egy fájl a fájl fletöltés jogosultságok kezeléséhez. A fájl elmentve, mint --SOURCE--, és szükséges a másolása ide --DEST-- az érvénybe lépés előtt.");
+define("UPLLAN_52", "Ez az oldal segít létrehozni egy fájl a fájl fletöltés jogosultságok kezeléséhez. A fájl elmentve, mint [x], és szükséges a másolása ide [y] az érvénybe lépés előtt.");
 define("UPLLAN_54", "Fájl kiterjesztések");
 define("UPLLAN_55", "Max. feltöltési méret");
 define("UPLLAN_56", "Fájl legenerálása");

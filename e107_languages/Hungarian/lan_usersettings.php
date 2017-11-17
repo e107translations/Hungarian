@@ -34,7 +34,7 @@ define("LAN_USET_14", "A bejelentkező név túl hosszú. Válassz másikat");
 define("LAN_USET_15", "A megjelenő név túl hosszú. Válassz másikat");
 define("LAN_USET_16", "Jelöld be a dobozt a meglévő fotó törléséhez, másik kép feltöltése nélkül");
 define("LAN_USET_17", "A megjelenő név már használatban van! Válassz másikat");
-define("LAN_USET_18", "A felhasználói adatokat az Admin megváltoztatta: --ID--, bejelentkező név: --LOGNAME--");
+define("LAN_USET_18", "A felhasználói adatokat az Admin megváltoztatta: [x], bejelentkező név: [y]");
 define("LAN_USET_20", "Meg kell változtatnod a jelszót, ha megváltoztatod a bejelentkező nevedet vagy az email címedet");
 define("LAN_USET_21", "Érvényesítsd a változtatásokat a jelszó beírásával: ");
 define("LAN_USET_22", "Érvénytelen jelszó!");

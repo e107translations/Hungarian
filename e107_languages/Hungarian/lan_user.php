@@ -73,9 +73,9 @@ define("LAN_USER_71", "Aláírás:");
 define("LAN_USER_72", "Avatar kép:");
 define("LAN_USER_73", "tartalom/levelező lista kiválasztása");
 define("LAN_USER_74", "Egyedi elnevezés");
-define("LAN_USER_75", "A(az) --SOMETHING-- megadása kötelező");
+define("LAN_USER_75", "A(az) [x] megadása kötelező");
 define("LAN_USER_76", "Feliratkozás ide:");
-define("LAN_USER_77", "A jelszónak legalább --COUNT-- karakter hosszúnak kell lennie!");
+define("LAN_USER_77", "A jelszónak legalább [x] karakter hosszúnak kell lennie!");
 define("LAN_USER_78", "Minimum");
 define("LAN_USER_79", "karakter");
 define("LAN_USER_80", "a név megjelenik az oldalon");
@@ -84,7 +84,7 @@ define("LAN_USER_82", "a bejelentkezéskor használt név");
 define("LAN_USER_83", "Email cím elrejtése?:");
 define("LAN_USER_84", "Ez megakadályozza, hogy az email cím megjelenjen az oldalon");
 define("LAN_USER_85", "Ha meg akarod változtatni a felhasználónevedet, lépj kapcsolatba az oldal adminisztrátorával!");
-define("LAN_USER_86", "Maximális avatar méret --WIDTH-- x --HEIGHT-- pixel-ben.");
+define("LAN_USER_86", "Maximális avatar méret [x] x [y] pixel-ben.");
 define("LAN_USER_87", "A felhasználó értékeléséhez jelentkezzen be!");
 
 // social plugin

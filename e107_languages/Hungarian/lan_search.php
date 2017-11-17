@@ -26,7 +26,7 @@ define("LAN_198", "Nincs találat");
 define("LAN_199", "Keresendő:");
 
 define("LAN_416", "Be kell jelentkezned az oldal eléréséhez.");
-define("LAN_417", "A keresett kifejezésnek legalább --CHARS-- karakter hosszúnak kell lennie.");
+define("LAN_417", "A keresett kifejezésnek legalább [x] karakter hosszúnak kell lennie.");
 
 define("LAN_418", "Egyéb Oldalak");
 

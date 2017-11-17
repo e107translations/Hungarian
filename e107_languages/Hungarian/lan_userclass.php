@@ -20,9 +20,9 @@ define("UC_LAN_4", "Csak olvasási jog");
 define("UC_LAN_5", "Adminisztrátor");
 define("UC_LAN_6", "Főadminisztrátor");
 define("UC_LAN_7", "Fórum Moderátorok");
-define("UC_LAN_8","Adminok és Moderátorok");
-define("UC_LAN_9","Új Tagok");
+define("UC_LAN_8", "Adminok és Moderátorok");
+define("UC_LAN_9", "Új Tagok");
 define("UC_LAN_10", "Kereső Robotok");
-define("UC_LAN_INVERT", "Nem --CLASS--");
+define("UC_LAN_INVERT", "Nem [x]");
 define("UC_LAN_INVERTLABEL", "Mindenki, kivéve..");
 ?>

@@ -103,6 +103,7 @@ define("TPVLAN_91", "Új sablon létrehozása innen:");
 define("TPVLAN_92", "Új Sablon Mappa:");
 define("TPVLAN_93", "Kiválasztás");
 define("TPVLAN_94", "A weboldal sablonja megváltoztatva erre: [x].");
+define("TPVLAN_95", "Felület");
 
 define("TPVLAN_CONV_1", "1 lépés");
 define("TPVLAN_CONV_2", "2 lépés");

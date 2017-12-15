@@ -117,6 +117,7 @@ define("LAN_RE_ORDER", "Újra-rendezés");
 define("LAN_RELATED", "Kapcsolódó");
 define("LAN_CLOSE", "Bezár");
 define("LAN_EXPAND", "Kinyit");
+define("LAN_LIST", "Lista");
 define("LAN_ENTER_USRNAME_EMAIL", "Kérjük, add meg a felhasználóneved vagy az email címed");
 define("LAN_PWD_REQUIRED", "Jelszó szükséges");
 define("LAN_SHOW", "Mutasd");

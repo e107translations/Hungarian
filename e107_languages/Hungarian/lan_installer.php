@@ -127,5 +127,6 @@ nevezze át az e107.htaccess fájlt erre: .htaccess");
 define("LANINS_144", "FONTOS: Kérjük, másolja ki és illessze be az [b]e107.htaccess[/b] tartalmát a [b].htaccess[/b] fájlba.
 Kérjük, vigyázzon, nehogy felülírja a meglévő adatokat a fájlban.");
 define("LANINS_145", "Az e107 v2.x használatához szükséges a telepített PHP [x] . Kérjük, vegye fel a kapcsolatot az ön tárhely szolgáltatójával vagy olvassa el [y] információkat mielőtt folytatná.");
-
+define("LANINS_146", "Admin Terület Sablon");
+define("LANINS_147", "Adminisztráció");
 ?>

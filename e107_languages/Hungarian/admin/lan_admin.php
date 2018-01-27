@@ -399,4 +399,5 @@ define("LAN_CLICK_HERE", "Klikk ide");
 define("LAN_UI_VIEW_GRID_LABEL", "Rács nézet");
 define("LAN_UI_VIEW_LIST_LABEL", "Lista nézet");
 define("LAN_CHECKING_FOR_UPDATES", "Frissítések keresése");
+define("LAN_HEIGHT","Magasság");
 ?>

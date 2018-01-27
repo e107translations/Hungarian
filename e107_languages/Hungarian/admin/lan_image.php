@@ -195,4 +195,6 @@ define('IMALAN_180', "Egy vagy több 0 bájtos fájl található ebben a mappáb
 define('IMALAN_181', "Kérjük, hogy törölje mielőtt folytatná.");
 define("IMALAN_182", "Importálás közben konvertálja jpeg formátumba");
 define("IMALAN_183", "A PNG és a GIF fájlok automatikusan átkonvertálódnak jpeg formátumba. (kizárt ikonok)");
+define("IMALAN_184", "Alapértelmezett Kép Méretek");
+define("IMALAN_185", "Maximum magasság pixel-ben");
 ?>

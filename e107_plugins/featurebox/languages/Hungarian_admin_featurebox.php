@@ -12,6 +12,9 @@
 +--------------------------------------------------------------------------+
 */
 
+define("FBLAN_INSTALL_01", "Alapértelmezett kategóriák hozzáadása.");
+define("FBLAN_INSTALL_02", "Alapértelmezett értékek hozzáadása.");
+
 define("FBLAN_08", "Üzenet szövege");
 define("FBLAN_12", "Mód");
 define("FBLAN_13", "Üzenetek véletlenszerű forgatása");

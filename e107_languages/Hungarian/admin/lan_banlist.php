@@ -126,5 +126,6 @@ define("BANLAN_123", "Hozzáadás");
 define("BANLAN_124", "Lejár");
 define("BANLAN_125", "Az én IP címem használata");
 define("BANLAN_126", "IP / Email");
+define("BANLAN_127", "Az összes [x] sikertelen bejelentkezés törlése az adatbázisból");
 
 ?>

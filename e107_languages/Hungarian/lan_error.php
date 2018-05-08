@@ -39,15 +39,15 @@ Lehet, hogy az általad használt link elavult.");
 define("LAN_ERROR_22", "Az oldalon történő kereséshez kattints ide");
 define("LAN_ERROR_23", "Hozzáférési kisérleted");
 define("LAN_ERROR_24", " sikertelen volt.");
-define("LAN_ERROR_25", "[1]: Nem lehet kiolvasni a core beállításokat az adatbázisból - Core beállítások léteznek, de nem lehet végrehajtani. Kisérlet a core mentés visszaállítására ...");
+define("LAN_ERROR_25", "[1]: Nem lehet kiolvasni a core beállításokat az adatbázisból - A Core beállítások léteznek, de nem lehet végrehajtani. Kisérlet a core mentés visszaállítására ...");
 define("LAN_ERROR_26", "[2]: Nem lehet kiolvasni a core beállításokat az adatbázisból - nem létező core beállítások.");
-define("LAN_ERROR_27", "[3]:A  Core beállítások elmentve - mentés készítés aktív.");
+define("LAN_ERROR_27", "[3]: A Core beállítások elmentve - mentés készítés aktív.");
 define("LAN_ERROR_28", "[4]: Nincs core mentés. Ellenőrizd, hogy az adatbázisod rendelkezik-e tartalommal.");
 define("LAN_ERROR_29", "[5]: Mező(k) maradtak üresen. Lépj vissza és töltsd ki a szükséges mezőket.");
 define("LAN_ERROR_30", "[6]: Nincs megfelelő kapcsolat a mySQL-hoz. Ellenőrizd az e107_config.php fájlt, hogy megfelelő információkat tartalmaz-e.");
 define("LAN_ERROR_31", "[7]: mySQL fut, de az [x] adatbázis nem tud kapcsolódni hozzá.<br />Ellenőrizd az adatbázis létezését és az e107_config.php fájl tartalmát, hogy megfelelő információkat tartalmaz-e.");
 define("LAN_ERROR_32", "A frissítés befejezéséhez másold a következő szöveget az e107_config.php fájlba:");
-define("LAN_ERROR_33", "Folyamat hiba! Át foglak irányítani a kezdő oldalra.");
+define("LAN_ERROR_33", "Folyamat hiba! Átirányítunk a kezdő oldalra.");
 define("LAN_ERROR_34", "Ismeretlen hiba! Informáld az oldal adminját a tapasztalt hibáról:");
 define("LAN_ERROR_35", "400 hiba - Hibás kérés!");
 define("LAN_ERROR_36", "Formázási hiba a keresett oldalon.");
@@ -58,8 +58,12 @@ define("LAN_ERROR_40", "Ha a probléma továbbra is fennáll, lépj kapcsolatba 
 define("LAN_ERROR_41", "A jelentett hiba:");
 define("LAN_ERROR_42", "Részletes hiba információk:");
 define("LAN_ERROR_43", "Az oldal ideiglenesen nem elérhető");
-define("LAN_ERROR_44", "Oldal logo");
+define("LAN_ERROR_44", "Oldal logó");
 define("LAN_ERROR_45", "Mit lehet most tenni?");
 define("LAN_ERROR_46", "Naplózás megtekintése.");
+define("LAN_ERROR_47", "Érvényesítési hiba: A hír címe nem lehet üres!");
+define("LAN_ERROR_48", "Érvényesítési hiba: A hír SEF URL érték mező szükséges és nem lehet üres!");
+define("LAN_ERROR_49", "Érvényesítési hiba: A hír SEF URL egyedi mező - aktuális érték már használatban van! Kérjük, válasszon másik SEF URL értéket.");
+define("LAN_ERROR_50", "Érvényesítési hiba: A hír kategória nem lehet üres!");
 
 ?>

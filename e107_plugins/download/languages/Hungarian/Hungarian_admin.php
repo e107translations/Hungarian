@@ -8,6 +8,7 @@ define("LAN_DL_OPTIONS", "Beállítások");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Általános");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Bejelentés");
 define("LAN_DL_DOWNLOAD_OPT_AGREE", "Megállapodások");
+define("LAN_DL_DOWNLOAD_OPT_SECURITY", "Védelem");
 define("LAN_DL_UPLOAD", "Feltöltés");
 define("LAN_DL_USE_PHP", "PHP használata");
 define("LAN_DL_USE_PHP_INFO", "Minden letöltés PHP-n keresztül történik majd");
@@ -146,3 +147,18 @@ define("DOWLAN_HELP_7", "Segítség a tükör-kiszolgálókhoz");
 define("DOWLAN_HELP_8", "Segítség a feltöltési listához");
 define("DOWLAN_HELP_9", "Segítség a feltöltési típusok");
 define("DOWLAN_HELP_10", "Segítség a feltöltési beállításokhoz");
+
+define("LAN_DL_SECURITY_DESCRIPTION", "A letöltések felhasználhatják a kiszolgálóoldali URL-védelmi funkciókat annak érdekében, hogy megakadályozzák a kapcsolat gyors összekapcsolását és / vagy érvényesítse a kapcsolat lejárati idejét. " .
+	"Ezt a szakaszt úgy kell beállítani, hogy a letöltési kiszolgáló úgy legyen beállítva, hogy csökkentse a letöltő felhasználók megzavarásának esélyét.");
+define("LAN_DL_SECURITY_MODE", "URL védelem módja:");
+define("LAN_DL_SECURITY_MODE_NONE", "Nincs (Alapértelmezés)");
+define("LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5", "NGINX secure_link_md5");
+define("LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE", "Kattintson ide a támogatott NGINX változók listájához");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION",
+	"<a target='_blank' href='https://nginx.org/en/docs/http/ngx_http_secure_link_module.html#secure_link_md5'>NGINX secure_link_md5 expression</a>:");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "Ugyan az mint a kiszolgáló konfiguráció.");
+define("LAN_DL_SECURITY_LINK_EXPIRY", "Az érvényesség időtartama másodpercben:");
+define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "A letöltési hivatkozás létrehozása másodperc után. " .
+	"Csak akkor érvényes, ha a konfiguráció támogatja a lejárati időt. " .
+    "Ha ez a mező üresen marad, akkor nagyon hosszú ideig érvényesül.");
+?>

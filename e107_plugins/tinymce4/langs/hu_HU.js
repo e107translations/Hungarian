@@ -274,6 +274,7 @@ tinymce.addI18n('hu_HU',{
 "Show blocks": "Blokkok mutat\u00e1sa",
 "Show invisible characters": "L\u00e1thatatlan karakterek mutat\u00e1sa",
 "Words: {0}": "Szavak: {0}",
+"{0} words": "Szavak: {0} ",
 "Insert": "Beilleszt\u00e9s",
 "File": "F\u00e1jl",
 "Edit": "Szerkeszt\u00e9s",

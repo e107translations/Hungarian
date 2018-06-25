@@ -47,4 +47,5 @@ define("LAN_LOGIN_32", "Azért látja ezt az üzenetet, mert jelenleg főadmink�
 define("LAN_LOGIN_33", "[Vissza a kezdőlapra]"); 
 define("LAN_LOGIN_34", "A regisztráció és/vagy a bejelentkezés jelenleg le van tiltva!");
 define("LAN_LOGIN_35", "[Engedélyezés itt]");
+define("LAN_LOGIN_36", "A(z) [x] e-mail címre küldött e-mailek visszapattannak. Kérjük, [ellenőrizze az e-mail címét].");
 ?>

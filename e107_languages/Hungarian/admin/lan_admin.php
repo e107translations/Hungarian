@@ -400,4 +400,6 @@ define("LAN_UI_VIEW_GRID_LABEL", "Rács nézet");
 define("LAN_UI_VIEW_LIST_LABEL", "Lista nézet");
 define("LAN_CHECKING_FOR_UPDATES", "Frissítések keresése");
 define("LAN_HEIGHT","Magasság");
+define("LAN_RECALCULATE_COMMENT_COUNT", "Hozzászólások számának újraszámolása");
+define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "A hozzászólások sikeresen újraszámolva!");
 ?>

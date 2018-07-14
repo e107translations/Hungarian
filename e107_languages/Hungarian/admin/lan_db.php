@@ -19,7 +19,7 @@ define("DBLAN_7", "Adatbázis optimalizálása");
 define("DBLAN_8", "Core beállítások mentése");
 define("DBLAN_9", "Core lementése");
 define("DBLAN_10", "Adatbázis eszközök");
-define("DBLAN_11", "A [x] MySQL adatbázis optimalizálva!");
+define("DBLAN_11", "[x] MySQL adatbázis optimalizálva!");
 define("DBLAN_12", "optimalizálva");
 define("DBLAN_15", "Adatbázis frissítések keresése");
 define("DBLAN_16", "Frissítések keresése");
@@ -119,6 +119,6 @@ define("DBLAN_117", "mappába,<br />ahol kibontódik és a szerveren található
 define("DBLAN_118", "A .zip fájlt nem lehet letölteni!");
 define("DBLAN_119", "Biztonsági mentés létrehozása");
 define("DBLAN_120", "Biztonsági mentés létrehozása....");
-define("DBLAN_121", "[x] áthelyezve ide [y].");
+define("DBLAN_121", "[x] áthelyezve ide: [y].");
 
 ?>

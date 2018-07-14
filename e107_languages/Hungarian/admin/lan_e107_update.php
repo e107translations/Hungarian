@@ -14,9 +14,9 @@
 
 define("LAN_UPDATE_2", "Művelet");
 define("LAN_UPDATE_3", "Nem szükséges");
-define("LAN_UPDATE_4", "Frissítés erről [x] erre [y]");
+define("LAN_UPDATE_4", "Frissítés erről: [x] erre: [y]");
 define("LAN_UPDATE_5", "A mag adatbázis struktúra frissítése");
-define("LAN_UPDATE_7", "Végrehajtva [x]");
+define("LAN_UPDATE_7", "[x]");
 define("LAN_UPDATE_12", "Az egyik táblád duplikált bejegyzéseket tartalmaz.");
 define("LAN_UPDATE_13", "További/hiányzó core beállítások hozzáadása");
 define("LAN_UPDATE_14", "Kezdő verzió:");

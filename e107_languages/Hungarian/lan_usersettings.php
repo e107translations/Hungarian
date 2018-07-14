@@ -61,6 +61,11 @@ define("LAN_USET_43", "Hiba történt a felhasználó adatok frissítése közbe
 
 define("LAN_USET_50", "Fiók Törlése");
 define("LAN_USET_51", "Biztos vagy benne? Ez a folyamat nem fordítható vissza! A folyamat befejezésekor, a fiókod és a megadott személyes adataid végleg törlődnek és utánna már nem tudsz bejelentkezni.");
+define("LAN_USET_52", "A megerősítő email elküldve a megadott [x] email címre! A fiók végleges törléséhez kattintson az e-mailben elküldött linkre.");
+define("LAN_USET_53", "Fiók Eltávolítás Megerősítés");
+define("LAN_USET_54", "A megerősítő e-mail elküldve");
+define("LAN_USET_55", "Kérjük, kattintson a következő linkre a fiók törlésének befejezéséhez.");
+define("LAN_USET_56", "Az Ön felhasználói fiókja sikeresen törölve lett!");
 
 define("LAN_7", "Megjelenő név: ");
 define("LAN_8", "ez a név jelenik meg a weboldalon");

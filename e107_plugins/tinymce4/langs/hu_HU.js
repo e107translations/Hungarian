@@ -274,7 +274,8 @@ tinymce.addI18n('hu_HU',{
 "Text color": "Sz\u00f6veg sz\u00edne",
 "Show blocks": "Blokkok mutat\u00e1sa",
 "Show invisible characters": "L\u00e1thatatlan karakterek mutat\u00e1sa",
-"Words: {0}": "Szavak: {0}",
+"Words: {0}": "Szavak sz\u00e1ma: {0}",
+"{0} words": "Szavak sz\u00e1ma: {0}",
 "Insert": "Beilleszt\u00e9s",
 "File": "F\u00e1jl",
 "Edit": "Szerkeszt\u00e9s",
@@ -282,5 +283,7 @@ tinymce.addI18n('hu_HU',{
 "Tools": "Eszk\u00f6z\u00f6k",
 "View": "N\u00e9zet",
 "Table": "T\u00e1bl\u00e1zat",
-"Format": "Form\u00e1tum"
+"Format": "Form\u00e1tum",
+"Powered by {0}": "",
+"Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help": "Rich Text ter\u00fclet. Nyomj ALT-F9-et a men\u00fch\u00f6z. Nyomj ALT-F10-et az eszk\u00f6zt\u00e1rhoz. Nyomj ALT-0-t a s\u00fag\u00f3hoz."
 });

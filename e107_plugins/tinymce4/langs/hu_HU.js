@@ -290,7 +290,6 @@ tinymce.addI18n('hu_HU',{
 "Border width": "Szeg\u00e9ly sz\u00e9less\u00e9g",
 "Border style": "Szeg\u00e9ly stilus",
 "Bootstrap table": "Bootstrap t\u00e1bla",
-"Lead": "Bevezet\u0151",
 "1/4 Width Block": "1/4 Sz\u00e9les Blokk",
 "3/4 Width Block": "3/4 Sz\u00e9les Blokk",
 "1/3 Width Block": "1/3 Sz\u00e9les Blokk",
@@ -301,8 +300,12 @@ tinymce.addI18n('hu_HU',{
 "Dashed": "Szaggatott",
 "Double": "Dupla",
 "Groove": "Horony",
-"Ridge": "Gerinc",
+"Ridge": "Ridge",
 "Inset": "Inset",
 "Outset": "Outset",
+"Lead": "Lead",
+"Well": "Well",
+"Adds a Bootstrap 3 table at cursor": "Bootstrap 3 t\u00e1bla hozz\u00e1ad\u00e1sa kurzorral",
+"Bootstrap Row 2 Column - 4:8": "Bootstrap Sor 2 Oszlop - 4:8",
 "Powered by {0}": ""
 });

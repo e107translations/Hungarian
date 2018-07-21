@@ -284,6 +284,5 @@ tinymce.addI18n('hu_HU',{
 "View": "N\u00e9zet",
 "Table": "T\u00e1bl\u00e1zat",
 "Format": "Form\u00e1tum",
-"Powered by {0}": "",
-"Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help": "Rich Text ter\u00fclet. Nyomj ALT-F9-et a men\u00fch\u00f6z. Nyomj ALT-F10-et az eszk\u00f6zt\u00e1rhoz. Nyomj ALT-0-t a s\u00fag\u00f3hoz."
+"Powered by {0}": ""
 });

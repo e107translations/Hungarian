@@ -130,10 +130,12 @@ define("ADLAN_186", "Elavult fájl(ok) található(ak), amelyeket biztonságosan
 define("ADLAN_187", "Nem lehet létrehozni: [x]. Kérjük, ellenőrizze a mappa jogosultságait.");
 define("ADLAN_188", "Az Ön [x] időzóna beállítása érvénytelen! Állítsa vissza UTC formátumba.<br>A módosításhoz lépjen az Admin -> Beállítások -> Dátum beállítások.");
 define("ADLAN_189", "A következő plugin(ok) nem kompatibilis(ek) az e107 ezen verziójával és ezért el kell távolítani: ");
-
 define("ADLAN_190", "Segítségre van szüksége?");
-define("ADLAN_191", "Csatlakozzon a közösségünkhöz, ha bármilyen problémája adódik az e107 rendszerrel az <a href='https://e107help.org' rel='external'>ingyenes támogatásért</a> vagy az <a href='https://e107hungary.org' rel='external'>e107 Magyarország</a> weboldalon.");
-
+define("ADLAN_191", "Csatlakozzon hozzánk és ha problémája adódik a frissítéssel az [ingyenes támogatásért] keresse fel a weboldalunkat vagy az <a href='https://e107hungary.org' rel='external'>e107 Magyarország</a> weboldalát.");
+define("ADLAN_192", "Csatlakozzon hozzánk és ha bármilyen problémája adódik az [ingyenes támogatásért] keresse fel a weboldalunkat vagy az <a href='https://e107hungary.org' rel='external'>e107 Magyarország</a> weboldalát.");
+define("ADLAN_193", "Az [x] mappa nem írható! Kérem, javítsa ki, mielőtt folytatná.");
+define("ADLAN_194", "Örökölt avatarok mappája észlelhető. Győződjön meg róla, hogy [x]avatars/ mappa írható-e. Kérem, javítsa ki, mielőtt folytatná.");
+define("ADLAN_195", "A régi mappa át lett helyezve a backup könyvtárba");
 
 define("ADLAN_CL_2", "Felhasználók");
 define("ADLAN_CL_3", "Tartalom");
@@ -344,6 +346,14 @@ define("LAN_UI_FILTER_PAST_24_HOURS", "Az elmúlt 24 óra");
 define("LAN_UI_FILTER_PAST_WEEK", "Az elmúlt hét");
 define("LAN_UI_FILTER_PAST_MONTH", "Az elmúlt hónap");
 define("LAN_UI_FILTER_PAST_YEAR", "Az elmúlt év");
+
+define("LAN_UI_FILTER_NEXT_HOUR", "A következő órában");
+define("LAN_UI_FILTER_NEXT_24_HOURS", "A következő 24 órában");
+define("LAN_UI_FILTER_NEXT_WEEK", "A következő héten");
+define("LAN_UI_FILTER_NEXT_MONTH", "A következő hónapban");
+define("LAN_UI_FILTER_NEXT_YEAR", "A következő évben");
+define("LAN_UI_FILTER_IS_EMPTY", "Semmi");
+
 define("LAN_USER_MANAGEALL", "Összes Tag, felhasználó csoport, bővített felhasználói mező beállítások kezelése");
 define("LAN_USER_LIST", "Tagok listája");
 define("LAN_USER_QUICKADD", "Tag hozzáadása");
@@ -402,4 +412,7 @@ define("LAN_CHECKING_FOR_UPDATES", "Frissítések keresése");
 define("LAN_HEIGHT","Magasság");
 define("LAN_RECALCULATE_COMMENT_COUNT", "Hozzászólások számának újraszámolása");
 define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "A hozzászólások sikeresen újraszámolva!");
+define("LAN_NO_RESULTS_FOUND", "Nincs találat.");
+define("LAN_UPGRADING", "Frissítene?");
+define("LAN_DONT_SHOW_AGAIN", "Ne mutasd újra");
 ?>

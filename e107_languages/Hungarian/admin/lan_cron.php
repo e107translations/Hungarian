@@ -64,6 +64,10 @@ define("LAN_CRON_51", "Óra:");
 define("LAN_CRON_52", "Nap:");
 define("LAN_CRON_53", "Hónap:");
 define("LAN_CRON_54", "Hét:");
+define("LAN_CRON_55", "Sikertelen adatbázis mentés");
+define("LAN_CRON_56", "Sikeres adatbázis mentés");
+
+
 define("LAN_CRON_BACKUP", "Mentés");
 define("LAN_CRON_LOGGING", "Naplózás");
 define("LAN_CRON_RUNNING", "Cron futtatás ");

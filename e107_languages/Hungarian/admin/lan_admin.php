@@ -216,7 +216,7 @@ define("LAN_WEBSITE_STATUS","Weboldal Állapot");
 define("LAN_STATS","Statisztika");
 define("LAN_ONLINE","Online");
 define("LAN_ORDER", "Sorrend");
-define("LAN_SELECT", "Kiválasztás ...");
+define("LAN_SELECT", "Kiválasztás");
 define("LAN_ADMIN", "Adminisztrátor");
 define("LAN_ROOT","Fő (Root)");
 define("LAN_LINE","Sor");

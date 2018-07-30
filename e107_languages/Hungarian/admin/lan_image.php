@@ -85,6 +85,7 @@ define('IMALAN_68', "Bezár");
 define('IMALAN_69', "Könyvtár");
 define('IMALAN_70', "Nem-redszerkönyvtárat találtam!");
 
+define("IMALAN_72", "Ikonok");
 define('IMALAN_73', "Bélyegkép minősége");
 define('IMALAN_74', "Válaszd ki a legalacsonyabb értéket, ahol még nincs minőségromlás. Max. 100");
 define('IMALAN_75', "Avatar Szélessége");

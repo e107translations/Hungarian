@@ -127,5 +127,11 @@ define("FORLAN_213", "Bejegyzés");
 define("FORLAN_214", "Hagyja üresen az automatikus cím generáláshoz.");
 define("FORLAN_215", "Nincs telepítve!");
 define("FORLAN_216", "(Új Szülő)");
+define("FORLAN_217", "Rendszer alapértelmezés");
+define("FORLAN_218", "Szövegterület");
+define("FORLAN_219", "Rich Text Szerkesztő");
+define("FORLAN_220", "Bejegyzés szerkesztő");
+define("FORLAN_221", "Melyik szerkesztő legyen használatban a hozzászólások létrehozásához/szerkesztéséhez?");
+define("FORLAN_222", "Gyors válasz szerkesztő");
 
 ?>

@@ -44,5 +44,4 @@ define("LAN_FORUM_NT_TOPIC_MOVED_MSG", "[user] a(z) [thread] témát áthelyezte
 define("LAN_FORUM_NT_POST_CREATED_MSG", "[user] egy új bejegyzést tett közzé a(z) [forum] fórum [thread] témában.\nBejegyzés:\n[post]");
 define("LAN_FORUM_NT_POST_UPDATED_MSG", "[user] frissítette a bejegyzést a(z) [forum] fórum [thread] témában.\nBejegyzés:\n[post]");
 define("LAN_FORUM_NT_POST_DELETED_MSG", "[user] törölte a bejegyzést a(z) [forum] fórum [thread] témában #[postid].\n\nBejegyzés:\n[post]");
-
 ?>

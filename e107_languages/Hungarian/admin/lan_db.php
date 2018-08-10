@@ -120,5 +120,4 @@ define("DBLAN_118", "A .zip fájlt nem lehet letölteni!");
 define("DBLAN_119", "Biztonsági mentés létrehozása");
 define("DBLAN_120", "Biztonsági mentés létrehozása....");
 define("DBLAN_121", "[x] áthelyezve ide: [y].");
-
 ?>

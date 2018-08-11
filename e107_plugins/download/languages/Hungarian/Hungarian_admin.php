@@ -161,4 +161,3 @@ define("LAN_DL_SECURITY_LINK_EXPIRY", "Az érvényesség időtartama másodpercb
 define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "A letöltési hivatkozás létrehozása másodperc után. " .
 	"Csak akkor érvényes, ha a konfiguráció támogatja a lejárati időt. " .
     "Ha ez a mező üresen marad, akkor nagyon hosszú ideig érvényesül.");
-?>

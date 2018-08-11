@@ -67,7 +67,7 @@ define("IMALAN_45", "Hiányzik");
 define("IMALAN_46", "Túl nagy");
 define("IMALAN_47", "Összes feltöltött avatar");
 define("IMALAN_48", "Összes külső avatar");
-define("IMALAN_49", "Avatar-val rendelkező felhasználók");
+define("IMALAN_49", "Avatarral rendelkező felhasználók");
 define("IMALAN_50", "Összes");
 define("IMALAN_51", "Avatar neki(k): ");
 define("IMALAN_52", "Az ImageMagick útvonala nem megfelelő");
@@ -98,7 +98,7 @@ define('IMALAN_81', "Minden olyan kép, amelynek mérete meghaladja ezeket az é
 define('IMALAN_82', "Vízjel szövege");
 define('IMALAN_83', "Opcionális vízjel szöveg");
 define('IMALAN_84', "Vízjel betűtípus");
-define('IMALAN_85', "Opcionális betűtípus. Tölts fel további .ttf betűtípusokat a /fonts mappába a amink könyvtárán belül.");
+define('IMALAN_85', "Opcionális vízjel betűtípus. Tölts fel a .ttf betűtípusokat a /fonts mappába a használt sablonod mappájába.");
 define('IMALAN_86', "Vízjel mérete");
 define('IMALAN_87', "Betűméret pt-ben");
 define('IMALAN_88', "Vízjel elhelyezkedése");
@@ -124,10 +124,10 @@ define('IMALAN_107', "Nem sikerűlt az útvonal legenárása a feltöltési adat
 define('IMALAN_108', "Nem lehet áthelyezni a fájlt innen [x] ide [y]");
 define('IMALAN_109', "Nem sikerűlt lekérdezni az útvonalat");
 define('IMALAN_110', "Útvonal");
-define('IMALAN_111', "A mime-type([x]) nem felismerhető. Sikertelen feltöltés!");
+define('IMALAN_111', "A ([x]) mime-type nem felismerhető. Sikertelen feltöltés!");
 define('IMALAN_112', "A(z) ([x]) könyvtár létrehozása sikertelen!");
 define('IMALAN_113', "Új média ellenőrzése (képek, videók, fájlok) a könyvtárban:");
-define('IMALAN_114', "Még nincs feltöltött média! Töltsön fel néhány fájlt.");
+define('IMALAN_114', "Még nincs feltöltött média!<br>Töltsön fel néhány fájlt.");
 define('IMALAN_115', "Cím (belső használatra)");
 define('IMALAN_116', "Fejrész (publikus)");
 define('IMALAN_118', "Mime Típus");
@@ -198,5 +198,4 @@ define("IMALAN_182", "Importálás közben konvertálja jpeg formátumba");
 define("IMALAN_183", "A PNG és a GIF fájlok automatikusan átkonvertálódnak jpeg formátumba. (kizárt ikonok)");
 define("IMALAN_184", "Alapértelmezett Kép Méretek");
 define("IMALAN_185", "Maximum magasság pixel-ben");
-
 ?>

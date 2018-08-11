@@ -135,7 +135,7 @@ define("ADLAN_191", "Csatlakozzon hozzánk és ha problémája adódik a frissí
 define("ADLAN_192", "Csatlakozzon hozzánk és ha bármilyen problémája adódik az [ingyenes támogatásért] keresse fel a weboldalunkat vagy az <a href='https://e107hungary.org' rel='external'>e107 Magyarország</a> weboldalát.");
 define("ADLAN_193", "Az [x] mappa nem írható! Kérem, javítsa ki, mielőtt folytatná.");
 define("ADLAN_194", "Örökölt avatarok mappája észlelhető. Győződjön meg róla, hogy [x]avatars/ mappa írható-e. Kérem, javítsa ki, mielőtt folytatná.");
-define("ADLAN_195", "A régi mappa át lett helyezve a backup könyvtárba");
+define("ADLAN_195", "A régi mappa át lett helyezve a backup könyvtárba.");
 
 define("ADLAN_CL_2", "Felhasználók");
 define("ADLAN_CL_3", "Tartalom");
@@ -216,7 +216,7 @@ define("LAN_WEBSITE_STATUS","Weboldal Állapot");
 define("LAN_STATS","Statisztika");
 define("LAN_ONLINE","Online");
 define("LAN_ORDER", "Sorrend");
-define("LAN_SELECT", "Kiválasztás");
+define("LAN_SELECT", "Kiválasztás ...");
 define("LAN_ADMIN", "Adminisztrátor");
 define("LAN_ROOT","Fő (Root)");
 define("LAN_LINE","Sor");
@@ -415,5 +415,4 @@ define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "A hozzászólások sikeresen újra
 define("LAN_NO_RESULTS_FOUND", "Nincs találat.");
 define("LAN_UPGRADING", "Frissítene?");
 define("LAN_DONT_SHOW_AGAIN", "Ne mutasd újra");
-
 ?>

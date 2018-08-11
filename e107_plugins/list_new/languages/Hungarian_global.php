@@ -6,3 +6,4 @@
 
 define("LAN_PLUGIN_LIST_NEW_NAME", "Újdonság lista");
 define("LAN_PLUGIN_LIST_NEW_DESCRIPTION", "Ez a plugin lehetőséget ad, hogy az összes kategória újdonságait megjelenítse. Megtekintheted a listát az utolsó látogatásod óta a dátummal együtt vagy általánosan a legújabb hozzáadott listát. Ezenkívül egy menüt is megjeleníthetsz ugyanezekkel. Minden szekciót beállíthatsz az admin felületen.");
+?>

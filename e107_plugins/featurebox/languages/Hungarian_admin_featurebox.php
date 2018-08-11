@@ -28,5 +28,4 @@ define("FBLAN_30", "Kategória sablon");
 define("FBLAN_31", "Véletlenszerű"); 
 define("FBLAN_32", "Paraméterek (opcionális)"); 
 define("FBLAN_33", "Opcionális Javascript Paraméterek (a formátum változtatható)"); 
-
 ?>

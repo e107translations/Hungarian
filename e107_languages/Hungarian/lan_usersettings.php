@@ -58,6 +58,7 @@ define("LAN_USET_40", "A két jelszó nem egyezhet meg");
 define("LAN_USET_41", "A beállítások frissítve és elmentve az adatbázisba.");
 define("LAN_USET_42", "Nem egyezik a hitelesítési kulcs");
 define("LAN_USET_43", "Hiba történt a felhasználó adatok frissítése közben");
+
 define("LAN_USET_50", "Fiók Törlése");
 define("LAN_USET_51", "Biztos vagy benne? Ez a folyamat nem fordítható vissza! A folyamat befejezésekor, a fiókod és a megadott személyes adataid végleg törlődnek és utánna már nem tudsz bejelentkezni.");
 define("LAN_USET_52", "A megerősítő email elküldve a megadott [x] email címre! A fiók végleges törléséhez kattintson az e-mailben elküldött linkre.");

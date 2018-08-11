@@ -131,5 +131,3 @@ define("LAN_POSTED_BY", "Beküldte");
 define("LAN_MESSAGE", "Üzenet");
 define("LAN_WEBSITE", "Weboldal");
 define("LAN_DOWNLOAD_NO_PERMISSION", "A fájl nem található vagy nincs jogosultsága a fájl letöltéséhez!");
-
-?>

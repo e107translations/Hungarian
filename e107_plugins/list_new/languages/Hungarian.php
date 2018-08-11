@@ -1,8 +1,17 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++--------------------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/15 11:15:43
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/e107translations/Hungarian
+|
++--------------------------------------------------------------------------+
+*/
+if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Újdonság Lista"); }
 
 define("LIST_MENU_1", "Legfrissebb");
 define("LIST_MENU_2", "írta");

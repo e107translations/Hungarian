@@ -49,3 +49,6 @@ define("LAN_UPDATE_56", "Rendszer frissítés");
 define("LAN_UPDATE_57", "Mielőtt folytatnád, manuálisan töröld a következő elavult mappákat a rendszerből:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Bővítmény-frissítések");
 define("LAN_UPDATE_CAPTION_CORE", "Rendszer-frissítések");
+
+
+?>

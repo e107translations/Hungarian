@@ -198,3 +198,4 @@ define("IMALAN_182", "Importálás közben konvertálja jpeg formátumba");
 define("IMALAN_183", "A PNG és a GIF fájlok automatikusan átkonvertálódnak jpeg formátumba. (kizárt ikonok)");
 define("IMALAN_184", "Alapértelmezett Kép Méretek");
 define("IMALAN_185", "Maximum magasság pixel-ben");
+?>

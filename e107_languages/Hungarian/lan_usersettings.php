@@ -95,5 +95,3 @@ define("LAN_433", "URL a XUP fájlhoz");
 define("LAN_434", "Mi ez?");
 define("LAN_435", "XML Felhasználó Protokoll fájl");
 define("LAN_CUSTOMTITLE", "Egyedi elnevezés");
-
-?>

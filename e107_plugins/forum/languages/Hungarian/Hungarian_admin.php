@@ -133,6 +133,4 @@ define("FORLAN_219", "Rich Text Szerkesztő");
 define("FORLAN_220", "Bejegyzés szerkesztő");
 define("FORLAN_221", "Melyik szerkesztő legyen használatban a hozzászólások létrehozásához/szerkesztéséhez?");
 define("FORLAN_222", "Gyors válasz szerkesztő");
-define("FORLAN_223", "Csak egyszerű szöveg használata (a bbcode vagy a html nincs engedélyezve!)")
-
-?>
+define("FORLAN_223", "Csak egyszerű szöveg használata (a bbcode vagy a html nincs engedélyezve!)");

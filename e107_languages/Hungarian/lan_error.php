@@ -64,5 +64,3 @@ define("LAN_ERROR_47", "Érvényesítési hiba: A hír címe nem lehet üres!");
 define("LAN_ERROR_48", "Érvényesítési hiba: A hír SEF URL érték mező szükséges és nem lehet üres!");
 define("LAN_ERROR_49", "Érvényesítési hiba: A hír SEF URL egyedi mező - aktuális érték már használatban van! Kérjük, válasszon másik SEF URL értéket.");
 define("LAN_ERROR_50", "Érvényesítési hiba: A hír kategória nem lehet üres!");
-
-?>

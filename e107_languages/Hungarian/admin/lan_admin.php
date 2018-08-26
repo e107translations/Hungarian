@@ -415,3 +415,4 @@ define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "A hozzászólások sikeresen újra
 define("LAN_NO_RESULTS_FOUND", "Nincs találat.");
 define("LAN_UPGRADING", "Frissítene?");
 define("LAN_DONT_SHOW_AGAIN", "Ne mutasd újra");
+define("LAN_UI_DROPZONE_DROP_FILES", "A feltöltéshez húzza ide a fájlokat");

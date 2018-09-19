@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/01/15 11:15:43
+|        Last Modified: 2018/09/13 10:13:43
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -33,5 +33,8 @@ define("LANCONTACT_17", "Adja meg a nevét!");
 define("LANCONTACT_18", "Adja meg az e-mail címét!");
 define("LANCONTACT_19", "Adja meg az e-mail tárgyát!");
 define("LANCONTACT_20", "Adja meg az üzenet szövegét!");
-
+define("LANCONTACT_21", "Hozzájárulok ahhoz, hogy ez a weboldal tárolja az információkat, hogy válaszolhassanak a kérdésemre.");
+define("LANCONTACT_22", "Adatvédelmi irányelvek");
+define("LANCONTACT_23", "Itt találja meg az adatvédelmi irányelveinket: [x]");
+define("LANCONTACT_24", "GDPR megállapodás");
 ?>

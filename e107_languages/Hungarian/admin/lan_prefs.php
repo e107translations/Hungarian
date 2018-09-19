@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:08:21
+|        Last Modified: 2018/09/13 10:15:21
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -268,4 +268,7 @@ define("PRFLAN_273", "Élettartam másodpercben. 0 = a böngésző bezárásakor
 define("PRFLAN_274", "Csoport akik láthatják a kapcsolat űrlapot.");
 define("PRFLAN_275", "Az oldal megtekintése https (SSL) használatával a beállítás módosításához.");
 define("PRFLAN_276", "PHP alapértelmezés (Ajánlott)");
-?>
+define("PRFLAN_277", "GDPR beállítások");
+define("PRFLAN_278", "Az adatvédelmi irányelvek URL címe");
+define("PRFLAN_279", "Győződjön meg arról, hogy az url létezik! A legjobb, ha abszolút URL-t használ. Ez a beállítás minden olyan helyen használható, amelyhez a felhasználó beleegyezése szükséges (pl. regisztráció, kapcsolat/menü stb.).");
+define("PRFLAN_280", "A weboldalra vonatkozó feltételek URL címe");

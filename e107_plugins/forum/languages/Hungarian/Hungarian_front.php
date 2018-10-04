@@ -266,5 +266,6 @@ define("LAN_FORUM_8026", "A téma kiemelést nem lehet visszavonni");
 define("LAN_FORUM_8027", "Nincs kiválasztva művelet!");
 define("LAN_FORUM_8028", "Vissza"); 
 define("LAN_FORUM_8029", "Az új topik sikeresen létrehozva!");
+define("LAN_FORUM_8030", "A bejegyzés nem törölhető! (moderátor jogosultság szükséges)");
 
 ?>

@@ -81,6 +81,7 @@ define("LAN_ALT_76", "Felhasználói csoport korlátozás (egy numerikus érték
 define("LAN_ALT_77", "Felhasználók egy adott csoportja (a fent beállított adatbázison) kap engedélyt");
 define("LAN_ALT_78", "Hibás jelszó");
 define("LAN_ALT_79", "Ha a felhasználó létezik az elsődleges DB-ben, de helytelen jelszót adott meg, akkor mi történjen?");
+define('LAN_ALT_80', "Port: ");
 
 define("IMPORTDB_LAN_2", "Egyszerű szöveg");
 define("IMPORTDB_LAN_3", "Joomla (sózott)");

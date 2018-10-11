@@ -5,4 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_PAGE_BOCHAP", "Keresés a könyvlapok/fejezetek között");
-define("LAN_PLUGIN_PAGE_NAME", "Pages");
+define("LAN_PLUGIN_PAGE_NAME", "Oldalak");

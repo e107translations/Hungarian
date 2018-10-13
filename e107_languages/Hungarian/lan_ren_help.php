@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/01/15 11:15:43
+|        Last Modified: 2018/10/13 06:11:43
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -73,4 +73,16 @@ define("LANHELP_51", "HTML sortörés tiltása: [nobr]szöveg[/nobr]");
 define("LANHELP_52", "HTML sortörés: [br]");
 define("LANHELP_53", "Sorkizárt: [justify]A szöveg sorkizárt lesz[/justify]");
 define("LANHELP_54", "HTML blokk (div tag): [block]A Tartalom, szöveg[/block]");
+define("LANHELP_55", "Formátum");
+define("LANHELP_56", "Tábla beszúrása");
+define("LANHELP_57", "Fejléc");
+define("LANHELP_58", "Blokk");
+define("LANHELP_59", "Idézet");
+
+define("LANHELP_60", "Kód Blokk");
+define("LANHELP_61", "Kódsor");
+define("LANHELP_62", "Bekezdés");
+define("LANHELP_63", "Kép beszúrása a Média Kezelőből");
+define("LANHELP_64", "Fájl beszúrása a Média Kezelőből");
+define("LANHELP_65", "Méret");
 ?>

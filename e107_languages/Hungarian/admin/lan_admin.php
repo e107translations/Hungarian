@@ -118,7 +118,7 @@ define("ADLAN_161", "Egyéni mezők?");
 define("ADLAN_162", "Egy sablon újabb verziója érhető el:");
 define("ADLAN_163", "Egy bővítmény újabb verziója érhető el:");
 define("ADLAN_164", "Sikeresen bejelentkezett, mint: [x]!");
-define("ADLAN_165", "CMS Rendszer: e107");
+define("ADLAN_165", "e107 CMS Rendszer");
 define("ADLAN_166", "Vissza a Weboldalra");
 define("ADLAN_167", "Függő szóróanyagok");
 define("ADLAN_168", "Látogatók");

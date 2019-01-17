@@ -126,5 +126,7 @@ define("LAN_SIGNUP_118", "Ide: [x]");
 define("LAN_SIGNUP_119", "Ne küldjön e-mailt");
 define("LAN_SIGNUP_120", "Vagy");
 define("LAN_SIGNUP_121", "Másik e-mail cím használata");
-
+define("LAN_SIGNUP_122", "Adatvédelmi irányelvek");
+define("LAN_SIGNUP_123", "Felhasználási feltételek");
+define("LAN_SIGNUP_124", "A regisztrációval elfogadjs az [x]et és a [y]et.");
 ?>

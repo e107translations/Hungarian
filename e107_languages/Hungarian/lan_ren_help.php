@@ -85,4 +85,3 @@ define("LANHELP_62", "Bekezdés");
 define("LANHELP_63", "Kép beszúrása a Média Kezelőből");
 define("LANHELP_64", "Fájl beszúrása a Média Kezelőből");
 define("LANHELP_65", "Méret");
-?>

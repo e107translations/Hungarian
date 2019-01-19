@@ -34,4 +34,3 @@ define("LANDT_09s", "m-perce");
 define("LANDT_AGO", ".");
 define("LANDT_IN", "-");
 define("LANDT_10", "Most");
-?>

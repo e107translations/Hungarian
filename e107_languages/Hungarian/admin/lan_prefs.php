@@ -95,6 +95,7 @@ define("PRFLAN_95", "Bővítmény részleteinek megjelenítése:");
 define("PRFLAN_96", "Minden admin oldalon meg fog jelenni az infó minden bővítményhez, amelyik támogatja ezt a lehetőséget");
 define("PRFLAN_97", "Egyedi 'Bővítmény infó' menü:");
 define("PRFLAN_98", "Ha letiltod, akkor minden bővítmény külön, saját menüben fogja megjeleníteni az információit. Ha bejelölt, minden információ egy menüben fog megjelenni.");
+
 define("PRFLAN_101", "Szövegmegjelenítés");
 define("PRFLAN_102", "Kattintható linkek cseréje");
 define("PRFLAN_103", "Ha bejelölöd és természetesen a fenti 'Kattintható Linkek' (fentebb) is be van jelölve, akkor a beküldött link vagy email cím hiperlinkként jelenik meg a lenti szövegdobozban lévő szöveget használva. Ezzel elkerülheted, hogy a túl hosszú URL/Email széttörje az oldal elrendezését.");
@@ -105,6 +106,7 @@ define("PRFLAN_107", "Email linket helyettesítő szöveg");
 define("PRFLAN_108", "az email linkek erre a szövegre lesznek cserélve, kép használható az &lt;img tag-gel, a kép teljes elérési útját kell megadni");
 define("PRFLAN_109", "Hosszú szavak törése a szövegben");
 define("PRFLAN_110", "a megadottnál hosszabb szavak új sorba fognak kerülni");
+
 define("PRFLAN_111", "Hosszú szavak törése a menü szövegben");
 define("PRFLAN_113", "Ki");
 define("PRFLAN_116", "Kinek a részére engedélyezed a HTML kódokat");
@@ -112,6 +114,7 @@ define("PRFLAN_117", "Ez megengedi a felhasználóknak, hogy HTML kódot haszná
 define("PRFLAN_118", "Geshi használata a szintaxis kiemeléshez");
 define("PRFLAN_119", "A Geshi egy nyílt forrású többnyelvű a szintaxis kiemelő, ld. a [link] oldalt a további információkhoz");
 define("PRFLAN_120", "Alapértelmezett Geshi szintaxis nyelv");
+
 define("PRFLAN_121", "ha nincs megadva nyelv a code bbtag-ban, ez a nyelv lesz használva a kiemeléshez");
 define("PRFLAN_122", "WYSIWYG engedélyezése");
 define("PRFLAN_123", "Egy WYSIWYG (azt-kapod-amit-látsz) szerkesztőt fog megjeleníteni a szövegmezőkben, ha lehetséges. Csak adminok és azon felhasználók használhatják, akiknek engedélyezett HTML kódok használata.");
@@ -122,6 +125,7 @@ define("PRFLAN_127", "Kattintható linkek létrehozása");
 define("PRFLAN_128", "Ennek bekapcsolásával a link vagy az email cím kattintható hyperlink lesz");
 define("PRFLAN_129", "Többszörös bejelentkezés tiltása:");
 define("PRFLAN_130", "Ennek aktiválása megakadályozza, hogy többen is belépjenek ugyanazzal a felhaználónévvel és jelszóval (bejelentkezési adatok megosztása)");
+
 define("PRFLAN_133", "GD bővítmény szükséges, nem található");
 define("PRFLAN_134", "Összes kérés átirányítása az oldal URL-re");
 define("PRFLAN_135", "Például, ha az oldalad címe http://foo.com , és valaki a http://www.foo.com címet írja be, akkor át lesz irányítva a http://foo.com -ra");
@@ -130,6 +134,7 @@ define("PRFLAN_137", "Memória használat megjelenítése:");
 define("PRFLAN_138", "CAPTCHA bekapcsolása elfelejtett jelszó esetén:");
 define("PRFLAN_139", "Figyelmeztetés megjelenítése, ha a Főadmin már több, mint 30 napja nem változtatta meg a jelszavát");
 define("PRFLAN_140", "A regisztrációt követően megjelenő szöveg");
+
 define("PRFLAN_142", "Csak Flood");
 define("PRFLAN_143", "Csak Hibás Bejelentkezés");
 define("PRFLAN_144", "Flood és Hibás bejelentkezés");
@@ -151,6 +156,7 @@ define("PRFLAN_157", "Az összes megjelenő név a bejelentkező névre változi
 define("PRFLAN_158", "Megjelenő név max. hossza (5..100)");
 define("PRFLAN_159", "oldal megtekintése ezzel");
 define("PRFLAN_160", "Szerver ellenőrzése az email cím érvényességének ellenőrzésekor.");
+
 define("PRFLAN_161", "Hozzászólások engedélyezése");
 define("PRFLAN_162", "Oldal Kapcsolat információ");
 define("PRFLAN_163", "pl.: cég név, cím, telefon, stb.");
@@ -160,6 +166,7 @@ define("PRFLAN_166", "Emotikonok megjelenítése a hozzászólásoknál");
 define("PRFLAN_167", "Írj be egy email címet");
 define("PRFLAN_168", "Oldal kapcsolattartó személy");
 define("PRFLAN_169", "Ha a kiválasztott csoport egynél több személyt tartalmaz, a felhasználó kiválaszthatja a személyt a csoportból.");
+
 define("PRFLAN_172", "Bejelentkező név maximális hossza (10..100)");
 define("PRFLAN_173", "e107 frissítések ellenőrzése egyszer/nap:");
 define("PRFLAN_174", "Név az oldalról történő email válaszokhoz");
@@ -169,6 +176,7 @@ define("PRFLAN_177", "A válaszokhoz hozzáadott cím az oldalról történő le
 define("PRFLAN_178", "Jelszó átadási módszer:");
 define("PRFLAN_179", "(Csak akkor támogatott, ha használod a sessions-t a felhasználó nyomkövetéséhez.)");
 define("PRFLAN_180", "Egyszerű szöveg");
+
 define("PRFLAN_181", "CHAP, egyszerű szöveg másodlagos");
 define("PRFLAN_182", "Csak CHAP");
 define("PRFLAN_183", " CHAP megköveteli a JS engedélyezését a felhasználó böngészőjében");
@@ -176,6 +184,7 @@ define("PRFLAN_184", "Bejelentkezés módszere");
 define("PRFLAN_188", "Jelszó kódolása");
 define("PRFLAN_189", "md5 (Örökölt)");
 define("PRFLAN_190", "Salted eljárás");
+
 define("PRFLAN_191", "(Az md5 általában elegendő az Intranethez, és gyakran más oldalakhoz is)");
 define("PRFLAN_192", "Egy véletlenszerű előre definiált bejelentkező név legenerálása egy minta alapján");
 define("PRFLAN_193", "Hagyd üresen ahhoz, hogy a felhasználó maga határozza meg a bejelentkező nevét");
@@ -186,6 +195,7 @@ define("PRFLAN_197", "Új felhasználó automatikus bejelentkezése a regisztrá
 define("PRFLAN_198", "Ha letiltva, akkor a felhasználónak be kell jelentkeznie a regisztráció után");
 define("PRFLAN_199", "Admin Al-linkek megjelenítése");
 define("PRFLAN_200", "Ha engedélyezed, akkor az Admin legördülő navigációs menü (ha a weboldal sminkje is támogatja) létrehozza az almenüket, ha szükséges (Pl.: Hírek - Hír létrehozása).");
+
 define("PRFLAN_201", "Felhasználónév és Jelszó");
 define("PRFLAN_202", "Email és Jelszó");
 define("PRFLAN_203", "Felhasználónév/Email és Jelszó");
@@ -196,6 +206,7 @@ define("PRFLAN_207", "Csak-Tagok mód megjelenik az URL-nél, ha bármelyik felt
 define("PRFLAN_208", "Felhasználó csoport, amely email linket használhat az oldalon");
 define("PRFLAN_209", "További tulajdonságok");
 define("PRFLAN_210", "Hozzászólás és üzenet");
+
 define("PRFLAN_211", "Nem lehet létrehozni email címet opcionálisan, ha szükséges az ellenőrzéshez vagy a bejelentkezéshez");
 define("PRFLAN_212", "Az érték ehhez [x] túl magas - változtasd meg erre [y]");
 define("PRFLAN_213", "Az érték ehhez [x] túl alacsony - változtasd meg erre [y]");
@@ -272,4 +283,5 @@ define("PRFLAN_277", "GDPR beállítások");
 define("PRFLAN_278", "Az adatvédelmi irányelvek URL címe");
 define("PRFLAN_279", "Győződjön meg arról, hogy az url létezik! A legjobb, ha abszolút URL-t használ. Ez a beállítás minden olyan helyen használható, amelyhez a felhasználó beleegyezése szükséges (pl. regisztráció, kapcsolat/menü stb.).");
 define("PRFLAN_280", "A weboldalra vonatkozó feltételek URL címe");
+
 define("PRFLAN_281", "A 2 linket a weboldalon különböző oldalakon használhatjuk (pl. regisztráció és kapcsolat/menü).\nKérjük, hozzon létre 2 oldalt (ha még nem tette meg), amelyek tartalmazzák az 'Adatvédelmi irányelveket' és a weboldal 'Felhasználási feltételeit'.\nSzámos olyan webhely található, ahol létrehozhatja ezt a szöveget.\nMásolja át az oldalak URL-címét a fenti mezőkbe (pl. /page/privacy-policy,  /page/terms-and-conditions vagy page.php?id=2).\nElőször győződjön meg róla, hogy az oldalak és az URL címek léteznek és működnek-e!");

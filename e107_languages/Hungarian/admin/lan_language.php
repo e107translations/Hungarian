@@ -35,8 +35,8 @@ define("LANG_LAN_21", "Nyelvi-csomagok");
 define("LANG_LAN_25", "Nyelvi-csomag létrehozás állapota");
 define("LANG_LAN_26", "Nyelvi fájlok betöltése csak a jelenlegi nyelvhez");
 define("LANG_LAN_27", "Ha bejelölöd, de a nyelv nem elérhető, akkor hibára fog futni.");
-define("LANG_LAN_28", "Jelölje be a négyzetet, ha Ön tagja az [e107 fordító csapatnak].");
-define("LANG_LAN_EML", "Kérlek küld el a nyelvi csomagod ide:");
+//define("LANG_LAN_28", "Jelölje be a négyzetet, ha Ön tagja az [e107 fordító csapatnak].");
+//define("LANG_LAN_EML", "Kérlek küld el a nyelvi csomagod ide:");
 define("LANG_LAN_32", "Telepített nyelvek");
 define("LANG_LAN_33", "Csak a hibákat jelenítse meg az érvényesítés alatt");
 define("LANG_LAN_50", "Admin-felület nyelve");
@@ -69,4 +69,4 @@ define("LANG_LAN_150", "[b]Mielőtt bármilyen LAN változást beküldene bármi
 define("LANG_LAN_151", "Elérhető");
 define("LANG_LAN_152", "Az [e107 fordító csapat] jóvoltából.");
 define("LANG_LAN_153", "Megjelenés előtti");
-?>
+define("LANG_LAN_154", "A nyelvi csomag sikeresen létrehozva! [Ide] kattinva elolvashatja az instrukciókat és továbbíthatja a  Github tárolóba.);

@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/09 16:16:09
+|        Last Modified: 2019/02/07 13:17:34
 |
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
@@ -25,10 +25,9 @@ define("CHATBOX_L14", "Hangulatjelek");
 define("CHATBOX_L15", "A bejegyzésed túl hosszú, vagy üresen lett elküldve");
 define("CHATBOX_L17", "Duplikált bejegyzés");
 define("CHATBOX_L18", "Chatbox bejegyzés moderálva");
-define("CHATBOX_L19", "Csak egy bejegyzés lehetséges minden " . (FLOODPROTECT? FLOODTIMEOUT: 'n/a') . " másodpercben");
+define("CHATBOX_L19", "Csak egy bejegyzés beküldése lehetséges [x] másodpercenként.");
 define("CHATBOX_L20", "Chatbox (összes bejegyzés)");
 define("CHATBOX_L22", "beküldve");
 define("CHATBOX_L24", "Nem rendelkezel megfelelő jogosultsággal az oldal megtekintéséhez.");
 define("CHATBOX_L25", "[ a bejegyzés tiltva lett ]");
 define("LAN_CHATBOX_100", "Ide írd az üzenetet");
-?>

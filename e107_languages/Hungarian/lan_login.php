@@ -4,11 +4,9 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/01/15 11:15:43
+|        Last Modified: 2019/02/07 13:21:55
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
-|
 +--------------------------------------------------------------------------+
 */
 
@@ -48,3 +46,4 @@ define("LAN_LOGIN_33", "[Vissza a kezdőlapra]");
 define("LAN_LOGIN_34", "A regisztráció és/vagy a bejelentkezés jelenleg le van tiltva!");
 define("LAN_LOGIN_35", "[Engedélyezés itt]");
 define("LAN_LOGIN_36", "A(z) [x] e-mail címre küldött e-mailek visszapattannak. Kérjük, [ellenőrizze az e-mail címét].");
+define("LAN_LOGIN_37", "A webhely adminisztrátora még nem aktiválta a fiókját.");

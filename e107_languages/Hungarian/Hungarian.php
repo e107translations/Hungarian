@@ -132,3 +132,6 @@ define("LAN_MESSAGE", "Üzenet");
 define("LAN_WEBSITE", "Weboldal");
 define("LAN_DOWNLOAD_NO_PERMISSION", "A fájl nem található vagy nincs jogosultsága a fájl letöltéséhez!");
 define("LAN_REQUIRED", "Kötelező");
+define("LAN_DATESTAMP","Dátumbélyeg");
+define("LAN_SUBJECT","Tárgy");
+define("LAN_CATEGORIES", "Kategóriák");

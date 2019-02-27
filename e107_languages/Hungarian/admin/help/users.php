@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/22 13:08:21
+|        Last Modified: 2019/02/27 10:57:32
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -51,28 +51,31 @@ switch ($action)
 
   default :
 	$text = "Itt a regisztrált felhasználókra vonatkozó beállításokat tudod módosítani. Módosíthatod a beállításaikat, adminisztrátori jogot adhatsz nekik, új csoportba sorolhatod őket, stb...<br /><br />
-	The sort order can be changed by clicking on the column heading.<br />
-	The displayed columns can be changed by clicking on 'Edit Display Options', selecting the required columns, then clicking on 'Search/Refresh'<br /><br />
-	<b>Info</b><br />
-	Show this user's profile (can also click on their display name)<br /><br />
-	<b>Edit</b><br />
-	Edit the settings for this user. <br /><br />
-	<b>Ban/Unban</b><br />
-	Determine whether the user can access the site. <br /><br />
-	<b>Activate</b><br />
-	This activates a user who would normally have replied to the activation email.<br /><br />
-	<b>Resend Email</b><br />
-	Resends the activation email to the user.<br /><br />
+
+	A rendezési sorrend az oszlopfejlécre kattintva módosítható.<br /><br />
+
+	<b>Felhasználói csoportok</b><br />
+	A felhasználói csoportok kétféleképpen állíthatók be: 'inline' a 'Felhasználói csoportok' oszlopra kattintva, vagy egy/több felhasználó(k) kiválasztásával és a táblázat alján lévő 'kötegelt' opciók használatával.<br /><br />
+
+	<b>Szerkesztés</b><br />
+	Itt tekintheti meg a felhasználó összes beállítását és módosíthatja is azokat.<br /><br />
+
+	<b>Kitiltás/Kitiltás visszavonása</b><br />
+	Az opció használatával állíthatja be, hogy a felhasználó hozzáférhet-e az oldalhoz.<br /><br />
+
+	<b>Aktiválás</b><br />
+	Ez a funkció aktiválja azt a felhasználót, aki rákattintott az aktiválási e-mail-ben található megerősítő linkre.<br /><br />
+
+	<b>Email újraküldése</b><br />
+	Újra elküldi az aktiváló e-mailt a felhasználónak.<br /><br />
+
 	<b>Teszt email</b><br />
-	Check user's email address for validity (doesn't send an email)<br /><br />
-	<b>Set Class</b><br />
-	Set class membership for a user<br /><br />
-	<b>Delete</b><br />
-	Totally removes the user from membership of the site (any forum posts, comments etc remain, and are flagged as from a 'Deleted User')
-	";
+	Az opció használatával ellenőrizheti a felhasználó e-mail címét és annak érvényességét (érvénytelenség esetén nem küld e-mailt).<br /><br />
+
+	<b>Törlés</b><br />
+	Az opció használatával véglegesen eltávolítja a felhasználót a weboldalról (bármilyen fórum hozzászólás, megjegyzés stb., megmarad és a 'Törölt Felhasználó' jelzőt kapja).";
 }
 
 
 $ns -> tablerender($caption, $text);
 unset($text);
-?>

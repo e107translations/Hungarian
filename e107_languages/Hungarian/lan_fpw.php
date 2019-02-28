@@ -40,7 +40,7 @@ define("LAN_FPW13", "Az új jelszó beállításához kövesd a levélben lévő
 define("LAN_FPW14", "weboldalon a következő IP címről");
 define("LAN_FPW15", "Ahhoz, hogy a jelszavad ténylegesen törlésre kerüljön, látogass el az alábbi URL címen elérhető oldalra.");
 define("LAN_FPW16", "Ha nem te kérted a jelszavad törlését és NEM akarod azt megváltoztatni, akkor nyugodtan figyelmen kívül hagyhatod ezt a levelet.");
-define("LAN_FPW17", "A törléshez szükséges link 48 óráig lesz érvényes.");
+define("LAN_FPW17", "A törléshez szükséges link 10 percig lesz érvényes.");
 define('LAN_FPW18', "Jelszavad törlése kezdeményezve");
 define('LAN_FPW19', "Sikertelen email küldés");
 define('LAN_FPW20', "Sikeres email küldés");

@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/01/15 11:15:43
+|        Last Modified: 2019/03/31 13:17:28
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -28,14 +28,14 @@ define("UE_LAN_23", "Használatban");
 define("UE_LAN_HIDE", "Elrejtés");
 define("UE_LAN_LOCATION", "Lakóhely");
 define("UE_LAN_LOCATION_DESC", "Felhasználó lakóhelye");
-define("UE_LAN_AIM", "AIM Cím");
-define("UE_LAN_AIM_DESC", "AIM Cím");
+//define("UE_LAN_AIM", "AIM Cím");
+//define("UE_LAN_AIM_DESC", "AIM Cím");
 define("UE_LAN_ICQ", "ICQ Szám");
 define("UE_LAN_ICQ_DESC", "ICQ Szám");
-define("UE_LAN_YAHOO", "Yahoo! Cím");
-define("UE_LAN_YAHOO_DESC", "Yahoo! Cím");
-define("UE_LAN_MSN", "MSN Cím");
-define("UE_LAN_MSN_DESC", "MSN Cím");
+//define("UE_LAN_YAHOO", "Yahoo! Cím");
+//define("UE_LAN_YAHOO_DESC", "Yahoo! Cím");
+//define("UE_LAN_MSN", "MSN Cím");
+//define("UE_LAN_MSN_DESC", "MSN Cím");
 define("UE_LAN_HOMEPAGE", "Weboldal");
 define("UE_LAN_HOMEPAGE_DESC", "Felhasználó weboldala (url)");
 define("UE_LAN_BIRTHDAY", "Születésnap");
@@ -55,5 +55,3 @@ define("UE_LAN_MALE", "Férfi");
 define("UE_LAN_FEMALE", "Nő");
 define("UE_LAN_COMMENT", "Hozzászólások");
 define("UE_LAN_COMMENT_DESC", "Hozzászólás Doboz");
-
-?>

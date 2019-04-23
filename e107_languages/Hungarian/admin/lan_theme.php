@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:08:21
+|        Last Modified: 2019/04/23 09:14:43
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -95,7 +95,7 @@ define("TPVLAN_83", "Az automatikus letöltés nem működik!");
 define("TPVLAN_84", "[Manuális letöltés]");
 define("TPVLAN_85", "Kapcsolódás...");
 define("TPVLAN_86", "Az oldal sablont nem lehet megváltoztatni!");
-define("TPVLAN_87", "Sablon Beállítások Beolvasása");
+//define("TPVLAN_87", "Sablon Beállítások Beolvasása");
 define("TPVLAN_88", "Konvertálás");
 define("TPVLAN_89", "Az admin műszerfal beállítások alkalmazása az összes adminisztrátor számára");
 
@@ -104,6 +104,13 @@ define("TPVLAN_92", "Új Sablon Mappa:");
 define("TPVLAN_93", "Kiválasztás");
 define("TPVLAN_94", "A weboldal sablonja megváltoztatva erre: [x].");
 define("TPVLAN_95", "Felület");
+define("TPVLAN_96", "Állítsa be az URL/script-utakat, amelyek automatikusan használják ezt az elrendezést. Soronként egy.");
+
+define("TPVLANHELP_01", "A téma kezelő lehetővé teszi a webhely nyilvános és az adminisztrációs terület témájának beállítását.");
+define("TPVLANHELP_02", "A további részletekért nézze meg az eszköztippeket (ha elérhető).");
+define("TPVLANHELP_03", "Alapértelmezés szerint a láthatósági szűrő megváltoztatja a téma elrendezését egy részleges URL-egyezés alapján.");
+define("TPVLANHELP_04", "A sor végére tegyen egy [b]![/b] jelet, amely pontosan illeszkedik az URL végéhez.");
+define("TPVLANHELP_05", "A sor végére tegyen egy [b]![/b] jelet, amely pontosan illeszkedik a script-útvonal végéhez.");
 
 define("TPVLAN_CONV_1", "1 lépés");
 define("TPVLAN_CONV_2", "2 lépés");
@@ -123,5 +130,3 @@ define("TPVLAN_CONV_13", "Milyen kategóriába tartozik ez a sablon?");
 define("TPVLAN_CONV_14", "Engedélyezi választható opcióként a stíluslapot a Sablon Kezelőben.");
 define("TPVLAN_CONV_15", "Adja meg a stíluslap nevét");
 define("TPVLAN_CONV_16", "A sablon demo URL címe.");
-
-?>

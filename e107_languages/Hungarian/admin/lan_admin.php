@@ -416,6 +416,7 @@ define("LAN_NO_RESULTS_FOUND", "Nincs találat.");
 define("LAN_UPGRADING", "Frissítene?");
 define("LAN_DONT_SHOW_AGAIN", "Ne mutasd újra");
 define("LAN_UI_DROPZONE_DROP_FILES", "A feltöltéshez húzza ide a fájlokat");
+define("LAN_DOWNLOAD_COMPLETE", "A letöltés befejeződött!");
 define("LANINS_130", "Parkolt Domain: ");
 define("LANINS_131", "A parkolt domain, amely az Ön új e107 weboldala lesz.");
 define("LANINS_132", "domain.com");

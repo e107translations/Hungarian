@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/01/15 11:15:43
+|        Last Modified: 2019/05/29 8:09:23
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -49,4 +49,3 @@ define('LAN_FPW21', "A felhasználó rákattintott a jelszó törlés linkre");
 define("LAN_FPW_100", "Új jelszó kérése");
 define("LAN_FPW_101", "Semmi gond. Csak add meg az email címedet, és elküldjük a további teendőket.");
 define("LAN_FPW_102", "Jelszó törlése");
-?>

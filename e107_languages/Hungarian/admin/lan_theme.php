@@ -11,9 +11,9 @@
 |
 +--------------------------------------------------------------------------+
 */
-define("TPVLAN_1", "Ez a(z) <b>'".PREVIEWTHEMENAME."'</b> sablon előnézete.
+define("TPVLAN_1", "Ez a(z) <b>{PREVIEWTHEMENAME}</b> sablon előnézete.
 Ez nem az oldalad sablonja, csak azt mutatja meg, hogyan nézne ki a weboldal ezzel a sablonnal.
-<br />A sablon használatához lépj <a href='".e_ADMIN."theme.php'>a sablon kezelőbe</a> és válaszd a 'Beállítás az oldal témájaként' opciót.<br /><a href='".e_ADMIN."theme.php'>További témák előnézete</a>");
+<br />A sablon használatához lépj <a href='{e_ADMIN}theme.php'>a sablon kezelőbe</a> és válaszd a 'Beállítás az oldal témájaként' opciót.<br /><a href='{e_ADMIN}theme.php'>További témák előnézete</a>");
 define("TPVLAN_2", "Sablon előnézete");
 define("TPVLAN_3", "Az oldal témája megváltoztatva.");
 define("TPVLAN_5", "Weboldal");
@@ -89,8 +89,8 @@ define("TPVLAN_78", "Követelmények");
 define("TPVLAN_79", "cURL szükséges a funkció használatához. Forduljon a webhosting szolgáltatójához, hogy engedélyezze a cURL használatát.");
 define("TPVLAN_80", "Nem találhatóak témák, amelyek megfelelnek a keresési feltételeknek.");
 
-define("TPVLAN_81", "Letöltés..."); 
-define("TPVLAN_82", "A letöltés befejezve!");
+//define("TPVLAN_81", "Letöltés..."); 
+//define("TPVLAN_82", "A letöltés befejezve!");
 define("TPVLAN_83", "Az automatikus letöltés nem működik!");
 define("TPVLAN_84", "[Manuális letöltés]");
 define("TPVLAN_85", "Kapcsolódás...");

@@ -266,9 +266,6 @@ define ('EPL_ADLAN_254', "Ez ellenőrzi a plugin nyelvi fájljait és megkeresi 
 define ('EPL_ADLAN_255', "Fájlok felülírása");
 define ('EPL_ADLAN_256', "[x] kihagyva (már létezik)");
 
-define ('TPVLAN_81', "Letöltés..."); 
-define ('TPVLAN_82', "A letöltés befejezve!");
-
 define ('LAN_RELEASED', "Megjelenés");
 define ('LAN_REPAIR_PLUGIN_SETTINGS', "Plugin beállítások visszaállítása");
 define ('LAN_SYNC_WITH_GIT_REPO', "Git Repo Frissítés");

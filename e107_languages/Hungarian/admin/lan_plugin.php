@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:08:21
+|        Last Modified: 2019/05/31 9:52:33
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -276,4 +276,3 @@ define ('LAN_INSTALL_SUCCESSFUL', "Sikeres telepítés");
 define ('LAN_INSTALL_FAIL', "Sikertelen telepítés");
 define ('LAN_UNINSTALL_FAIL', "Nem lehet eltávolítani!");
 define ('LAN_PLUGIN_IS_USED', "A(z) [x] plugin-t használja:");
-?>

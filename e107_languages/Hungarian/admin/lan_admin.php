@@ -421,3 +421,4 @@ define("LANINS_130", "Parkolt Domain: ");
 define("LANINS_131", "A parkolt domain, amely az Ön új e107 weboldala lesz.");
 define("LANINS_132", "domain.com");
 define("LANINS_133", "Itt hozhat létre egy új e107 telepítést a megadott domain név alá. Használja a szerver adminisztrációs szoftverét (p.l.: cPanel) - a domainjét parkolja a [x] domain név felé.");
+define("LAN_UI_FILTER_SEARCH_IN_FIELD", "Keresés a mezőben");

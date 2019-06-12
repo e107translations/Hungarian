@@ -4,9 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/25 10:26:44
+|        Last Modified: 2019/06/12 06:04:33
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +-------------------------------------------------------------------------+
 */
@@ -76,5 +77,6 @@ define("LAN_CRON_61", "Új cron jelszó létrehozása");
 define("LAN_CRON_62", "Végrehajtó konfig funkció: [b][x][/b]");
 define("LAN_CRON_63", "A [b][x][/b] konfig funkció NEM található!");
 define("LAN_CRON_64", "A rendszergazda feladatok automatizálására használja az e107 Feladat ütemezőt.[br][br]A kezelő fülön, lehet szerkeszteni, törölni, és futtatni feladatokat.[br][br]Amikor szerkeszt egy feladatot, állítsa be a percet, órát, napot, a hónap vagy a hét napját, hogy mikor szeretné futtatni a feladatot.[br][br]Használja ezt * az egyes időszakokban történő futtatáshoz.[br][br]Használja az aktív tulajdonságot a feladat engedélyezéséhez.[br][br]Megjegyzés: Azt tanácsoljuk, hogy ne törölje a szabványos feladatokat.[br]");
-
-?>
+define("LAN_CRON_65", "A git téma tároló frissítése");
+define("LAN_CRON_66", "Nem található git repo!");
+define("LAN_CRON_67", "A téma mappában nem található git repo!");

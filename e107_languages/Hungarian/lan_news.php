@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/06/23 07:54:22
+|        Last Modified: 2019/10/08 09:05:14
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/e107translations/Hungarian/releases
@@ -38,6 +38,7 @@ define("LAN_NEWS_86", "Korábbi hírek");
 define("LAN_NEWS_87", "Legutóbbi hírek");
 define("LAN_NEWS_462", "Ebben a hónapban nem található hír.");
 define("LAN_NEWS_463", "Ebben a kategóriában még nincs hír közzétéve - kérlek nézz vissza később.");
+define("LAN_NEWS_464", "A megadott napra nem találhatóak hírek.");
 
 define("LAN_NEWS_100", " - ");
 define("LAN_NEWS_307", "Összes bejegyzés ebben a kategóriában: ");

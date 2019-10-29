@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/25 10:29:45
+|        Last Modified: 2019/10/29 9:44:32
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases 
+|        Web: https://github.com/e107translations/Hungarian/releases 
 |
 +---------------------------------------------------------------+
 */ 
@@ -49,9 +49,7 @@ define("LAN_MAILOUT_36", "Visszadobott Mail ellenőzés utáni törlése");
 define("LAN_MAILOUT_37", "Folyamatban");
 define("LAN_MAILOUT_38", "Kilép");
 define("LAN_MAILOUT_39", "Email küldés");
-define("LAN_MAILOUT_40", "Át kell nevezned az <b>e107.htaccess</b> fájlt <b>.htaccess</b> fájlra, itt");
 define("LAN_MAILOUT_41", "mielőtt levelet küldesz erről az oldalról.");
-
 define("LAN_MAILOUT_43", "Felhasználónév");
 define("LAN_MAILOUT_44", "Bejelentkezés");
 define("LAN_MAILOUT_45", "Felhasználó Email");
@@ -130,7 +128,6 @@ define("LAN_MAILOUT_129", "Lejárati dátum");
 define("LAN_MAILOUT_130", "Létrehozás dátuma");
 define("LAN_MAILOUT_131", "Küldés elkezdődött");
 define("LAN_MAILOUT_132", "Küldés befejezve!");
-//define("LAN_MAILOUT_133", "Forrás");
 define("LAN_MAILOUT_134", "Prioritás");
 define("LAN_MAILOUT_136", "Mail állapot");
 define("LAN_MAILOUT_137", "Mail Hivatkozás");
@@ -191,8 +188,6 @@ define("LAN_MAILOUT_191", "Elmentett Email-ek");
 define("LAN_MAILOUT_192", "Elküldött szóróanyagok");
 define("LAN_MAILOUT_193", "Függő szóróanyagok");
 define("LAN_MAILOUT_194", "Tartásban lévő szóróanyagok");
-//define("LAN_MAILOUT_195", "");
-//define("LAN_MAILOUT_196", "");
 define("LAN_MAILOUT_200", "Nincs tárgy megadva");
 define("LAN_MAILOUT_201", "Nem értelmezhető email adatok");
 define("LAN_MAILOUT_202", "Nincs szöveg az email-ben");
@@ -251,6 +246,7 @@ define("LAN_MAILOUT_254", "Elkészített email megtekintése");
 define("LAN_MAILOUT_255", "Elkészített Email, ID:");
 define("LAN_MAILOUT_256", "Vissza");
 define("LAN_MAILOUT_257", "Legenerált sablon");
+define("LAN_MAILOUT_259", "A Beállítások között nincs kiválasztva az 'e-mail cím forrás'.");
 define("LAN_MAILOUT_260", "Felhasználó-típus");
 define("LAN_MAILOUT_261", "SMTP Port");
 define("LAN_SEND", "Küldés");
@@ -265,4 +261,3 @@ define("LAN_MAILOUT_268", "Csak Fejlesztő Módban");
 define("LAN_MAILOUT_269", "Küldés később");
 define("LAN_MAILOUT_270", "SMTP kapcsolat tesztelése");
 define("LAN_MAILOUT_271", "Sikertelen azonosítás! Felhasználónév: [x] Jelszó: [y] ");
-?>

@@ -4,11 +4,14 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/03/19 14:04:14
+|        Last Modified: 2019/10/29 9:44:32
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/e107translations/Hungarian/releases 
+|
 +---------------------------------------------------------------+
-*/
+*/ 
+
 define("FORLAN_2", "Kérlek válassz, hogy véglegesen törölni szeretnéd-e a tisztitás során érintett bejegyzéseket, vagy inkább inaktív állapotba helyeznéd őket (nem lesznek törölve, de nem fognak megjelenni az oldalon).");
 define("FORLAN_7", "Fórum beállítások");
 define("FORLAN_8", "Fórum megtisztítva");
@@ -108,7 +111,7 @@ define("FORLAN_184", "Téma-nyitás engedélyezése");
 define("FORLAN_185", "Azon felhasználók csoporja, akik jogosultak lesznek új témákat létrehozni a fórumban.");
 define("FORLAN_186", "Témák oldalanként");
 define("FORLAN_187", "Az egy oldalon megjelenő témák száma.");
-define("FORLAN_189", "Klikk a 'törlés' gombra a bejelentés törléséhez.<br /><br />Klikk a 'megtekintés' gombra a topik/téma megtekintéséhez.");
+define("FORLAN_189", "Klikk a 'törlés' gombra a bejelentés törléséhez.[br][br]Klikk a 'megtekintés' gombra a topik/téma megtekintéséhez.[br][br]Ha értesítést szeretne kapni az új bejelentésekről, kérjük, nézze meg az [Értesítés beállítások] oldalt.");
 define("FORLAN_200", "Téma követés");
 define("FORLAN_201", "Engedélyezi a felhasználók számára a témák követését.");
 define("FORLAN_202", "Téma követés email értesítések");

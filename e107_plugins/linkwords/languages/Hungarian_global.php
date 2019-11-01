@@ -1,8 +1,16 @@
 <?php
+/*
++--------------------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2019/11/01 08:40:16
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/e107translations/Hungarian/releases
+|
++--------------------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LAN_PLUGIN_LINKWORDS_NAME", "Linkszó");
+define("LAN_PLUGIN_LINKWORDS_NAME", "Linkszavak");
 define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "A plugin linket rendel a megadott szavakhoz.");

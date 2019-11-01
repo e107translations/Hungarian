@@ -1,9 +1,16 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++--------------------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2019/11/01 08:40:16
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/e107translations/Hungarian/releases
+|
++--------------------------------------------------------------------------+
+*/
 define("LAN_DL_OPTIONS", "Beállítások");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Általános");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Bejelentés");
@@ -16,6 +23,7 @@ define("LAN_DL_SUBSUB_CAT", "Al-kategóriák megjelenítése");
 define("LAN_DL_SUBSUB_CAT_INFO", "Al-al-kategóriák megjelenítése a letöltések főoldalán");
 define("LAN_DL_SUBSUB_COUNT", "Kombinált kategória összegzés");
 define("LAN_DL_SUBSUB_COUNT_INFO", "Al-al-kategóriák összegzése legyen beleszámolva az Al-kategóriák összegzésébe");
+define("LAN_DL_BROKENDOWNLOADSREPORTS", "Hibás letöltési bejelentések");
 
 define("DOWLAN_1", "A letöltés hozzáadva!");
 define("DOWLAN_2", "A letöltés frissítve!");
@@ -95,7 +103,7 @@ define("DOWLAN_145", "A letöltést láthatják");
 define("DOWLAN_146", "Egyéni üzenet ha a letöltés-tiltás esetén");
 define("DOWLAN_148", "Jelöld be az időbélyeg, aktuális időre való frissítéséhez");
 define("DOWLAN_149", "URL");
-define("DOWLAN_150", "Admin értesítése meghiúsult letöltés esetén");
+
 define("DOWLAN_151", "A meghiúsult letöltés-bejelentést elérhetik");
 define("DOWLAN_152", "A fájl áthelyezése nem sikerült!");
 define("DOWLAN_153", "Fájl áthelyezése letöltési mappába");

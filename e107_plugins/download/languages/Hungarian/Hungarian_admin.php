@@ -144,6 +144,7 @@ define("DOWLAN_193", "Opció választása");
 define("DOWLAN_195", "Tükör-kiszolgáló típusa");
 define("DOWLAN_196", "lista");
 define("DOWLAN_197", "véletlenszerű");
+define("DOWLAN_199", "Bejelentő:");
 
 define("DOWLAN_HELP_1", "Segítség");
 define("DOWLAN_HELP_2", "<p>Letöltés hozzáadása/szerkesztése.</p><p>Add meg valamelyiket: fájl, URL vagy tükör-kiszolgáló.</p><p>Bizonyosodj meg arról, hogy van kiválasztva kategória, különben a letöltés nem fog megjelenni az oldalon.</p>");
@@ -155,6 +156,7 @@ define("DOWLAN_HELP_7", "Segítség a tükör-kiszolgálókhoz");
 define("DOWLAN_HELP_8", "Segítség a feltöltési listához");
 define("DOWLAN_HELP_9", "Segítség a feltöltési típusok");
 define("DOWLAN_HELP_10", "Segítség a feltöltési beállításokhoz");
+define("DOWLAN_HELP_11", "A bejelentés törléséhez kattintson a 'törlés' gombra.[br][br]A letöltés megtekintéséhez és kezeléséhez kattintson a 'megtekintés' gombra.[br][br]Ha értesítést szeretne kapni az új bejelentésekről, kérjük, nézze meg az [értesítés beállításokat].");
 
 define("LAN_DL_SECURITY_DESCRIPTION", "A letöltések felhasználhatják a kiszolgálóoldali URL-védelmi funkciókat annak érdekében, hogy megakadályozzák a kapcsolat gyors összekapcsolását és / vagy érvényesítse a kapcsolat lejárati idejét. " .
 	"Ezt a szakaszt úgy kell beállítani, hogy a letöltési kiszolgáló úgy legyen beállítva, hogy csökkentse a letöltő felhasználók megzavarásának esélyét.");

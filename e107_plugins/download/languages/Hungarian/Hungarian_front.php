@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/12 11:15:43
+|        Last Modified: 2019/11/01 08:40:16
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -35,15 +35,10 @@ define("LAN_dl_46", "Kattints ide a letöltéshez");
 define("LAN_dl_47", "A letöltés jelentve lett");
 define("LAN_dl_48", "A letöltés jelentve lett az adminisztrátornak.<br>Köszönjük!");
 define("LAN_dl_49", "Kattints ide hogy visszatérj a letöltésekhez");
-define("LAN_dl_50", "Hibás letöltés bejelentése");
-define("LAN_dl_51", "A letöltés bejelentése: ");
+
 define("LAN_dl_53", "A letöltés megtekintése");
 define("LAN_dl_54", "Egy adminisztrátor értesítve lesz erről a letöltésről, kérlek hagyj egy üzenetet ha szükséges.");
 define("LAN_dl_55", "Csak a letöltéssel kapcsolatos célokra használd ezt az űrlapot.");
-define("LAN_dl_57", "bejelentette");
-define("LAN_dl_58", "A következő letöltés jelentve lett, mint hibás letöltés");
-define("LAN_dl_59", "Bejelentette: ");
-define("LAN_dl_60", "Hibás letöltés bejelentése innen: ");
 
 define("LAN_dl_62", "A weboldal megakadályozta a fájl letöltését, elérted a letöltési kvótát");
 define("LAN_dl_63", "Nincs megfelelő jogosultságod a fájl letöltéséhez!");
@@ -59,4 +54,4 @@ define("LAN_dl_74", "Összes letöltés erről a tükör-kiszolgálóról: ");
 define("LAN_dl_75", "nincs elérhető kép");
 define("LAN_dl_77", "Letöltések");
 define("LAN_dl_78", "Ez a letöltés többé nem elérhető, vagy inaktív. Kérlek ellenőrizd az [admin oldalon].");
-?>
+define("LAN_dl_79", "Nincs megfelelő engedélyed a letöltött elem sérültként való bejelentésére!");

@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2018/10/13 07:20:11
+|        Last Modified: 2019/12/09 08:52:33
 |
 |        $Author: Yesszus $
 |        Web: Web: https://github.com/e107translations/Hungarian/releases
@@ -422,3 +422,8 @@ define("LANINS_131", "A parkolt domain, amely az Ön új e107 weboldala lesz.");
 define("LANINS_132", "domain.com");
 define("LANINS_133", "Itt hozhat létre egy új e107 telepítést a megadott domain név alá. Használja a szerver adminisztrációs szoftverét (p.l.: cPanel) - a domainjét parkolja a [x] domain név felé.");
 define("LAN_UI_FILTER_SEARCH_IN_FIELD", "Keresés a mezőben");
+define("LAN_ROBOTS", "Robotok");
+define("LAN_ROBOTS_NOINDEX", "Megakadályozhatja, hogy a keresőmotorok indexeljék ezt az elemet.");
+define("LAN_ROBOTS_NOFOLLOW", "Megakadályozhatja, hogy a keresőmotorok kövessék az elemben található hivatkozásokat.");
+define("LAN_ROBOTS_NOARCHIVE", "Megakadályozhatja, hogy az elem tárolt másolata megjelenjen a keresési eredmények között.");
+define("LAN_ROBOTS_NOIMAGE", "Megakadályozhatja, hogy a keresőmotorok indexeljék az elem képeit.");

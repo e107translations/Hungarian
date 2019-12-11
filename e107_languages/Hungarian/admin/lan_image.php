@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/10/15 18:38:21
+|        Last Modified: 2019/12/11 08:11:34
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +---------------------------------------------------------------+
 */
@@ -198,3 +198,4 @@ define("IMALAN_182", "Importálás közben konvertálja jpeg formátumba");
 define("IMALAN_183", "A PNG és a GIF fájlok automatikusan átkonvertálódnak jpeg formátumba. (kizárt ikonok)");
 define("IMALAN_184", "Alapértelmezett Kép Méretek");
 define("IMALAN_185", "Maximum magasság pixel-ben");
+define("IMALAN_186", "Írjon be egy szöveget az eredmények szűréséhez");

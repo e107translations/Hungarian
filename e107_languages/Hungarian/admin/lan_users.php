@@ -240,7 +240,7 @@ define("USRLAN_253", "Régebbi mint");
 define("USRLAN_254", "  Összes jelszó visszaállítása");
 define("USRLAN_255", "Felhasználó Értesítés");
 define("USRLAN_256", "Kedves");
-define("USRLAN_257", "Engedélyezi a felhsználók számára a fiókjuk törlését?");
+define("USRLAN_257", "Engedélyezi a felhasználók számára a fiókjuk törlését?");
 
 define("UCSLAN_1", "Email értestés küldése a következőnek");
 define("UCSLAN_2", "Frissített jogosultságok");

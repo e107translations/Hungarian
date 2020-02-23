@@ -1,15 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:08:21
+|        Last Modified: 2020/02/23 07:19:44
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 */
 
 define("LAN_AUDIT_LOG_001", "Hozzáférési kisérlet kitiltott felhasználó által");
@@ -161,6 +161,7 @@ define("LAN_AL_WELCOME_04", "Üdvözlő üzenet beállítások megváltoztatva")
 define("LAN_AL_WELCOME_05", "");
 
 define("LAN_AL_ADMINPW_01", "Admin jelszó megváltoztatva");
+define("LAN_AL_ADMINPW_02", "Admin jelszó újra-hashelve");
 
 define("LAN_AL_BANNER_00", "Ismeretlen reklámmal kapcsolatos üzenet");
 define("LAN_AL_BANNER_01", "Reklám menü frissítve");
@@ -297,4 +298,3 @@ define("LAN_AL_MEDIA_01", "Média feltöltés");
 
 define("LAN_AL_USET_100", "Admin bejelentkezés másik felhasználóként");
 define("LAN_AL_USET_101", "Admin kijelentkezés másik felhasználóként");
-?>

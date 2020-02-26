@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2018/10/13 06:11:43
+|        Last Modified: 2020/02/26 16:15:12
 |
 |        $Author: Yesszus $
-|        Web: Web: https://github.com/e107translations/Hungarian/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -37,17 +37,17 @@ define("LANHELP_20", "Óriás");
 define("LANHELP_21", "Klikkelj a Színek-párbeszédablakhoz ...");
 define("LANHELP_22", "Klikkelj a Méretek-párbeszédablakhoz  ...");
 
-define("LANHELP_23", "Link beszúrása: [link]http://teoldalad.hu[/link] vagy  [link=http://teoldalad.hu]A te oldalad[/link]");
-define("LANHELP_24", "Félkövér: [b]Félkövér szöveg[/b]", "font-weight:bold; width: 20px");
-define("LANHELP_25", "Dőlt: [i]Dőlt szöveg[/i]", "font-style:italic; width: 20px");
-define("LANHELP_26", "Aláhúzott: [u]Aláhúzott szöveg[/u]", "text-decoration: underline; width: 20px");
-define("LANHELP_27", "Kép beszúrása: [img]kép.jpg[/img]");
-define("LANHELP_28", "Középre zárt: [center]Középre igazított szöveg[/center]");
-define("LANHELP_29", "Balra zárt: [left]Balra igazított szöveg[/left]");
-define("LANHELP_30", "Jobbra zárt: [right]Jobbra igazított szöveg[/right]");
+define("LANHELP_23", "Link beszúrása:\n[link]http://teoldalad.hu[/link] vagy  [link=http://teoldalad.hu]A te oldalad[/link]");
+define("LANHELP_24", "Félkövér:\n[b]Félkövér szöveg[/b]");
+define("LANHELP_25", "Dőlt:\n[i]Dőlt szöveg[/i]");
+define("LANHELP_26", "Aláhúzott:\n[u]Aláhúzott szöveg[/u]");
+define("LANHELP_27", "Kép beszúrása:\n[img]kép.jpg[/img]");
+define("LANHELP_28", "Középre zárt:\n[center]Középre igazított szöveg[/center]");
+define("LANHELP_29", "Balra zárt:\n[left]Balra igazított szöveg[/left]");
+define("LANHELP_30", "Jobbra zárt:\n[right]Jobbra igazított szöveg[/right]");
 define("LANHELP_31", "Idézés: [blockquote]Szöveg beágyazása[/blockquote]");
 define("LANHELP_32", "Kód - előre formázott szöveg: [code]\$foo = bah;[/code]");
-define("LANHELP_33", "HTML - megszünteti a sortöréseket: [html]<table><tr><td> stb.[/html]");
+define("LANHELP_33", "HTML - megszünteti a sortöréseket: [html]&lt;table&gt;&lt;tr&gt;&lt;td&gt; stb.[/html]");
 define("LANHELP_34", "[newpage] vagy [newpage=cím] Newpage kód beszúrása, a cikket több oldalra osztja");
 define("LANHELP_35", "hiperlink URL");
 define("LANHELP_36", "Rendezetlen lista: [list]line1*line2*line3[/list] Rendezett lista: [list=type]line1*line2*line3[/list]");
@@ -71,7 +71,7 @@ define("LANHELP_49", "Bekezdés: [p=class név]Bekezdés szöveg[/p]");
 define("LANHELP_50", "Fejléc: H2 [h]Fejléc szöveg[/h] vagy [h=2]Fejléc szöveg[/h]");
 define("LANHELP_51", "HTML sortörés tiltása: [nobr]szöveg[/nobr]");
 define("LANHELP_52", "HTML sortörés: [br]");
-define("LANHELP_53", "Sorkizárt: [justify]A szöveg sorkizárt lesz[/justify]");
+define("LANHELP_53", "Sorkizárt:\n[justify]A szöveg sorkizárt lesz[/justify]");
 define("LANHELP_54", "HTML blokk (div tag): [block]A Tartalom, szöveg[/block]");
 define("LANHELP_55", "Formátum");
 define("LANHELP_56", "Tábla beszúrása");

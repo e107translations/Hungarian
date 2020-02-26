@@ -4,14 +4,14 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:08:21
+|        Last Modified: 2020/02/26 16:26:33
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +---------------------------------------------------------------+
 */
-
+/*
 define("MESSLAN_1", "Fogadott üzenet");
 define("MESSLAN_2", "Üzenet törlése");
 define("MESSLAN_3", "Üzenet törölve.");
@@ -26,4 +26,4 @@ define("MESSLAN_10", "Küldő");
 define("MESSLAN_11", "megnyitás új ablakban");
 define("MESSLAN_12", "Üzenet");
 define("MESSLAN_13", "Link (Lánc)");
-?>
+*/

@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/04/22 13:43:21
+|        Last Modified: 2020/02/28 07:12:33
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +---------------------------------------------------------------------------+
 */
@@ -26,5 +26,3 @@ define("LAN_SOCIAL_203",  "Tweet üzenet írása.");
 define("LAN_SOCIAL_204",  "Megosztás");
 define("LAN_SOCIAL_205",  "A hozzászólásokat nem lehet betölteni! Hiányzik a Facebook appID.");
 define("LAN_SOCIAL_WARNING", "A Facebook hozzászólásokhoz szükséges egy facebook App ID.<br>Lépjen a 'Regisztráció/bejelentkezés' területre az admin felület=> beállításoknál.");
-
-?>

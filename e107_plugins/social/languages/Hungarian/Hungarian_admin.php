@@ -63,3 +63,4 @@ define("LAN_SOCIAL_ADMIN_47", "Hibás konfigurált szolgáltatók");
 define("LAN_SOCIAL_ADMIN_48", "Ezeket a közösségi bejelentkezési szolgáltatókat a múltban konfigurálta, de már nincs adapterük, amely támogathatja őket.[br]Ennek oka lehet, hogy már nem léteznek, vagy egy másik szolgáltató váltotta fel őket.");
 define("LAN_SOCIAL_ADMIN_49", "Teszt Oldal");
 define("LAN_SOCIAL_ADMIN_50", "A közösségi bejelentkezés tesztoldal engedélyezése vagy letiltása");
+define("LAN_SOCIAL_ADMIN_51", "Közösségi Bejelentkező Rendszer");

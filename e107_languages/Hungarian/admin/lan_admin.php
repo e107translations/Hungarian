@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/12/09 08:52:33
+|        Last Modified: 2020/03/31 13:58:44
 |
 |        $Author: Yesszus $
 |        Web: Web: https://github.com/e107translations/Hungarian/releases
@@ -345,12 +345,14 @@ define("LAN_UI_FILTER_PAST_HOUR", "Az elmúlt óra");
 define("LAN_UI_FILTER_PAST_24_HOURS", "Az elmúlt 24 óra");
 define("LAN_UI_FILTER_PAST_WEEK", "Az elmúlt hét");
 define("LAN_UI_FILTER_PAST_MONTH", "Az elmúlt hónap");
+define("LAN_UI_FILTER_PAST_XMONTHS", "Az elmúlt [x] hónap");
 define("LAN_UI_FILTER_PAST_YEAR", "Az elmúlt év");
 
 define("LAN_UI_FILTER_NEXT_HOUR", "A következő órában");
 define("LAN_UI_FILTER_NEXT_24_HOURS", "A következő 24 órában");
 define("LAN_UI_FILTER_NEXT_WEEK", "A következő héten");
 define("LAN_UI_FILTER_NEXT_MONTH", "A következő hónapban");
+define("LAN_UI_FILTER_NEXT_XMONTHS", "A következő [x] hónapban");
 define("LAN_UI_FILTER_NEXT_YEAR", "A következő évben");
 define("LAN_UI_FILTER_IS_EMPTY", "Semmi");
 

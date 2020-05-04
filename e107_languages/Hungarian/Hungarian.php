@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/02/27 10:57:32
+|        Last Modified: 2020/05/04 10:16:28
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/e107translations/Hungarian/releases
@@ -135,3 +135,4 @@ define("LAN_REQUIRED", "Kötelező");
 define("LAN_DATESTAMP","Dátumbélyeg");
 define("LAN_SUBJECT","Tárgy");
 define("LAN_CATEGORIES", "Kategóriák");
+define("LAN_DEVELOPERMODE_CHECK", "A fejlesztői mód engedélyezve van. Csak akkor használja ezt a módot, ha ténylegesen fejleszt. Ne felejtse el letiltani, ha ezt a weboldalt élőben használja.");

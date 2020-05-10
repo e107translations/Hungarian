@@ -135,4 +135,4 @@ define("LAN_REQUIRED", "Kötelező");
 define("LAN_DATESTAMP","Dátumbélyeg");
 define("LAN_SUBJECT","Tárgy");
 define("LAN_CATEGORIES", "Kategóriák");
-define("LAN_DEVELOPERMODE_CHECK", "A fejlesztői mód engedélyezve van. Csak akkor használja ezt a módot, ha ténylegesen fejleszt. Ne felejtse el letiltani, ha ezt a weboldalt élesben használja.");
+define("LAN_DEVELOPERMODE_CHECK", "[b]A fejlesztői mód engedélyezve van. Csak akkor használja ezt a módot, ha ténylegesen fejleszt![/b] [br]Ne felejtse el letiltani, ha ezt a weboldalt élőben használja.");

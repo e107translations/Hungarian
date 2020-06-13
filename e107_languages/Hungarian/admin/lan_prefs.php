@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/01/25 06:42:18
+|        Last Modified: 2020/06/13 10:35:24
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/e107translations/Hungarian/releases
@@ -285,3 +285,4 @@ define("PRFLAN_279", "Győződjön meg arról, hogy az url létezik! A legjobb, 
 define("PRFLAN_280", "A weboldalra vonatkozó feltételek URL címe");
 
 define("PRFLAN_281", "A 2 linket a weboldalon különböző oldalakon használhatjuk (pl. regisztráció és kapcsolat/menü).\nKérjük, hozzon létre 2 oldalt (ha még nem tette meg), amelyek tartalmazzák az 'Adatvédelmi irányelveket' és a weboldal 'Felhasználási feltételeit'.\nSzámos olyan webhely található, ahol létrehozhatja ezt a szöveget.\nMásolja át az oldalak URL-címét a fenti mezőkbe (pl. /page/privacy-policy,  /page/terms-and-conditions vagy page.php?id=2).\nElőször győződjön meg róla, hogy az oldalak és az URL címek léteznek és működnek-e!");
+define("PRFLAN_282", "Munkamenet mentési módszer");

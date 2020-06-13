@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/06/13 10:29:36
+|        Last Modified: 2020/06/13 10:29:36
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/e107translations/Hungarian/releases

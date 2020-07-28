@@ -105,6 +105,7 @@ define("TPVLAN_93", "Kiválasztás");
 define("TPVLAN_94", "A weboldal sablonja megváltoztatva erre: [x].");
 define("TPVLAN_95", "Felület");
 define("TPVLAN_96", "Állítsa be az URL/script-utakat, amelyek automatikusan használják ezt az elrendezést. Soronként egy.");
+define("TPVLAN_97", "Ehhez a témához az e107 újabb verziója szükséges.");
 
 define("TPVLANHELP_01", "A téma kezelő lehetővé teszi a webhely nyilvános és az adminisztrációs terület témájának beállítását.");
 define("TPVLANHELP_02", "A további részletekért nézze meg az eszköztippeket (ha elérhető).");

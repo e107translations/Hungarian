@@ -35,4 +35,3 @@ define("LAN_VALIDATE_203", "A fájl túllépte a megengedett fájl méretet");
 define("LAN_VALIDATE_204", "A fájl mérete kicsebb, mint a megengedett minimális fájl méret");
 
 define("LAN_VALIDATE_FAILMSG", "[x] hitelesítési hiba: [y] [z].");
-?>

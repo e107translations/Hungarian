@@ -265,4 +265,3 @@ define("USFLAN_7", "Felhasználó információ");
 define("USRLAN_AS_1", "Bejelentkezés, mint [x]");
 define("USRLAN_AS_2", "Kijelentkeztél, mint [x]");
 define("USRLAN_AS_3", "Bejelentkeztél egy másik felhasználónévvel. Először jelentkezz ki.");
-?>

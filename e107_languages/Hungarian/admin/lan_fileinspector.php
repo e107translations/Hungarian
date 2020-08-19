@@ -4,35 +4,35 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/10/13 07:34:21
+|        Last Modified: 2020/08/19 11:56:33
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +---------------------------------------------------------------+
 */
 define("FC_LAN_1", "Fájl Ellenőrző");
-define("FC_LAN_2", "Ellenőrzési beállítások");
-define("FC_LAN_3", "Megtekintés");
-define("FC_LAN_4", "Összes fájl");
+//define("FC_LAN_2", "Ellenőrzési beállítások");
+//define("FC_LAN_3", "Megtekintés");
+//define("FC_LAN_4", "Összes fájl");
 define("FC_LAN_5", "Core Fájlok");
 define("FC_LAN_6", "Csak az Integritás hibás");
 define("FC_LAN_7", "Nem Core Fájlok");
 define("FC_LAN_8", "Core Fájlok integritásainak ellenőrzése");
-define("FC_LAN_9", "Be");
-define("FC_LAN_10", "Ki");
+//define("FC_LAN_9", "Be");
+//define("FC_LAN_10", "Ki");
 define("FC_LAN_11", "Vizsgálat");
-define("FC_LAN_12", "Nincs");
+//define("FC_LAN_12", "Nincs");
 define("FC_LAN_13", "Hiányzó Core Fájlok");
 define("FC_LAN_14", "Eredmény megjelenítése");
 define("FC_LAN_15", "Könyvtár struktúra");
-define("FC_LAN_16", "Lista");
+//define("FC_LAN_16", "Lista");
 define("FC_LAN_17", "Feltétel összevetése");
 define("FC_LAN_18", "Pontos kifejezés");
 define("FC_LAN_19", "Ágak számának mutatása");
 define("FC_LAN_20", "Talált ágak megjelenítése");
 define("FC_LAN_21", "Elavult Core Fájlok");
-define("FC_LAN_22", "Szöveg egyezés kiemelése");
+//define("FC_LAN_22", "Szöveg egyezés kiemelése");
 define("FC_LAN_23", "Nyelvi fájlok kizárása");
 define("FC_LAN_24", "Core Mappa (Ellenőrzött)");
 define("FC_LAN_25", "Core Mappa (Hibás)");
@@ -87,10 +87,11 @@ define("FR_LAN_26", "Figyelmeztetés! Ismert biztonsági rés felismerve!");
 define("FR_LAN_27", "Ezek a fájlok, melyek ismertek, visszaélésre adhatnak lehetőséget és azonnal törölni kell.");
 define("FR_LAN_28", "Ismert veszélyes fájlok");
 
-define("FR_LAN_29", "Összes fájl egyezés");
-define("FR_LAN_30", "Összes sor egyezés");
-define("FR_LAN_31", "A bővítmények könyvtára hiányzik");
+//define("FR_LAN_29", "Összes fájl egyezés");
+//define("FR_LAN_30", "Összes sor egyezés");
+//define("FR_LAN_31", "A bővítmények könyvtára hiányzik");
 define("FR_LAN_32", "Először futtatnia kell az ellenőrzést!");
+define("FR_LAN_33", "Indítás");
 
 define("FS_LAN_1", "Pillanatkép készítése");
 define("FS_LAN_2", "A gyökérkönyvtár abszoludt útvonala a kép létrehozásához innen ");
@@ -104,4 +105,3 @@ define("FS_LAN_9", "Pillanatkép");
 define("FS_LAN_10", "Pillanatkép kész");
 define("FS_LAN_11", "A pillanatkép sikeresen létrehozva.");
 define("FS_LAN_12", "Vissza a főoldalra");
-?>

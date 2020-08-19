@@ -7,7 +7,7 @@
 |        Last Modified: 2020/03/31 13:58:44
 |
 |        $Author: Yesszus $
-|        Web: Web: https://github.com/e107translations/Hungarian/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */

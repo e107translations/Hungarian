@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/22 13:08:21
+|        Last Modified: 2020/10/01 11:54:33
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -38,7 +38,7 @@ define("COMLAN_310", "Ez a felhasználónév már regisztrálva van.
 Ha mégis te vagy, kérlek jelentkezz be.");
 define("COMLAN_312", "Duplikált bejegyzés - nem lett elfogadva.");
 define("COMLAN_313", "Hely");
-define("COMLAN_314", "hozzászólások moderálása");
+define("COMLAN_314", "Hozzászólások moderálása");
 define("COMLAN_315", "Visszakövetések");
 define("COMLAN_316", "Nincs visszakövetés a (hír-) bejegyzéshez.");
 define("COMLAN_317", "Visszakövetések moderálása");
@@ -77,5 +77,3 @@ define("COMLAN_TYPE_8", "Felhasználó profilja");
 define("COMLAN_TYPE_PAGE", "Tartalom");
 define("COMLAN_500", "Kérjük, hogy [jelentkezzen be] a hozzászólás beküldéséhez!");
 define("COMLAN_501", "Ön még nem regisztrált [IDE] kattintva megteheti!");
-
-?>

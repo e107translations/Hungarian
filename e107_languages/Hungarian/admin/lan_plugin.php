@@ -265,6 +265,7 @@ define ('EPL_ADLAN_253', "Befejezve!");
 define ('EPL_ADLAN_254', "Ez ellenőrzi a plugin nyelvi fájljait és megkeresi a hibákat, és a gyakori vagy duplikált LAN definíciókat.");
 define ('EPL_ADLAN_255', "Fájlok felülírása");
 define ('EPL_ADLAN_256', "[x] kihagyva (már létezik)");
+define ('EPL_ADLAN_257', "Csak olvasható");
 
 define ('LAN_RELEASED', "Megjelenés");
 define ('LAN_REPAIR_PLUGIN_SETTINGS', "Plugin beállítások visszaállítása");

@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/12/11 08:11:34
+|        Last Modified: 2020/12/13 12:12:24
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/e107translations/Hungarian/releases
@@ -22,12 +22,12 @@ define("LAN_IMA_002", "Nincs elég engedélyezett memória az elforgatáshoz");
 define("LAN_IMA_003", "Elforgatva");
 define("LAN_IMA_004", "Átméretezés");
 
-define("LAN_IMA_O_001", "Hír képek");
-define("LAN_IMA_O_002", "Hír [img] bbcode");
-define("LAN_IMA_O_003", "Oldal [img] bbcode");
-define("LAN_IMA_O_004", "Featurebox Képek");
-define("LAN_IMA_O_005", "Featurebox [img] bbcode (formázás)");
-define("LAN_IMA_O_006", "[img] bbcode (formázás)");
+//define("LAN_IMA_O_001", "Hír képek");
+//define("LAN_IMA_O_002", "Hír [img] bbcode");
+//define("LAN_IMA_O_003", "Oldal [img] bbcode");
+//define("LAN_IMA_O_004", "Featurebox Képek");
+//define("LAN_IMA_O_005", "Featurebox [img] bbcode (formázás)");
+//define("LAN_IMA_O_006", "[img] bbcode (formázás)");
 
 define("IMALAN_1", "Képek megjelenítésének engedélyezése");
 define("IMALAN_2", "Képek megjelenítése, ez érvényes az összes oldalra (hozzászólások, chatbox, stb.) ahol a képek beküldése a [img] bbcode által történik");
@@ -199,3 +199,6 @@ define("IMALAN_183", "A PNG és a GIF fájlok automatikusan átkonvertálódnak 
 define("IMALAN_184", "Alapértelmezett Kép Méretek");
 define("IMALAN_185", "Maximum magasság pixel-ben");
 define("IMALAN_186", "Írjon be egy szöveget az eredmények szűréséhez");
+define("IMALAN_187", "Importálás közben konvertálás webp-re");
+define("IMALAN_188", "Konvertálás webp-re a renderelés során");
+define("IMALAN_189", "A JPEG, PNG és GIF fájlok automatikusan webp formátumba konvertálódnak. (az ikonok kizárva)");

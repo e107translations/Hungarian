@@ -429,3 +429,4 @@ define("LAN_ROBOTS_NOINDEX", "Megakadályozhatja, hogy a keresőmotorok indexelj
 define("LAN_ROBOTS_NOFOLLOW", "Megakadályozhatja, hogy a keresőmotorok kövessék az elemben található hivatkozásokat.");
 define("LAN_ROBOTS_NOARCHIVE", "Megakadályozhatja, hogy az elem tárolt másolata megjelenjen a keresési eredmények között.");
 define("LAN_ROBOTS_NOIMAGE", "Megakadályozhatja, hogy a keresőmotorok indexeljék az elem képeit.");
+define("LAN_NAVIGATION", "Oldal linkek");

@@ -29,6 +29,7 @@ define("LAN_CRON_04_2", "Visszadobott újraindítottak eljárása.");
 define("LAN_CRON_04_3", "Csak akkor szükséges, ha kitiltottak újraindítása engedélyezve van.");
 define("LAN_CRON_05_1", "Adatbázis mentés");
 define("LAN_CRON_05_2", "Adatbázis mentés ide");
+define('LAN_CRON_06_1', "Folyamat tiltás feloldása");
 define("LAN_CRON_6", "Nem lehet importálni a beállításokat");
 define("LAN_CRON_7", "Nem lehet importálni a idő beállításokat");
 define("LAN_CRON_8", "Importált idő beállítások ehhez");

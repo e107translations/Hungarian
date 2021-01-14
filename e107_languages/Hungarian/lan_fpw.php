@@ -45,6 +45,7 @@ define('LAN_FPW18', "Jelszavad törlése kezdeményezve");
 define('LAN_FPW19', "Sikertelen email küldés");
 define('LAN_FPW20', "Sikeres email küldés");
 define('LAN_FPW21', "A felhasználó rákattintott a jelszó törlés linkre");
+define("LAN_FPW22", "Az oldalon regisztrált e-mail cím");
 
 define("LAN_FPW_100", "Új jelszó kérése");
 define("LAN_FPW_101", "Semmi gond. Csak add meg az email címedet, és elküldjük a további teendőket.");

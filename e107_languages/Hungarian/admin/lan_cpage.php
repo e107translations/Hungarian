@@ -54,6 +54,4 @@ define("CUSLAN_76", "Menü a következő útvonallal #");
 define("CUSLAN_77", "törölve");
 define("CUSLAN_78", "Nem lehet törölni a menüt ezzel az útvonallal");
 define("CUSLAN_79", "Adja meg az oldal vagy menü címét.");
-
-
-?>
+define("CUSLAN_80", "Al-Cím");

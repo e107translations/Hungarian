@@ -129,3 +129,4 @@ define("LAN_SIGNUP_121", "Másik e-mail cím használata");
 define("LAN_SIGNUP_122", "Adatvédelmi irányelvek");
 define("LAN_SIGNUP_123", "Felhasználási feltételek");
 define("LAN_SIGNUP_124", "A regisztrációval elfogadjs az [x]et és a [y]et.");
+define("LAN_SIGNUP_125", "Min. [x] karakter.");

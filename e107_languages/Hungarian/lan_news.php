@@ -41,6 +41,7 @@ define("LAN_NEWS_463", "Ebben a kategóriában még nincs hír közzétéve - k�
 define("LAN_NEWS_464", "A megadott napra nem találhatóak hírek.");
 
 define("LAN_NEWS_100", " - ");
+define("LAN_NEWS_300", "Be");
 define("LAN_NEWS_307", "Összes bejegyzés ebben a kategóriában: ");
 define("LAN_NEWS_308", "Talán keres egy hírt az alábbiakból?");
 define("LAN_NEWS_309", "Címke");

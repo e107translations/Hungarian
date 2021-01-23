@@ -33,6 +33,7 @@ define("LAN_UL_035", "Ismertetés megadása kötelező");
 define("LAN_UL_036", "Fájl megadása a feltöltéshez kötelező");
 define("LAN_UL_037", "Kategória megadása kötelező");
 define("LAN_UL_038", "");
+define("LAN_UL_039", "Küldés és feltöltés");
 
 define("LAN_61", "Neved: ");
 define("LAN_112", "Email Címed: ");
@@ -54,4 +55,3 @@ define("LAN_418", "Maximális fájlméret: ");
 define("DOWLAN_11", "Kategória");
 define("LAN_419", "Engedélyezett fájltípusok:");
 define("LAN_420", "mezők kitöltése kötelező");
-?>

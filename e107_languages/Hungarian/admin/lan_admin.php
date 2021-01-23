@@ -250,6 +250,8 @@ define("LAN_UPLOAD_SERVEROFF", "Ez az opció le van tiltva a szerveren, mint fá
 define("LAN_WIDTH", "Szélesség");
 define("LAN_ON","Be");
 define("LAN_OFF", "Ki");
+define("LAN_DISABLE", "Letilt");
+define("LAN_ENABLE", "Engedélyez");
 define("LAN_DISABLED", "Letiltva");
 define("LAN_ENABLED", "Engedélyezve");
 define("LAN_BOOL_REVERSE", "Felcserél");

@@ -89,6 +89,7 @@ define("LAN_NEXT", "Következő");
 define("LAN_PREVIOUS", "Előző");
 define("LAN_LOGIN", "Bejelentkezés");
 define("LAN_LOGOUT", "Kijelentkezés");
+define("LAN_VERIFY", "Ellenőrzés");
 define("LAN_SETTINGS", "Beállítások");
 define("LAN_PASSWORD", "Jelszó");
 define("LAN_INCORRECT_PASSWORD", "Érvénytelen jelszó");

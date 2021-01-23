@@ -236,6 +236,7 @@ define("LAN_FORUM_7006", "Eredmény");
 define("LAN_FORUM_7007", "Megtalálható egy témában");
 define("LAN_FORUM_7008", "NEM TALÁLHATÓ");
 define("LAN_FORUM_7009", "Nem található feltöltött fájl");
+define("LAN_FORUM_7010", "Fájlnév");
 define("LAN_FORUM_8001", "[x] egy új bejegyzést írt a(z) [y] témában ekkor: [z].");
 define("LAN_FORUM_8002", "Kéjük, kattintson a következő linkre a teljes bejegyzés megtekintéséhez...");
 define("LAN_FORUM_8003", "Az email értesítés be van kapcsolva a témához.");

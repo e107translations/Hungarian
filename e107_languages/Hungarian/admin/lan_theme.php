@@ -112,6 +112,7 @@ define("TPVLANHELP_02", "A további részletekért nézze meg az eszköztippeket
 define("TPVLANHELP_03", "Alapértelmezés szerint a láthatósági szűrő megváltoztatja a téma elrendezését egy részleges URL-egyezés alapján.");
 define("TPVLANHELP_04", "A sor végére tegyen egy [b]![/b] jelet, amely pontosan illeszkedik az URL végéhez.");
 define("TPVLANHELP_05", "A sor végére tegyen egy [b]![/b] jelet, amely pontosan illeszkedik a script-útvonal végéhez.");
+define("TPVLANHELP_06", "A sorok bekezdésének indítása [b]:[/b] részben vagy teljesen meg kell felelnie az e_ROUTE konstansnak.");
 
 define("TPVLAN_CONV_1", "1 lépés");
 define("TPVLAN_CONV_2", "2 lépés");

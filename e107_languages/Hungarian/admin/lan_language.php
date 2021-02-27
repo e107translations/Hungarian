@@ -70,3 +70,4 @@ define("LANG_LAN_151", "Elérhető");
 define("LANG_LAN_152", "Az [e107 fordító csapat] jóvoltából.");
 define("LANG_LAN_153", "Megjelenés előtti");
 define("LANG_LAN_154", "A nyelvi csomag sikeresen létrehozva! [Ide] kattinva elolvashatja az instrukciókat és továbbíthatja a  Github tárolóba.");
+define("LANG_LAN_155", "További nyelvi csomagok telepítése szükséges.");

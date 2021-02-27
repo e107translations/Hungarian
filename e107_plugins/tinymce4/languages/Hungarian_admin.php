@@ -15,4 +15,5 @@ define("TMCEALAN_3", "Engedélyezze ezt, ha a böngésző belső helyesírás-el
 define("TMCEALAN_4", "Látható Blokkok");
 define("TMCEALAN_5", "Engedélyezze, hogy a html blokk látható legyen a szerkesztés közben.");
 define("TMCEALAN_6", "CSS osztály kód kiemelése.");
-?>
+define("TMCEALAN_7", "A weboldal stilus használata");
+define("TMCEALAN_8", "Ha engedélyezve van, a szerkesztő a weboldal téma stílusát fogja használni. (ha támogatott)");

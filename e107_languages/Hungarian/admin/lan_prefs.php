@@ -286,3 +286,7 @@ define("PRFLAN_280", "A weboldalra vonatkozó feltételek URL címe");
 
 define("PRFLAN_281", "A 2 linket a weboldalon különböző oldalakon használhatjuk (pl. regisztráció és kapcsolat/menü).\nKérjük, hozzon létre 2 oldalt (ha még nem tette meg), amelyek tartalmazzák az 'Adatvédelmi irányelveket' és a weboldal 'Felhasználási feltételeit'.\nSzámos olyan webhely található, ahol létrehozhatja ezt a szöveget.\nMásolja át az oldalak URL-címét a fenti mezőkbe (pl. /page/privacy-policy,  /page/terms-and-conditions vagy page.php?id=2).\nElőször győződjön meg róla, hogy az oldalak és az URL címek léteznek és működnek-e!");
 define("PRFLAN_282", "Munkamenet mentési módszer");
+define("PRFLAN_283", "A navigációs sáv címkéinek megjelenítése");
+define("PRFLAN_284", "A navigációs oldalsáv alapértelmezés szerinti összecsukása");
+define("PRFLAN_285", "A mező súgójának megjelenítése");
+define("PRFLAN_286", "Tartalomszűrők");

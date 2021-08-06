@@ -100,7 +100,7 @@ define("LAN_YOUTUBE_VIDEO", "Youtube Videó");
 define("LAN_YOUTUBE_PLAYLIST", "Youtube Lejátszási lista");
 define("LAN_FILETYPES", "Fájltípusok");
 define("LAN_FILE_NOT_FOUND", "A fájl nem található");
-define("LAN_FILES", "Fájl");
+define("LAN_FILES", "F&aacute;jl");
 define("LAN_SIZE", "Méret");
 define("LAN_VERSION", "Verzió");
 define("LAN_DOWNLOAD", "Letöltés");

@@ -149,4 +149,4 @@ define("LAN_NEWS_108", "A SEF URL nem kapcsolható a hír címéhez!");
 define("LAN_NEWS_109", "Email értesítés küldése a hír beküldése/szerkesztése után.");
 define("LAN_NEWS_110", "Hírek Cache Időtúllépés");
 define("LAN_NEWS_111", "Percben. Csak, ha a rendszer gyorsítótár engedélyezve van.");
-?>
+define("LAN_NEWS_112", "Válassza ki az URL formátumát. Vagy a rekordok számát (pl. oldal = 20, oldal = 40, oldal = 60 stb.) vagy az oldalszámot (pl. oldal = 1, oldal = 2, oldal = 3 stb.). Figyelmeztetés: Ha módosít, akkor a hírek URL-jeit újra kell indexelni a keresőmotorok számára. ");

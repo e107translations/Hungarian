@@ -1,9 +1,4 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
 define("GSLAN_1", "Főmenü link");
 define("GSLAN_2", "Importálás?");
 
@@ -36,3 +31,4 @@ define("GSLAN_36", "Egyéni linket is létrehozhatsz manuálisan az 'Új bejegyz
 define("GSLAN_37", "Ha már rendelkezel néhány bejegyzéssel, akkor lépj a [URL] oldalra és add meg a következő URL-t: <b>'. SITEURL.' gsitemap.php</b> - ha ez az url nem jelenik meg megfelelően, akkor javítani kell az oldalad url-jét az admin -> beállítások felületen");
 define("GSLAN_38", "További információkhoz lépj a [URL] oldalra.");
 define("GSLAN_39", "Nem található link az oldaltérképben - szeretnél importálni linkeket?");
+define("GSLAN_50", "Nyilvánosan látható");

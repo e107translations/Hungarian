@@ -433,3 +433,4 @@ define("LAN_ROBOTS_NOARCHIVE", "Megakadályozhatja, hogy az elem tárolt másola
 define("LAN_ROBOTS_NOIMAGE", "Megakadályozhatja, hogy a keresőmotorok indexeljék az elem képeit.");
 define("LAN_NAVIGATION", "Navigáció");
 define("LAN_NAVIGATION_LINKS", "Oldal linkek");
+define("LAN_PAGINATION", "Lapszámozás");

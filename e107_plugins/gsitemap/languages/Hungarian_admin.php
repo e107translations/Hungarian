@@ -30,5 +30,5 @@ define("GSLAN_35", "Ha kiválasztottad a megfelelő linkeket, akkor nyomd meg az
 define("GSLAN_36", "Egyéni linket is létrehozhatsz manuálisan az 'Új bejegyzés létrehozása' gomb megnyomásával");
 define("GSLAN_37", "Ha már rendelkezel néhány bejegyzéssel, akkor lépj a [URL] oldalra és add meg a következő URL-t: <b>'. SITEURL.' gsitemap.php</b> - ha ez az url nem jelenik meg megfelelően, akkor javítani kell az oldalad url-jét az admin -> beállítások felületen");
 define("GSLAN_38", "További információkhoz lépj a [URL] oldalra.");
-define("GSLAN_39", "Nem található link az oldaltérképben - szeretnél importálni linkeket?");
+define("GSLAN_39", "Nem található link az oldaltérképben - szeretnél linkeket importálni?");
 define("GSLAN_50", "Nyilvánosan látható");

@@ -434,3 +434,4 @@ define("LAN_ROBOTS_NOIMAGE", "Megakadályozhatja, hogy a keresőmotorok indexelj
 define("LAN_NAVIGATION", "Navigáció");
 define("LAN_NAVIGATION_LINKS", "Oldal linkek");
 define("LAN_PAGINATION", "Lapszámozás");
+define("LAN_X_CHARS_REMAINING", "Felhasználható karakterek száma: [x]");

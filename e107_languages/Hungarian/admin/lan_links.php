@@ -44,3 +44,5 @@ define("LINKLAN_7", "Melyik link alá készítsen al-linket?");
 define("LINKLAN_8", "Hír kategóriák");
 define("LINKLAN_9", "Letöltés kategóriák");
 define("LINKLAN_10", "Sablon Rövidkódok");
+define("LINKLAN_11", "Kapcsolat");
+define("LINKLAN_12", "Opcionális 'rel' attribútum. Vesszővel elválasztva.");

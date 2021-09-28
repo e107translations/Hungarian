@@ -435,3 +435,4 @@ define("LAN_NAVIGATION", "Navigáció");
 define("LAN_NAVIGATION_LINKS", "Oldal linkek");
 define("LAN_PAGINATION", "Lapszámozás");
 define("LAN_X_CHARS_REMAINING", "Felhasználható karakterek száma: [x]");
+define("LAN_UI_BATCH_NOW", "Jelenlegi Dátum/Idő");

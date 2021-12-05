@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/01/15 11:15:43
+|        Last Modified: 2021/12/05 12:06:37
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -49,9 +49,9 @@ define("LAN_411", "Fájl");
 define("LAN_413", "Ismertetés");
 define("LAN_414", "Demó");
 define("LAN_415", "Add meg az oldal URL címét, ahol a demó elérhető");
-define("LAN_416", "Feltöltés");
-define("LAN_417", "Fájl feltöltése");
 define("LAN_418", "Maximális fájlméret: ");
-define("DOWLAN_11", "Kategória");
 define("LAN_419", "Engedélyezett fájltípusok:");
 define("LAN_420", "mezők kitöltése kötelező");
+
+define("LAN_UL_039", "Feltöltés"); 
+define("LAN_UL_040", "Fájl feltöltése");

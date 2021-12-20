@@ -202,3 +202,4 @@ define("IMALAN_186", "Írjon be egy szöveget az eredmények szűréséhez");
 define("IMALAN_187", "Importálás közben konvertálás webp-re");
 define("IMALAN_188", "Konvertálás webp-re a renderelés során");
 define("IMALAN_189", "A JPEG, PNG és GIF fájlok automatikusan webp formátumba konvertálódnak. (az ikonok kizárva)");
+define("IMALAN_190", "Ennek a fájltípusnak az importálása nem engedélyezett.");

@@ -12,7 +12,10 @@
 +--------------------------------------------------------------------------+
 */
 
-define("PAGE_NAME", "Feltöltés");
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Feltöltés");
+}
 
 define("LAN_UL_001","Érvénytelen email cím");
 define("LAN_UL_002", "Nincs jogosultságod fájl feltöltésre erre a szerverre.");

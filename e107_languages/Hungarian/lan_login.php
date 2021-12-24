@@ -33,7 +33,7 @@ define("LAN_LOGIN_20", "Kötelezően kitöltendő mezőket hagytál üresen");
 define("LAN_LOGIN_21", "Hibás bejelentkezés. A megadott adatok nem egyeznek egyik felhasználóéval sem. Tipp: a kis- és nagybetű nem azonos!");
 define("LAN_LOGIN_22", "A felhasználói fiókod még nem lett aktiválva. Kérlek ellenőrizd a postafiókodat hogy megkaptad-e az aktiváláshoz szükséges emailt. Ha nem, klikkelj [ide].");
 define("LAN_LOGIN_23", "Hibás igazolókódot.");
-define("LAN_LOGIN_24", "A felhasználónév már használatban van.");
+define("LAN_LOGIN_24", "Ez a felhasználó már be van jelentkezve és nem jelentkezhet be egy másik munkamenetből.");
 define("LAN_LOGIN_25", "Kitiltott felhasználó próbált bejelentkezni");
 define("LAN_LOGIN_26", "Hibás bejelentkezés - ismeretlen ok");
 define("LAN_LOGIN_27", "Inaktív felhasználói fiókkal kiséreltek meg bejelentkezni a");

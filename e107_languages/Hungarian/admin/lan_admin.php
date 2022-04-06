@@ -438,3 +438,5 @@ define("LAN_X_CHARS_REMAINING", "Felhasználható karakterek száma: [x]");
 define("LAN_UI_BATCH_NOW", "Jelenlegi Dátum/Idő");
 define("LAN_RELATIONSHIP", "Kapcsolat");
 define("LAN_RELATIONSHIP_HELP", "Opcionális 'rel' attributom. Vesszővel elválasztva.");
+define("LAN_NO_SCRIPT_ACCESS", "Nincs engedélye a [script] címkék használatára.");
+define("LAN_NO_SCRIPT_ACCESS_ASK",  "Ha úgy gondolja, hogy ez egy hiba, akkor kérje meg a főadmint, hogy adjon hozzáférést a szkripthez a következőn keresztül [b]Beállítások > Tartalom Szűrők[/b]");

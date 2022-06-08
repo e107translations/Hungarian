@@ -4,10 +4,9 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2020/03/31 13:58:44
+|        Last Modified: 2022/06/08
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/e107translations/Hungarian/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -440,3 +439,10 @@ define("LAN_RELATIONSHIP", "Kapcsolat");
 define("LAN_RELATIONSHIP_HELP", "Opcionális 'rel' attributom. Vesszővel elválasztva.");
 define("LAN_NO_SCRIPT_ACCESS", "Nincs engedélye a [script] címkék használatára.");
 define("LAN_NO_SCRIPT_ACCESS_ASK",  "Ha úgy gondolja, hogy ez egy hiba, akkor kérje meg a főadmint, hogy adjon hozzáférést a szkripthez a következőn keresztül [b]Beállítások > Tartalom Szűrők[/b]");
+
+define("LAN_UI_FILTER_TODAY", "Ma");
+define("LAN_UI_FILTER_THIS_WEEK", "Ezen a héten");
+define("LAN_UI_FILTER_THIS_MONTH", "Ebben a hónapban");
+define("LAN_UI_FILTER_THIS_YEAR", "Ebben az évben");
+
+define("LAN_SEARCH_ENGINES_X_LIMIT", "Keresőrobotok olvasása szerint. Maximum [x] karakter.");

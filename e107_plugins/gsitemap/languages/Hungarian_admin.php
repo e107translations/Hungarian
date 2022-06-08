@@ -34,3 +34,4 @@ define("GSLAN_39", "Nem található link az oldaltérképben - szeretnél linkek
 define("GSLAN_50", "Nyilvánosan látható");
 define("GSLAN_51", "Automatikusan generálva innen: [x]");
 define("GSLAN_52", "Miután létrehozta a bejegyzéseket, lépjen a [URL] oldalra, és írja be a következő URL-ek egyikét a Webhelytérképek részben.[SITEMAP_URLS]  (Ha ezen URL címek bármelyike helytelennek tűnik, kérjük, ellenőrizze, hogy a webhely URL-je helyes-e [preferences].)");
+define("GSLAN_53", "Instrukciók");

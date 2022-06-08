@@ -4,10 +4,9 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/10/15 18:38:21
+|        Last Modified: 2022/06/08
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -47,4 +46,5 @@ define("NF_LAN_1", "Fájl Események");
 define("NF_LAN_2", "Ha valaki feltöltött egy fájlt");
 
 define("LAN_NOTIFY_01", "Események");
-?>
+
+define("NU_LAN_10", "Megváltozott felhasználói IP cím");

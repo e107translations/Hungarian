@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2021/02/27 10:28:23
+|        Last Modified: 2022/06/08
 |
 |        $Author: Yesszus $
 +----------------------------------------------------------------------+
@@ -19,3 +19,5 @@ define("METLAN_4", "Egyéni címkék a ([x] címkéken belül)");
 define("METLAN_5", "Egyéni címkék a ([x] után)");
 define("METLAN_6", "Egyéni címkék a ([x] előtt)");
 define("METLAN_7", "Minden ide beírt metaadat vagy egyéni HTML-címke (például <script> címkék vagy Google elemzési kód) a weboldal minden oldalán megjelennek a kijelölt területeken. ");
+define("METLAN_8", "SEO cím karakter korlát");
+define("METLAN_9", "SEO ismertetés karakter korlát");

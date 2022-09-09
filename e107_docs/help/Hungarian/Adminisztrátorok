@@ -1,0 +1,6 @@
+
+Q>	Mik azok az engedélyek?
+A>	<font color=green>Az adminisztrátorok számára megadhatóak, hogy különböző hozzáférési szinteket kapjanak az adminisztrátor részhez.<br>Például, ha egy admin csak a híreket szerkesztheti; az engedély megadásával megteheti ezt.<br>Vannak olyan adminisztrációs funkciók, amelyek biztonsági okokból csak a webhely Fő adminisztrátora számára érhetők el.</font>
+
+Q>	Szeretnék egy meglévő regisztrált tagnak admin jogot adni - hogyan?
+A>	<font color=green>Kattintson a Felhasználók elemre, keresse meg a regisztrált tagot, majd kattintson az opciók résznél a lefelé mutató nyílra és azon belűl az Admin jogosultság kiosztása elemre.<br>Ezután menjen az Adminisztrátorok részhez és állítsa be a jogosultságait.<br>Ezenkívül bárkinek eltávolíthatja az adminisztrátor jogát.</font>

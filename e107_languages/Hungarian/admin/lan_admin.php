@@ -446,3 +446,5 @@ define("LAN_UI_FILTER_THIS_MONTH", "Ebben a hónapban");
 define("LAN_UI_FILTER_THIS_YEAR", "Ebben az évben");
 
 define("LAN_SEARCH_ENGINES_X_LIMIT", "Keresőrobotok olvasása szerint. Maximum [x] karakter.");
+define("LAN_META_TITLE", "Meta Cím");
+define("LAN_META_DESCRIPTION", "Meta Ismertetés");

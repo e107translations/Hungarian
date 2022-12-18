@@ -4,7 +4,7 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2019/11/01 08:40:16
+|        Last Modified: 2022/12/18
 |
 |        $Author: Yesszus $
 |        Web: https://github.com/e107translations/Hungarian/releases
@@ -78,10 +78,17 @@ define("DOWLAN_112", "Korlátozások");
 define("DOWLAN_113", "Felhasználói csoport");
 define("DOWLAN_114", "Korlátozás létrehozása");
 define("DOWLAN_115", "Korlátozás frissítése");
+define("DOWLAN_116", "Erre a felhasználói osztályra már létezik korlát");
+define("DOWLAN_117", "A korlátozás sikeresen hozzáadva");
+define("DOWLAN_118", "A korlátozás nem lett hozzáadva - ismeretlen hiba");
+define("DOWLAN_119", "A korlátozás sikeresen eltávolítva");
+define("DOWLAN_120", "A korlátozás nem lett eltávolítva - ismeretlen hiba");
+define("DOWLAN_121", "A korlátozás sikeresen frissítve lett");
 define("DOWLAN_122", "Inaktív");
 define("DOWLAN_123", "Aktív - korlátozások használatával");
 define("DOWLAN_124", "Aktív - korlátozások nélkül");
 define("DOWLAN_125", "A letöltési korlátok aktiválva!");
+define("DOWLAN_126", "Az aktiválási állapot frissítve");
 define("DOWLAN_128", "Tükör-kiszolgálók");
 define("DOWLAN_129", "hagyd üresen, ha nem használsz tükör-kiszolgálót");
 define("DOWLAN_130", "Tükör-kiszolgáló hozzáadása");

@@ -448,3 +448,7 @@ define("LAN_UI_FILTER_THIS_YEAR", "Ebben az évben");
 define("LAN_SEARCH_ENGINES_X_LIMIT", "Keresőrobotok olvasása szerint. Maximum [x] karakter.");
 define("LAN_META_TITLE", "Meta Cím");
 define("LAN_META_DESCRIPTION", "Meta Ismertetés");
+
+define("LAN_SYSTEM_NOTIFICATIONS_X", "[x] Rendszerértesítés(ek)");
+define("LAN_PHP_OUTDATED", "A webhelyén jelenleg [a PHP elavult verziója] fut, ami biztonsági kockázatot jelenthet. Ha a beépülő moduljai ezt lehetővé teszik, javasoljuk, hogy frissítsen [x] verzióra, hogy megbizonyosodjon arról, hogy a webhelye biztonságos és naprakész.");
+define("LAN_DATABASE_UPDATE", "Frissítés érhető el az adatbázisához. Javasoljuk, hogy a lehető leghamarabb végezze el [a frissítés futtatását], hogy megbizonyosodjon arról, hogy az adatbázisa biztonságos és naprakész.");

@@ -4,10 +4,10 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/05/17 21:28:48
+|        Last Modified: 2024/04/12
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|        Web: https://github.com/e107translations/Hungarian
 |
 +---------------------------------------------------------------+
 */
@@ -27,7 +27,8 @@ define("DBVLAN_13", "Hiányzó tábla!");
 define("DBVLAN_14", "Válaszd ki az ellenőrizendő táblá(ka)t");
 define("DBVLAN_15", "Ellenőrzés indítása");
 define("DBVLAN_16", "Adatbázis ellenőrzés");
-
+define("DBVLAN_17", "A tárolómotornak [x]-nek kell lennie, de az [y]");
+define("DBVLAN_18", "A karakterkészlet [x]-nek kell lennie, de az [y]");
 define("DBVLAN_19", "Javítás megkísérlése");
 
 define("DBVLAN_21", "Kijelöltek javítása");
@@ -36,4 +37,5 @@ define("DBVLAN_23", "Adatbázis programok");
 define("DBVLAN_24", "Válaszd ki műveletet.");
 define("DBVLAN_25", "Index hiányzik!");
 define("DBVLAN_26", "[x] tábla hibás.");
-?>
+define("DBVLAN_27", "Tábla inkonzisztencia");
+define("DBVLAN_28", "Nem alkalmazható");

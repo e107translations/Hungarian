@@ -57,3 +57,7 @@ define("CUSLAN_79", "Adja meg az oldal vagy menü címét.");
 define("CUSLAN_80", "Al-Cím");
 define("CUSLAN_81", "Meta kép");
 define("CUSLAN_82", "Opcionális. Használja ezt az oldal megosztásához a közösségi médiákban.");
+define("CUSLAN_83", "A Menükezelőben ezzel a névvel fog mejelenni a listában és használhatja {CMENU=name} az aktuális theme sablonban. Csak ASCII karaktereket és csak kisbetűket használjon.");
+define("CUSLAN_84", "A felirat megjelenik a menüpontban.");
+define("CUSLAN_85", "Hagyja üresen az alapértelmezett érték használatához");
+define("CUSLAN_86", "Hagyja üresen a megfelelő oldal használatához");

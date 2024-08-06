@@ -4,10 +4,9 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:12:49
+|        Last Modified: 2024/08/07
 |
 |        $Author: Yesszus $
-|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
 |
 +--------------------------------------------------------------------------+
 */
@@ -150,3 +149,5 @@ define("LAN_NEWS_109", "Email értesítés küldése a hír beküldése/szerkesz
 define("LAN_NEWS_110", "Hírek Cache Időtúllépés");
 define("LAN_NEWS_111", "Percben. Csak, ha a rendszer gyorsítótár engedélyezve van.");
 define("LAN_NEWS_112", "Válassza ki az URL formátumát. Vagy a rekordok számát (pl. oldal = 20, oldal = 40, oldal = 60 stb.) vagy az oldalszámot (pl. oldal = 1, oldal = 2, oldal = 3 stb.). Figyelmeztetés: Ha módosít, akkor a hírek URL-jeit újra kell indexelni a keresőmotorok számára. ");
+define("LAN_NEWS_113", "Csak a saját készítésű hírbejegyzések korlátozása");
+define("LAN_NEWS_114", "Engedélyezze ezt a beállítást, ha szeretné megakadályozni, hogy a csoport tagjai megtekinthessék és szerkeszthessék a más rendszergazdák által írt hírbejegyzéseket.");
